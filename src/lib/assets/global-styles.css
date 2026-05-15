@@ -1,0 +1,126 @@
+:root {
+	--brandDarkBlue: #1e3765;
+	--brandMedBlue: #007fa3;
+	--brandLightBlue: #6fc7ea;
+	--brandPurple: #6d247a;
+	--brandPink: #ab1368;
+	--brandDarkGreen: #0d534d;
+	--brandMedGreen: #00a189;
+	--brandLightGreen: #8dbf2e;
+	--brandRed: #dc4633;
+	--brandYellow: #f1c500;
+	--brandOrange: #eba00f;
+	--brandBlack: #000000;
+	--brandWhite: #ffffff;
+	--brandGray: #d0d1c9;
+	--brandGray50: #858585;
+	--brandGray70: #4d4d4d;
+	--brandGray90: #191919;
+}
+
+body {
+	padding: 0;
+	margin: 0;
+	background-color: var(--brandWhite);
+	color: var(--brandGray90);
+	font-family: "Space Grotesk", "IBM Plex Sans", "Segoe UI", sans-serif;
+	min-width: 360px;
+}
+
+main {
+	margin: 0 auto;
+	padding: 0;
+	width: 100%;
+	max-width: 1400px;
+}
+
+h1,
+h2,
+h3 {
+	font-weight: 600;
+	letter-spacing: -0.02em;
+	color: var(--brandBlack);
+}
+
+p {
+	line-height: 1.7;
+	font-size: 17px;
+}
+
+.text {
+	max-width: 720px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+.status {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	padding: 60px 20px;
+	min-height: 200px;
+	gap: 12px;
+}
+
+.status.error {
+	color: var(--brandRed);
+	border: 1px solid var(--brandRed);
+	border-radius: 6px;
+	padding: 20px;
+}
+
+.filter-row {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 20px;
+	align-items: center;
+}
+
+.filter-group {
+	display: flex;
+	flex-direction: column;
+	gap: 6px;
+	margin-bottom: 12px;
+}
+
+.filter-label {
+	font-size: 12px;
+	font-weight: 600;
+	letter-spacing: 0.04em;
+	text-transform: uppercase;
+	color: var(--brandGray70);
+}
+
+.select-input {
+	min-width: 240px;
+	padding: 8px 12px;
+	border: 1px solid var(--brandGray);
+	border-radius: 6px;
+	background: var(--brandWhite);
+	color: var(--brandGray90);
+	font-size: 14px;
+}
+
+.legend {
+	display: flex;
+	gap: 12px;
+	align-items: center;
+	flex-wrap: wrap;
+	font-size: 13px;
+	color: var(--brandGray70);
+}
+
+.legend-swatch {
+	height: 10px;
+	width: 60px;
+	border-radius: 999px;
+	background: linear-gradient(90deg, #f7fbff, #6baed6, #08306b);
+}
+
+.page {
+	padding: 20px 24px 80px;
+	display: flex;
+	flex-direction: column;
+	gap: 24px;
+}
