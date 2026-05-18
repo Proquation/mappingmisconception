@@ -1,27 +1,24 @@
 <script>
 	import { onDestroy, onMount } from 'svelte';
-	/** @type {any} */
 	let maplibregl;
 
-	/** @type {any[]} */
 	export let features = [];
-	/** @type {{ min: number; max: number }} */
 	export let valueRange = { min: 0, max: 1 };
 	export let metricLabel = '';
+	export let metricVector = '';
 	export let yearLabel = '';
 
-	/** @type {any} */
 	let map;
-	/** @type {any} */
 	let mapContainer;
 	let mapLoaded = false;
-	/** @type {any} */
 	let popup;
 
+	const boundaryBasePath = '/geojson/csd_enriched_simplified';
 	const provinceLinesPath = '/geojson/province-state-lines.geojson';
-	const populatedPlacesPath = '/geojson/populated-places-canada.geojson';
+	const populatedPlacesPath = '';
 
-	/** @param {any[]} rows */
+	let lastSelectionKey = '';
+
 	function toGeoJson(rows) {
 		return {
 			type: 'FeatureCollection',
@@ -33,7 +30,6 @@
 		};
 	}
 
-	/** @param {number} value */
 	function formatValue(value) {
 		if (!Number.isFinite(value)) return 'N/A';
 		if (Math.abs(value) < 1) return `${(value * 100).toFixed(1)}%`;
@@ -41,34 +37,10 @@
 		return value.toFixed(3);
 	}
 
-	/** @param {number} value */
-	function formatSignedValue(value) {
-		if (!Number.isFinite(value)) return 'N/A';
-		const formatted = formatValue(Math.abs(value));
-		return `${value > 0 ? '+' : value < 0 ? '-' : ''}${formatted}`;
+	function getBoundaryPath(extension) {
+		return `${boundaryBasePath}.${extension}`;
 	}
 
-	/** @param {unknown} value */
-	function escapeHtml(value) {
-		return String(value ?? '').replace(/[&<>"']/g, (character) => {
-			switch (character) {
-				case '&':
-					return '&amp;';
-				case '<':
-					return '&lt;';
-				case '>':
-					return '&gt;';
-				case '"':
-					return '&quot;';
-				case "'":
-					return '&#39;';
-				default:
-					return character;
-			}
-		});
-	}
-
-	/** @param {string} path @param {string} sourceId @param {string} layerId @param {string} layerType @param {() => void} addLayer */
 	async function addGeoJsonLayer(path, sourceId, layerId, layerType, addLayer) {
 		const response = await fetch(path);
 		if (!response.ok) return false;
@@ -78,44 +50,16 @@
 		return true;
 	}
 
-	/** @param {any} event */
-	function handleMetricPolygonClick(event) {
-		if (!event.features?.length) return;
-		const props = event.features[0].properties;
-		if (popup) popup.remove();
-		popup = new maplibregl.Popup({ closeButton: true, closeOnClick: true })
-			.setLngLat(event.lngLat)
-			.setHTML(
-				`<div style="font-family: 'Space Grotesk', sans-serif; font-size: 13px; line-height: 1.4; min-width: 220px;">
-					<div style="font-weight: 700; margin-bottom: 4px;">${escapeHtml(props.region)}</div>
-					<div style="margin-bottom: 6px; color: #475569;">${escapeHtml(props.province)}</div>
-					<div style="font-size: 12px; text-transform: uppercase; letter-spacing: 0.04em; color: #64748b;">${escapeHtml(metricLabel)} (${escapeHtml(yearLabel)})</div>
-					<div style="margin-top: 8px; font-weight: 700; font-size: 15px;">Value: ${formatValue(Number(props.value))}</div>
-					<div style="margin-top: 4px; color: #0f172a;">Province: ${formatValue(Number(props.provinceValue))}</div>
-					<div style="margin-top: 4px; color: #0f172a;">Compared to province: ${formatSignedValue(Number(props.diffFromProvince))} (${Number.isFinite(Number(props.ratioToProvince)) ? `${Number(props.ratioToProvince).toFixed(2)}x province` : 'N/A'})</div>
-				</div>`
-			)
-			.addTo(map);
-	}
-
-	function updateData() {
+	function updatePolygonPaint() {
 		if (!mapLoaded || !map) return;
-		const source = map.getSource('metric-polygons');
-		const geojson = toGeoJson(features);
-		if (source) {
-			source.setData(geojson);
-		}
-	}
-
-	function updatePaint() {
-		if (!mapLoaded || !map) return;
+		if (!map.getLayer('metric-fill')) return;
 		const min = Number.isFinite(valueRange?.min) ? valueRange.min : 0;
 		const max = Number.isFinite(valueRange?.max) ? valueRange.max : 1;
 		const safeMax = Math.max(min + 0.0001, max);
-		map.setPaintProperty('metric-polygons-fill', 'fill-color', [
+		map.setPaintProperty('metric-fill', 'fill-color', [
 			'interpolate',
 			['linear'],
-			['get', 'value'],
+			['coalesce', ['get', 'value'], min],
 			min,
 			'#f7fbff',
 			(min + safeMax) / 2,
@@ -123,12 +67,24 @@
 			safeMax,
 			'#08306b'
 		]);
-		map.setPaintProperty('metric-polygons-fill', 'fill-opacity', 0.82);
+	}
+
+	function updatePolygonData() {
+		if (!mapLoaded || !map) return;
+		const source = map.getSource('metric-polygons');
+		if (!source) return;
+		source.setData(toGeoJson(features));
+		console.info('Map polygons updated:', features.length);
 	}
 
 	$: if (mapLoaded) {
-		updateData();
-		updatePaint();
+		updatePolygonData();
+		updatePolygonPaint();
+		const selectionKey = `${metricVector}|${yearLabel}`;
+		if (selectionKey !== lastSelectionKey) {
+			if (popup) popup.remove();
+			lastSelectionKey = selectionKey;
+		}
 	}
 
 	onMount(async () => {
@@ -146,34 +102,29 @@
 			pitch: 0,
 			bearing: 0,
 			scrollZoom: true,
-			attributionControl: false
+			attributionControl: false,
+			projection: 'globe'
 		});
 
 		map.addControl(new maplibregl.NavigationControl({ showCompass: true, showZoom: true }), 'bottom-left');
 
 		map.on('load', async () => {
-				map.addSource('metric-polygons', { type: 'geojson', data: toGeoJson(features) });
+			console.info('Map loaded');
+			map.addSource('metric-polygons', { type: 'geojson', data: toGeoJson(features) });
 
-				map.addLayer({
-					id: 'metric-polygons-fill',
-					type: 'fill',
-					source: 'metric-polygons',
-					paint: {
-						'fill-color': '#f7fbff',
-						'fill-opacity': 0.82
-					}
-				});
+			map.addLayer({
+				id: 'metric-fill',
+				type: 'fill',
+				source: 'metric-polygons',
+				paint: { 'fill-color': '#e0e0e0', 'fill-opacity': 0.72 }
+			});
 
-				map.addLayer({
-					id: 'metric-polygons-outline',
-					type: 'line',
-					source: 'metric-polygons',
-					paint: {
-						'line-color': 'rgba(15, 23, 42, 0.45)',
-						'line-width': 0.7,
-						'line-opacity': 0.7
-					}
-				});
+			map.addLayer({
+				id: 'metric-outline',
+				type: 'line',
+				source: 'metric-polygons',
+				paint: { 'line-color': '#8a97a6', 'line-width': 0.6, 'line-opacity': 0.65 }
+			});
 
 			try {
 				await addGeoJsonLayer(provinceLinesPath, 'province-state-lines', 'province-state-lines', 'line', () => {
@@ -190,44 +141,37 @@
 				});
 				console.info('Loaded province-state lines');
 			} catch (err) {
-				console.warn('Province-state lines unavailable:', /** @type {any} */ (err)?.message ?? err);
+				console.warn('Province-state lines unavailable:', err?.message ?? err);
 			}
 
-			try {
-				await addGeoJsonLayer(populatedPlacesPath, 'populated-places', 'populated-places', 'circle', () => {
-					map.addLayer({
-						id: 'populated-places-label',
-						type: 'symbol',
-						source: 'populated-places',
-						minzoom: 4.5,
-						layout: {
-							'text-field': ['get', 'name'],
-							'text-size': ['interpolate', ['linear'], ['zoom'], 4.5, 10, 8, 12],
-							'text-offset': [0, 0.85],
-							'text-anchor': 'top',
-							'text-allow-overlap': false,
-							'text-font': ['Open Sans Semibold', 'Arial Unicode MS Bold']
-						},
-						paint: {
-							'text-color': '#1f2937',
-							'text-halo-color': '#ffffff',
-							'text-halo-width': 1.2
-						}
-					});
-				});
-				console.info('Loaded populated places');
-			} catch (err) {
-				console.warn('Populated places unavailable:', /** @type {any} */ (err)?.message ?? err);
-			}
+			// Populated places disabled.
 
-			updatePaint();
+			updatePolygonData();
+			updatePolygonPaint();
 
-			map.on('click', 'metric-polygons-fill', handleMetricPolygonClick);
+			map.on('click', 'metric-fill', (event) => {
+				if (!event.features?.length) return;
+				const props = event.features[0].properties;
+				const region = props?.region || 'Unknown';
+				const province = props?.province || '';
+				if (popup) popup.remove();
+				popup = new maplibregl.Popup({ closeButton: true, closeOnClick: true })
+					.setLngLat(event.lngLat)
+					.setHTML(
+						`<div style="font-family: 'Space Grotesk', sans-serif; font-size: 13px; line-height: 1.4;">
+							<div style="font-weight: 600; margin-bottom: 4px;">${region}</div>
+							<div>${province}</div>
+							<div>${metricLabel} (${yearLabel})</div>
+							<div style="margin-top: 4px; font-weight: 600;">${formatValue(Number(props?.value))}</div>
+						</div>`
+					)
+					.addTo(map);
+			});
 
-			map.on('mouseenter', 'metric-polygons-fill', () => {
+			map.on('mouseenter', 'metric-fill', () => {
 				map.getCanvas().style.cursor = 'pointer';
 			});
-			map.on('mouseleave', 'metric-polygons-fill', () => {
+			map.on('mouseleave', 'metric-fill', () => {
 				map.getCanvas().style.cursor = '';
 			});
 

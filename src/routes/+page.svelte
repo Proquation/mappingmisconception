@@ -6,7 +6,7 @@
 	import '$lib/assets/global-styles.css';
 
 	const yearOptions = [2016, 2021];
-	const enrichedGeoJsonPath = (year) => `${base}/geojson/csd_enriched_${year}.geojson`;
+	const enrichedGeoJsonPath = () => `${base}/geojson/csd_enriched_simplified.geojson`;
 
 	let isLoading = true;
 	let loadError = '';
@@ -110,36 +110,47 @@
 		}
 	}
 
+	// function normalizePolygonFeature(feature) {
+	// 	const properties = feature?.properties ?? {};
+	// 	const value = Number(properties.csd_value);
+	// 	const provinceValue = Number(properties.province_value);
+	// 	const diffFromProvince = Number(properties.diff_from_province);
+	// 	const ratioToProvince = Number(properties.ratio_to_province);
+
+	// 	return {
+	// 		type: 'Feature',
+	// 		geometry: feature?.geometry ?? null,
+	// 		properties: {
+	// 			geoid: String(properties.GeoUID || properties.GEOUID || properties.CSDUID || '').trim(),
+	// 			region: String(properties['Region Name'] || properties.CSDNAME || '').trim(),
+	// 			province: String(properties.province_name || '').trim(),
+	// 			vector: String(properties.vector || '').trim(),
+	// 			label: String(properties.label || '').trim(),
+	// 			value: Number.isFinite(value) ? value : null,
+	// 			provinceValue: Number.isFinite(provinceValue) ? provinceValue : null,
+	// 			diffFromProvince: Number.isFinite(diffFromProvince) ? diffFromProvince : null,
+	// 			ratioToProvince: Number.isFinite(ratioToProvince) ? ratioToProvince : null
+	// 		}
+	// 	};
+	// }
+
 	function normalizePolygonFeature(feature) {
 		const properties = feature?.properties ?? {};
-		const value = Number(properties.csd_value);
-		const provinceValue = Number(properties.province_value);
-		const diffFromProvince = Number(properties.diff_from_province);
-		const ratioToProvince = Number(properties.ratio_to_province);
-
 		return {
 			type: 'Feature',
 			geometry: feature?.geometry ?? null,
-			properties: {
-				geoid: String(properties.GeoUID || properties.GEOUID || properties.CSDUID || '').trim(),
-				region: String(properties['Region Name'] || properties.CSDNAME || '').trim(),
-				province: String(properties.province_name || '').trim(),
-				vector: String(properties.vector || '').trim(),
-				label: String(properties.label || '').trim(),
-				value: Number.isFinite(value) ? value : null,
-				provinceValue: Number.isFinite(provinceValue) ? provinceValue : null,
-				diffFromProvince: Number.isFinite(diffFromProvince) ? diffFromProvince : null,
-				ratioToProvince: Number.isFinite(ratioToProvince) ? ratioToProvince : null
-			}
+			properties  // keep ALL raw properties as-is
 		};
 	}
 
-	async function loadPolygonFeatures(year) {
-		const response = await fetch(enrichedGeoJsonPath(year));
+	async function loadPolygonFeatures() {
+		console.info('Loading polygon GeoJSON...');
+		const response = await fetch(enrichedGeoJsonPath());
 		if (!response.ok) {
-			throw new Error(`Missing polygon file: csd_enriched_${year}.geojson`);
+			throw new Error('Missing polygon file: csd_enriched_simplified.geojson');
 		}
 		const geojson = await response.json();
+		console.info('Polygon GeoJSON loaded:', geojson?.features?.length ?? 0, 'features');
 		return (geojson.features || []).map(normalizePolygonFeature).filter((feature) => feature.geometry);
 	}
 
@@ -147,25 +158,26 @@
 		isLoading = true;
 		loadError = '';
 		try {
-			const [csvResponse, polygons] = await Promise.all([
-				fetch(`${base}/csd_vs_province_${year}.csv`),
-				loadPolygonFeatures(year)
-			]);
+			console.info('Loading CSV for year:', year);
+			const csvResponse = await fetch(`${base}/csd_vs_province_${year}.csv`);
+			if (!csvResponse.ok) throw new Error(`Failed to load csd_vs_province_${year}.csv`);
 
-			if (!csvResponse.ok) {
-				throw new Error(`Failed to load csd_vs_province_${year}.csv`);
+			// Only load polygons once
+			if (!polygonFeatures.length) {
+				polygonFeatures = await loadPolygonFeatures();
 			}
+
 			const csv = await csvResponse.text();
-			const rows = csvParse(csv).map(parseMetricRow).filter((row) => row.geoid && row.vector);
-			rawRows = rows;
-			polygonFeatures = polygons;
-			metricOptions = normalizeMetricOptions(rows);
-			if (!metricOptions.find((option) => option.vector === selectedMetricVector)) {
+			rawRows = csvParse(csv).map(parseMetricRow).filter((r) => r.geoid && r.vector);
+			console.info('CSV rows loaded:', rawRows.length);
+			metricOptions = normalizeMetricOptions(rawRows);
+			console.info('Metric options:', metricOptions.length);
+			if (!metricOptions.find((o) => o.vector === selectedMetricVector)) {
 				selectedMetricVector = metricOptions[0]?.vector ?? '';
 			}
 		} catch (error) {
-			console.error('Error loading misconception data:', error);
-			loadError = error?.message || 'Unable to load misconception data.';
+			console.error('Error loading data:', error);
+			loadError = error?.message || 'Unable to load data.';
 		} finally {
 			isLoading = false;
 		}
@@ -177,30 +189,49 @@
 			valueRange = { min: 0, max: 1 };
 			return;
 		}
-		const mapped = polygonFeatures
-			.filter((feature) => feature.properties.vector === selectedMetricVector)
-			.map((feature) => ({
-				type: 'Feature',
-				geometry: feature.geometry,
-				properties: {
-					geoid: feature.properties.geoid,
-					region: feature.properties.region,
-					province: feature.properties.province,
-					vector: feature.properties.vector,
-					label: feature.properties.label,
-					value: feature.properties.value,
-					provinceValue: feature.properties.provinceValue,
-					diffFromProvince: feature.properties.diffFromProvince,
-					ratioToProvince: feature.properties.ratioToProvince
-				}
-			}))
-			.filter((feature) => Number.isFinite(feature.properties.value));
 
-		const values = mapped.map((feature) => feature.properties.value).filter(Number.isFinite);
-		const min = values.length ? Math.min(...values) : 0;
-		const max = values.length ? Math.max(...values) : 1;
+		console.info('Building features for:', {
+			year: selectedYear,
+			metric: selectedMetricVector,
+			polygons: polygonFeatures.length
+		});
+
+		const mapped = polygonFeatures
+			.map((feature) => {
+				const p = feature.properties;
+				// columns in the GeoJSON are like csd_value_2021, province_value_2021, etc.
+				const value = Number(p[`csd_value_${selectedYear}`]);
+				const provinceValue = Number(p[`province_value_${selectedYear}`]);
+				const diffFromProvince = Number(p[`diff_from_province_${selectedYear}`]);
+				const ratioToProvince = Number(p[`ratio_to_province_${selectedYear}`]);
+				const vector = String(p[`vector_${selectedYear}`] ?? '').trim();
+				const label = String(p[`label_${selectedYear}`] ?? '').trim();
+
+				if (vector !== selectedMetricVector) return null;
+				if (!Number.isFinite(value)) return null;
+
+				return {
+					type: 'Feature',
+					geometry: feature.geometry,
+					properties: {
+						geoid: String(p.CSDUID || p.GeoUID || '').trim(),
+						region: String(p.CSDNAME || p['Region Name'] || '').trim(),
+						province: String(p[`province_name_${selectedYear}`] ?? '').trim(),
+						vector,
+						label,
+						value,
+						provinceValue: Number.isFinite(provinceValue) ? provinceValue : null,
+						diffFromProvince: Number.isFinite(diffFromProvince) ? diffFromProvince : null,
+						ratioToProvince: Number.isFinite(ratioToProvince) ? ratioToProvince : null
+					}
+				};
+			})
+			.filter(Boolean);
+
+		const values = mapped.map((f) => f.properties.value);
 		features = mapped;
-		valueRange = { min, max };
+		valueRange = { min: Math.min(...values), max: Math.max(...values) };
+		console.info('Value range updated:', valueRange, 'features:', mapped.length);
 	}
 
 	function buildProvinceSummary() {
@@ -264,8 +295,22 @@
 
 	$: selectedMetric = metricOptions.find((option) => option.vector === selectedMetricVector) ?? null;
 	$: if (rawRows.length && polygonFeatures.length && selectedMetricVector) {
+		console.info('Reactive rebuild:', {
+			year: selectedYear,
+			metric: selectedMetricVector,
+			rows: rawRows.length,
+			polygons: polygonFeatures.length
+		});
 		buildFeatures();
 		buildProvinceSummary();
+	}
+
+	$: if (selectedMetricVector) {
+		console.info('Selected metric changed:', selectedMetricVector);
+	}
+
+	$: if (selectedYear) {
+		console.info('Selected year changed:', selectedYear);
 	}
 	$: if (!selectedMetricVector && metricOptions.length) {
 		selectedMetricVector = metricOptions[0].vector;
@@ -378,6 +423,7 @@
 				features={features}
 				valueRange={valueRange}
 				metricLabel={selectedMetric?.label ?? ''}
+				metricVector={selectedMetricVector}
 				yearLabel={String(selectedYear)}
 			/>
 		</section>
