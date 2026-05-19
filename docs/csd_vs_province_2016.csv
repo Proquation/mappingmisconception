@@ -1,0 +1,900 @@
+"","GeoUID","Region Name","PR_UID","province_name","vector","label","csd_value","province_value","diff_from_province","ratio_to_province"
+"1","1206004","Bridgewater (T)","12","Nova Scotia","v_CA16_1142","Gini index on adjusted household after-tax income",0,745,-745,0
+"2","1206004","Bridgewater (T)","12","Nova Scotia","v_CA16_4410","Immigrants",0,0,0,NA
+"3","1206004","Bridgewater (T)","12","Nova Scotia","v_CA16_4875","Total visible minority population",0.154071470415934,0.165624543225115,-0.0115530728091805,0.930245405758024
+"4","1206004","Bridgewater (T)","12","Nova Scotia","v_CA16_4878","South Asian",0.0181605155243117,0.015780726400641,0.00237978912367069,1.15080352217335
+"5","1206004","Bridgewater (T)","12","Nova Scotia","v_CA16_4881","Chinese",0.0837727006444054,0.0839653744335991,-0.000192673789193742,0.99770531852572
+"6","1206004","Bridgewater (T)","12","Nova Scotia","v_CA16_4884","Black",0.0626830697129467,0.0389564690150986,0.0237266006978481,1.60905419042604
+"7","1206004","Bridgewater (T)","12","Nova Scotia","v_CA16_4887","Filipino",0.344463971880492,0.336235038084875,0.00822893379561723,1.02447375455719
+"8","1206004","Bridgewater (T)","12","Nova Scotia","v_CA16_4890","Arab",0.270064440538957,0.296152534390074,-0.0260880938511163,0.911909942270645
+"9","1206004","Bridgewater (T)","12","Nova Scotia","v_CA16_4893","Latin American",0.0852958406561218,0.000886752310265863,0.084409088345856,96.1890255809412
+"10","1206004","Bridgewater (T)","12","Nova Scotia","v_CA16_4896","Southeast Asian",20.9558289396602,0.249504382332083,20.7063245573281,83.9898231196943
+"11","1206004","Bridgewater (T)","12","Nova Scotia","v_CA16_4899","West Asian",0.00572934973637961,4.63406579723797e-05,0.00568300907840723,123.635485275036
+"12","1206004","Bridgewater (T)","12","Nova Scotia","v_CA16_1189","Non-official languages",0,1.62408848034041e-05,-1.62408848034041e-05,0
+"13","1206004","Bridgewater (T)","12","Nova Scotia","v_CA16_1192","Indigenous languages",0,0,0,NA
+"14","1206004","Bridgewater (T)","12","Nova Scotia","v_CA16_6087","28. Military science, leadership and operational art",0,0,0,NA
+"15","1206004","Bridgewater (T)","12","Nova Scotia","v_CA16_4272","Total - Occupied private dwellings by dwelling condition",0,0.000243613272051061,-0.000243613272051061,0
+"16","1206004","Bridgewater (T)","12","Nova Scotia","v_CA16_4288","Total - Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio",0,85,-85,0
+"17","1206004","Bridgewater (T)","12","Nova Scotia","v_CA16_4311","Median value of dwellings ($)",0,115,-115,0
+"18","1206004","Bridgewater (T)","12","Nova Scotia","v_CA16_4305","Total - Owner households in non-farm, non-reserve private dwellings",0,1.08272565356027e-05,-1.08272565356027e-05,0
+"19","1206004","Bridgewater (T)","12","Nova Scotia","v_CA16_4313","Total - Tenant households in non-farm, non-reserve private dwellings",0,8.12044240170204e-05,-8.12044240170204e-05,0
+"20","1206004","Bridgewater (T)","12","Nova Scotia","v_CA16_4263","Total - Occupied private dwellings by period of construction",0.0070298769771529,0.00340517218044706,0.00362470479670584,2.06447034235724
+"21","1206004","Bridgewater (T)","12","Nova Scotia","v_CA16_560","Median total income in 2020 among recipients ($)",115,29470,-29355,0.00390227349847302
+"22","1206004","Bridgewater (T)","12","Nova Scotia","v_CA16_566","Median after-tax income in 2020 among recipients ($)",0,4290,-4290,0
+"23","1206004","Bridgewater (T)","12","Nova Scotia","v_CA16_1040","Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%)",65,5700,-5635,0.0114035087719298
+"24","1206004","Bridgewater (T)","12","Nova Scotia","v_CA16_1010","LIM low-income status in 2020 for the population in private households",0.000585823081429408,0.000129927078427233,0.000455896003002176,4.50886057410662
+"25","1206004","Bridgewater (T)","12","Nova Scotia","v_CA16_1100","Adjusted after-tax family income decile group for the population in private households",0,75,-75,0
+"26","1206004","Bridgewater (T)","12","Nova Scotia","v_CA16_4404","Total - Immigrant status and period of immigration for the population in private households",0.00351493848857645,0.0191155214136066,-0.0156005829250302,0.18387876597886
+"27","1206004","Bridgewater (T)","12","Nova Scotia","v_CA16_4437","Total - Age at immigration for the immigrant population in private households",0,1.08272565356027e-05,-1.08272565356027e-05,0
+"28","1206004","Bridgewater (T)","12","Nova Scotia","v_CA16_6582","4 Occupations in education, law and social, community and government services",0,0,0,NA
+"29","1206004","Bridgewater (T)","12","Nova Scotia","v_CA16_5847","Bachelor's degree or higher",0.0140597539543058,0.0151635727781116,-0.00110381882380582,0.927205887427852
+"30","1302037","St. Stephen (TV)","13","New Brunswick","v_CA16_1142","Gini index on adjusted household after-tax income",0,400,-400,0
+"31","1302037","St. Stephen (TV)","13","New Brunswick","v_CA16_4410","Immigrants",0,2.6769998862275e-05,-2.6769998862275e-05,0
+"32","1302037","St. Stephen (TV)","13","New Brunswick","v_CA16_4875","Total visible minority population",0.150622876557191,0.160881000662557,-0.0102581241053661,0.936237815135908
+"33","1302037","St. Stephen (TV)","13","New Brunswick","v_CA16_4878","South Asian",0.0169875424688562,0.0138936294095207,0.00309391305933542,1.22268573373746
+"34","1302037","St. Stephen (TV)","13","New Brunswick","v_CA16_4881","Chinese",0.0826727066817667,0.0827996064810167,-0.000126899799250013,0.998467386444897
+"35","1302037","St. Stephen (TV)","13","New Brunswick","v_CA16_4884","Black",0.0396375990939977,0.0370162159268108,0.00262138316718692,1.07081715679339
+"36","1302037","St. Stephen (TV)","13","New Brunswick","v_CA16_4887","Filipino",0.327293318233296,0.349863807630788,-0.0225704893974926,0.935487784374338
+"37","1302037","St. Stephen (TV)","13","New Brunswick","v_CA16_4890","Arab",0.288788221970555,0.31581906157769,-0.027030839607135,0.914410360564999
+"38","1302037","St. Stephen (TV)","13","New Brunswick","v_CA16_4893","Latin American",0.161268403171008,0.000991828457847291,0.160276574713161,162.597071998753
+"39","1302037","St. Stephen (TV)","13","New Brunswick","v_CA16_4896","Southeast Asian",30.0978482446206,0.227640023825299,29.8702082207953,132.216855976606
+"40","1302037","St. Stephen (TV)","13","New Brunswick","v_CA16_4899","West Asian",0.0106908267270668,4.8855247923652e-05,0.0106419714791432,218.826578134939
+"41","1302037","St. Stephen (TV)","13","New Brunswick","v_CA16_1189","Non-official languages",0,6.69249971556876e-06,-6.69249971556876e-06,0
+"42","1302037","St. Stephen (TV)","13","New Brunswick","v_CA16_1192","Indigenous languages",0,2.00774991467063e-05,-2.00774991467063e-05,0
+"43","1302037","St. Stephen (TV)","13","New Brunswick","v_CA16_6087","28. Military science, leadership and operational art",0,0,0,NA
+"44","1302037","St. Stephen (TV)","13","New Brunswick","v_CA16_4272","Total - Occupied private dwellings by dwelling condition",0,4.68474980089813e-05,-4.68474980089813e-05,0
+"45","1302037","St. Stephen (TV)","13","New Brunswick","v_CA16_4288","Total - Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio",0,35,-35,0
+"46","1302037","St. Stephen (TV)","13","New Brunswick","v_CA16_4311","Median value of dwellings ($)",0,85,-85,0
+"47","1302037","St. Stephen (TV)","13","New Brunswick","v_CA16_4305","Total - Owner households in non-farm, non-reserve private dwellings",0,0,0,NA
+"48","1302037","St. Stephen (TV)","13","New Brunswick","v_CA16_4313","Total - Tenant households in non-farm, non-reserve private dwellings",0,5.35399977245501e-05,-5.35399977245501e-05,0
+"49","1302037","St. Stephen (TV)","13","New Brunswick","v_CA16_4263","Total - Occupied private dwellings by period of construction",0.00226500566251416,0.00116449495050896,0.00110051071200519,1.94505408677315
+"50","1302037","St. Stephen (TV)","13","New Brunswick","v_CA16_560","Median total income in 2020 among recipients ($)",90,231110,-231020,0.000389424949158409
+"51","1302037","St. Stephen (TV)","13","New Brunswick","v_CA16_566","Median after-tax income in 2020 among recipients ($)",0,2165,-2165,0
+"52","1302037","St. Stephen (TV)","13","New Brunswick","v_CA16_1040","Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%)",10,2875,-2865,0.00347826086956522
+"53","1302037","St. Stephen (TV)","13","New Brunswick","v_CA16_1010","LIM low-income status in 2020 for the population in private households",0,0.000133849994311375,-0.000133849994311375,0
+"54","1302037","St. Stephen (TV)","13","New Brunswick","v_CA16_1100","Adjusted after-tax family income decile group for the population in private households",0,45,-45,0
+"55","1302037","St. Stephen (TV)","13","New Brunswick","v_CA16_4404","Total - Immigrant status and period of immigration for the population in private households",0.00566251415628539,0.00897464211857771,-0.00331212796229232,0.630945956559522
+"56","1302037","St. Stephen (TV)","13","New Brunswick","v_CA16_4437","Total - Age at immigration for the immigrant population in private households",0,0,0,NA
+"57","1302037","St. Stephen (TV)","13","New Brunswick","v_CA16_6582","4 Occupations in education, law and social, community and government services",0,0,0,NA
+"58","1302037","St. Stephen (TV)","13","New Brunswick","v_CA16_5847","Bachelor's degree or higher",0.00566251415628539,0.012601976964416,-0.00693946280813059,0.449335383827042
+"59","3502036","Clarence-Rockland (C)","35","Ontario","v_CA16_1142","Gini index on adjusted household after-tax income",40,231040,-231000,0.000173130193905817
+"60","3502036","Clarence-Rockland (C)","35","Ontario","v_CA16_4410","Immigrants",0,7.17552676917632e-05,-7.17552676917632e-05,0
+"61","3502036","Clarence-Rockland (C)","35","Ontario","v_CA16_4875","Total visible minority population",0.191554467564259,0.153155856159316,0.0383986114049434,1.25071592016044
+"62","3502036","Clarence-Rockland (C)","35","Ontario","v_CA16_4878","South Asian",0.0069359445124439,0.0101003904527572,-0.00316444594031325,0.686700632503822
+"63","3502036","Clarence-Rockland (C)","35","Ontario","v_CA16_4881","Chinese",0.0881272949816402,0.0828260273086421,0.00530126767299807,1.06400485264425
+"64","3502036","Clarence-Rockland (C)","35","Ontario","v_CA16_4884","Black",0.0234598123215014,0.0307997403425961,-0.00733992802109465,0.761688639597279
+"65","3502036","Clarence-Rockland (C)","35","Ontario","v_CA16_4887","Filipino",0.299877600979192,0.274706305317549,0.0251712956616436,1.09162984312481
+"66","3502036","Clarence-Rockland (C)","35","Ontario","v_CA16_4890","Arab",0.304569563443492,0.264526723818064,0.0400428396254281,1.15137540376816
+"67","3502036","Clarence-Rockland (C)","35","Ontario","v_CA16_4893","Latin American",0.0592411260709914,9.65907696700522e-05,0.0591445353013214,613.320778717835
+"68","3502036","Clarence-Rockland (C)","35","Ontario","v_CA16_4896","Southeast Asian",12.8463892288862,0.0376554542554592,12.8087337746307,341.156134825375
+"69","3502036","Clarence-Rockland (C)","35","Ontario","v_CA16_4899","West Asian",0.00185230518155855,3.39815101918505e-06,0.00184890703053936,545.092072453792
+"70","3502036","Clarence-Rockland (C)","35","Ontario","v_CA16_1189","Non-official languages",0,2.19355481544768e-05,-2.19355481544768e-05,0
+"71","3502036","Clarence-Rockland (C)","35","Ontario","v_CA16_1192","Indigenous languages",0,1.37561912155194e-05,-1.37561912155194e-05,0
+"72","3502036","Clarence-Rockland (C)","35","Ontario","v_CA16_6087","28. Military science, leadership and operational art",0,0,0,NA
+"73","3502036","Clarence-Rockland (C)","35","Ontario","v_CA16_4272","Total - Occupied private dwellings by dwelling condition",0,0.000171022917814565,-0.000171022917814565,0
+"74","3502036","Clarence-Rockland (C)","35","Ontario","v_CA16_4288","Total - Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio",10,4425,-4415,0.00225988700564972
+"75","3502036","Clarence-Rockland (C)","35","Ontario","v_CA16_4311","Median value of dwellings ($)",10,1495,-1485,0.00668896321070234
+"76","3502036","Clarence-Rockland (C)","35","Ontario","v_CA16_4305","Total - Owner households in non-farm, non-reserve private dwellings",0,1.44997691190609e-05,-1.44997691190609e-05,0
+"77","3502036","Clarence-Rockland (C)","35","Ontario","v_CA16_4313","Total - Tenant households in non-farm, non-reserve private dwellings",0.000407996736026112,5.50247648620775e-05,0.000352971971164034,7.4147838168646
+"78","3502036","Clarence-Rockland (C)","35","Ontario","v_CA16_4263","Total - Occupied private dwellings by period of construction",0.00122399020807834,0.00173179293734836,-0.000507802729270021,0.706776301993964
+"79","3502036","Clarence-Rockland (C)","35","Ontario","v_CA16_560","Median total income in 2020 among recipients ($)",15105,490720,-475615,0.0307813009455494
+"80","3502036","Clarence-Rockland (C)","35","Ontario","v_CA16_566","Median after-tax income in 2020 among recipients ($)",5,22760,-22755,0.000219683655536028
+"81","3502036","Clarence-Rockland (C)","35","Ontario","v_CA16_1040","Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%)",140,200640,-200500,0.000697767145135566
+"82","3502036","Clarence-Rockland (C)","35","Ontario","v_CA16_1010","LIM low-income status in 2020 for the population in private households",0.000407996736026112,0.00310332238043081,-0.0026953256444047,0.131470948232414
+"83","3502036","Clarence-Rockland (C)","35","Ontario","v_CA16_1100","Adjusted after-tax family income decile group for the population in private households",0,5490,-5490,0
+"84","3502036","Clarence-Rockland (C)","35","Ontario","v_CA16_4404","Total - Immigrant status and period of immigration for the population in private households",0.0167278661770706,0.0307911891967054,-0.0140633230196348,0.543267948185011
+"85","3502036","Clarence-Rockland (C)","35","Ontario","v_CA16_4437","Total - Age at immigration for the immigrant population in private households",0,1.33844022637486e-05,-1.33844022637486e-05,0
+"86","3502036","Clarence-Rockland (C)","35","Ontario","v_CA16_6582","4 Occupations in education, law and social, community and government services",0,3.34610056593714e-06,-3.34610056593714e-06,0
+"87","3502036","Clarence-Rockland (C)","35","Ontario","v_CA16_5847","Bachelor's degree or higher",0.0101999184006528,0.024420213719161,-0.0142202953185082,0.41768342070854
+"88","3515014","Peterborough (CY)","35","Ontario","v_CA16_1142","Gini index on adjusted household after-tax income",260,231040,-230780,0.00112534626038781
+"89","3515014","Peterborough (CY)","35","Ontario","v_CA16_4410","Immigrants",0,7.17552676917632e-05,-7.17552676917632e-05,0
+"90","3515014","Peterborough (CY)","35","Ontario","v_CA16_4875","Total visible minority population",0.158573455914111,0.153155856159316,0.00541759975479514,1.03537311527389
+"91","3515014","Peterborough (CY)","35","Ontario","v_CA16_4878","South Asian",0.0220275189732831,0.0101003904527572,0.011927128520526,2.18085816348517
+"92","3515014","Peterborough (CY)","35","Ontario","v_CA16_4881","Chinese",0.0717591164311717,0.0828260273086421,-0.0110669108774704,0.866383656960502
+"93","3515014","Peterborough (CY)","35","Ontario","v_CA16_4884","Black",0.0441784414142037,0.0307997403425961,0.0133787010716077,1.4343770734036
+"94","3515014","Peterborough (CY)","35","Ontario","v_CA16_4887","Filipino",0.296661936200407,0.274706305317549,0.0219556308828586,1.07992401505848
+"95","3515014","Peterborough (CY)","35","Ontario","v_CA16_4890","Arab",0.265996174492503,0.264526723818064,0.00146945067443888,1.00555501785691
+"96","3515014","Peterborough (CY)","35","Ontario","v_CA16_4893","Latin American",0.0137718269883384,9.65907696700522e-05,0.0136752362186683,142.579120503771
+"97","3515014","Peterborough (CY)","35","Ontario","v_CA16_4896","Southeast Asian",3.72715493305362,0.0376554542554592,3.68949947879816,98.9804798998878
+"98","3515014","Peterborough (CY)","35","Ontario","v_CA16_4899","West Asian",0.000661442586536682,3.39815101918505e-06,0.000658044435517497,194.64779016658
+"99","3515014","Peterborough (CY)","35","Ontario","v_CA16_1189","Non-official languages",0,2.19355481544768e-05,-2.19355481544768e-05,0
+"100","3515014","Peterborough (CY)","35","Ontario","v_CA16_1192","Indigenous languages",0,1.37561912155194e-05,-1.37561912155194e-05,0
+"101","3515014","Peterborough (CY)","35","Ontario","v_CA16_6087","28. Military science, leadership and operational art",0,0,0,NA
+"102","3515014","Peterborough (CY)","35","Ontario","v_CA16_4272","Total - Occupied private dwellings by dwelling condition",0.000185105201456161,0.000171022917814565,1.40822836415959e-05,1.0823415003179
+"103","3515014","Peterborough (CY)","35","Ontario","v_CA16_4288","Total - Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio",10,4425,-4415,0.00225988700564972
+"104","3515014","Peterborough (CY)","35","Ontario","v_CA16_4311","Median value of dwellings ($)",15,1495,-1480,0.0100334448160535
+"105","3515014","Peterborough (CY)","35","Ontario","v_CA16_4305","Total - Owner households in non-farm, non-reserve private dwellings",0,1.44997691190609e-05,-1.44997691190609e-05,0
+"106","3515014","Peterborough (CY)","35","Ontario","v_CA16_4313","Total - Tenant households in non-farm, non-reserve private dwellings",0.000123403467637441,5.50247648620775e-05,6.83787027753631e-05,2.2426895952533
+"107","3515014","Peterborough (CY)","35","Ontario","v_CA16_4263","Total - Occupied private dwellings by period of construction",0.00191275374838033,0.00173179293734836,0.000180960811031973,1.10449333007966
+"108","3515014","Peterborough (CY)","35","Ontario","v_CA16_560","Median total income in 2020 among recipients ($)",895,490720,-489825,0.00182385066840561
+"109","3515014","Peterborough (CY)","35","Ontario","v_CA16_566","Median after-tax income in 2020 among recipients ($)",45,22760,-22715,0.00197715289982425
+"110","3515014","Peterborough (CY)","35","Ontario","v_CA16_1040","Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%)",875,200640,-199765,0.00436104465709729
+"111","3515014","Peterborough (CY)","35","Ontario","v_CA16_1010","LIM low-income status in 2020 for the population in private households",0.000185105201456161,0.00310332238043081,-0.00291821717897465,0.0596474290339323
+"112","3515014","Peterborough (CY)","35","Ontario","v_CA16_1100","Adjusted after-tax family income decile group for the population in private households",10,5490,-5480,0.00182149362477231
+"113","3515014","Peterborough (CY)","35","Ontario","v_CA16_4404","Total - Immigrant status and period of immigration for the population in private households",0.0104892947491825,0.0307911891967054,-0.0203018944475229,0.340658968452729
+"114","3515014","Peterborough (CY)","35","Ontario","v_CA16_4437","Total - Age at immigration for the immigrant population in private households",0,1.33844022637486e-05,-1.33844022637486e-05,0
+"115","3515014","Peterborough (CY)","35","Ontario","v_CA16_6582","4 Occupations in education, law and social, community and government services",0,3.34610056593714e-06,-3.34610056593714e-06,0
+"116","3515014","Peterborough (CY)","35","Ontario","v_CA16_5847","Bachelor's degree or higher",0.0199913617572654,0.024420213719161,-0.00442885196189566,0.818639918027392
+"117","3515023","Douro-Dummer (TP)","35","Ontario","v_CA16_1142","Gini index on adjusted household after-tax income",15,231040,-231025,6.49238227146814e-05
+"118","3515023","Douro-Dummer (TP)","35","Ontario","v_CA16_4410","Immigrants",0,7.17552676917632e-05,-7.17552676917632e-05,0
+"119","3515023","Douro-Dummer (TP)","35","Ontario","v_CA16_4875","Total visible minority population",0.17524235645041,0.153155856159316,0.0220865002910941,1.14420930968594
+"120","3515023","Douro-Dummer (TP)","35","Ontario","v_CA16_4878","South Asian",0.00372856077554064,0.0101003904527572,-0.00637182967721651,0.369150162360589
+"121","3515023","Douro-Dummer (TP)","35","Ontario","v_CA16_4881","Chinese",0.081282624906786,0.0828260273086421,-0.0015434024018561,0.981365731859808
+"122","3515023","Douro-Dummer (TP)","35","Ontario","v_CA16_4884","Black",0.0343027591349739,0.0307997403425961,0.00350301879237782,1.11373533521428
+"123","3515023","Douro-Dummer (TP)","35","Ontario","v_CA16_4887","Filipino",0.300521998508576,0.274706305317549,0.0258156931910271,1.09397561210393
+"124","3515023","Douro-Dummer (TP)","35","Ontario","v_CA16_4890","Arab",0.337807606263982,0.264526723818064,0.0732808824459177,1.27702638655261
+"125","3515023","Douro-Dummer (TP)","35","Ontario","v_CA16_4893","Latin American",0.149589858314691,9.65907696700522e-05,0.14949326754502,1548.69723914283
+"126","3515023","Douro-Dummer (TP)","35","Ontario","v_CA16_4896","Southeast Asian",57.9925428784489,0.0376554542554592,57.9548874241935,1540.08347595598
+"127","3515023","Douro-Dummer (TP)","35","Ontario","v_CA16_4899","West Asian",0.00859060402684564,3.39815101918505e-06,0.00858720587582645,2528.02302733027
+"128","3515023","Douro-Dummer (TP)","35","Ontario","v_CA16_1189","Non-official languages",0,2.19355481544768e-05,-2.19355481544768e-05,0
+"129","3515023","Douro-Dummer (TP)","35","Ontario","v_CA16_1192","Indigenous languages",0,1.37561912155194e-05,-1.37561912155194e-05,0
+"130","3515023","Douro-Dummer (TP)","35","Ontario","v_CA16_6087","28. Military science, leadership and operational art",0,0,0,NA
+"131","3515023","Douro-Dummer (TP)","35","Ontario","v_CA16_4272","Total - Occupied private dwellings by dwelling condition",0,0.000171022917814565,-0.000171022917814565,0
+"132","3515023","Douro-Dummer (TP)","35","Ontario","v_CA16_4288","Total - Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio",0,4425,-4425,0
+"133","3515023","Douro-Dummer (TP)","35","Ontario","v_CA16_4311","Median value of dwellings ($)",0,1495,-1495,0
+"134","3515023","Douro-Dummer (TP)","35","Ontario","v_CA16_4305","Total - Owner households in non-farm, non-reserve private dwellings",0,1.44997691190609e-05,-1.44997691190609e-05,0
+"135","3515023","Douro-Dummer (TP)","35","Ontario","v_CA16_4313","Total - Tenant households in non-farm, non-reserve private dwellings",0,5.50247648620775e-05,-5.50247648620775e-05,0
+"136","3515023","Douro-Dummer (TP)","35","Ontario","v_CA16_4263","Total - Occupied private dwellings by period of construction",0.00223713646532438,0.00173179293734836,0.000505343527976028,1.29180366606056
+"137","3515023","Douro-Dummer (TP)","35","Ontario","v_CA16_560","Median total income in 2020 among recipients ($)",60,490720,-490660,0.000122269318552331
+"138","3515023","Douro-Dummer (TP)","35","Ontario","v_CA16_566","Median after-tax income in 2020 among recipients ($)",0,22760,-22760,0
+"139","3515023","Douro-Dummer (TP)","35","Ontario","v_CA16_1040","Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%)",115,200640,-200525,0.000573165869218501
+"140","3515023","Douro-Dummer (TP)","35","Ontario","v_CA16_1010","LIM low-income status in 2020 for the population in private households",0,0.00310332238043081,-0.00310332238043081,0
+"141","3515023","Douro-Dummer (TP)","35","Ontario","v_CA16_1100","Adjusted after-tax family income decile group for the population in private households",0,5490,-5490,0
+"142","3515023","Douro-Dummer (TP)","35","Ontario","v_CA16_4404","Total - Immigrant status and period of immigration for the population in private households",0.00149142431021626,0.0307911891967054,-0.0292997648864891,0.0484367232680912
+"143","3515023","Douro-Dummer (TP)","35","Ontario","v_CA16_4437","Total - Age at immigration for the immigrant population in private households",0,1.33844022637486e-05,-1.33844022637486e-05,0
+"144","3515023","Douro-Dummer (TP)","35","Ontario","v_CA16_6582","4 Occupations in education, law and social, community and government services",0,3.34610056593714e-06,-3.34610056593714e-06,0
+"145","3515023","Douro-Dummer (TP)","35","Ontario","v_CA16_5847","Bachelor's degree or higher",0.00894854586129754,0.024420213719161,-0.0154716678578635,0.366440112449801
+"146","3515030","Havelock-Belmont-Methuen (TP)","35","Ontario","v_CA16_1142","Gini index on adjusted household after-tax income",10,231040,-231030,4.32825484764543e-05
+"147","3515030","Havelock-Belmont-Methuen (TP)","35","Ontario","v_CA16_4410","Immigrants",0,7.17552676917632e-05,-7.17552676917632e-05,0
+"148","3515030","Havelock-Belmont-Methuen (TP)","35","Ontario","v_CA16_4875","Total visible minority population",0.169977924944812,0.153155856159316,0.0168220687854963,1.10983627532987
+"149","3515030","Havelock-Belmont-Methuen (TP)","35","Ontario","v_CA16_4878","South Asian",0.00662251655629139,0.0101003904527572,-0.00347787389646576,0.655669361225893
+"150","3515030","Havelock-Belmont-Methuen (TP)","35","Ontario","v_CA16_4881","Chinese",0.0629139072847682,0.0828260273086421,-0.0199121200238739,0.759591028679022
+"151","3515030","Havelock-Belmont-Methuen (TP)","35","Ontario","v_CA16_4884","Black",0.0474613686534216,0.0307997403425961,0.0166616283108256,1.54096651872686
+"152","3515030","Havelock-Belmont-Methuen (TP)","35","Ontario","v_CA16_4887","Filipino",0.320088300220751,0.274706305317549,0.0453819949032019,1.16520186841268
+"153","3515030","Havelock-Belmont-Methuen (TP)","35","Ontario","v_CA16_4890","Arab",0.384105960264901,0.264526723818064,0.119579236446836,1.45204973894842
+"154","3515030","Havelock-Belmont-Methuen (TP)","35","Ontario","v_CA16_4893","Latin American",0.189403973509934,9.65907696700522e-05,0.189307382740264,1960.89102671948
+"155","3515030","Havelock-Belmont-Methuen (TP)","35","Ontario","v_CA16_4896","Southeast Asian",64.6761589403974,0.0376554542554592,64.6385034861419,1717.57744579647
+"156","3515030","Havelock-Belmont-Methuen (TP)","35","Ontario","v_CA16_4899","West Asian",0.0119205298013245,3.39815101918505e-06,0.0119171316503053,3507.94586056487
+"157","3515030","Havelock-Belmont-Methuen (TP)","35","Ontario","v_CA16_1189","Non-official languages",0,2.19355481544768e-05,-2.19355481544768e-05,0
+"158","3515030","Havelock-Belmont-Methuen (TP)","35","Ontario","v_CA16_1192","Indigenous languages",0,1.37561912155194e-05,-1.37561912155194e-05,0
+"159","3515030","Havelock-Belmont-Methuen (TP)","35","Ontario","v_CA16_6087","28. Military science, leadership and operational art",0,0,0,NA
+"160","3515030","Havelock-Belmont-Methuen (TP)","35","Ontario","v_CA16_4272","Total - Occupied private dwellings by dwelling condition",0,0.000171022917814565,-0.000171022917814565,0
+"161","3515030","Havelock-Belmont-Methuen (TP)","35","Ontario","v_CA16_4288","Total - Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio",0,4425,-4425,0
+"162","3515030","Havelock-Belmont-Methuen (TP)","35","Ontario","v_CA16_4311","Median value of dwellings ($)",0,1495,-1495,0
+"163","3515030","Havelock-Belmont-Methuen (TP)","35","Ontario","v_CA16_4305","Total - Owner households in non-farm, non-reserve private dwellings",0,1.44997691190609e-05,-1.44997691190609e-05,0
+"164","3515030","Havelock-Belmont-Methuen (TP)","35","Ontario","v_CA16_4313","Total - Tenant households in non-farm, non-reserve private dwellings",0,5.50247648620775e-05,-5.50247648620775e-05,0
+"165","3515030","Havelock-Belmont-Methuen (TP)","35","Ontario","v_CA16_4263","Total - Occupied private dwellings by period of construction",0,0.00173179293734836,-0.00173179293734836,0
+"166","3515030","Havelock-Belmont-Methuen (TP)","35","Ontario","v_CA16_560","Median total income in 2020 among recipients ($)",50,490720,-490670,0.000101891098793609
+"167","3515030","Havelock-Belmont-Methuen (TP)","35","Ontario","v_CA16_566","Median after-tax income in 2020 among recipients ($)",0,22760,-22760,0
+"168","3515030","Havelock-Belmont-Methuen (TP)","35","Ontario","v_CA16_1040","Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%)",60,200640,-200580,0.000299043062200957
+"169","3515030","Havelock-Belmont-Methuen (TP)","35","Ontario","v_CA16_1010","LIM low-income status in 2020 for the population in private households",0,0.00310332238043081,-0.00310332238043081,0
+"170","3515030","Havelock-Belmont-Methuen (TP)","35","Ontario","v_CA16_1100","Adjusted after-tax family income decile group for the population in private households",0,5490,-5490,0
+"171","3515030","Havelock-Belmont-Methuen (TP)","35","Ontario","v_CA16_4404","Total - Immigrant status and period of immigration for the population in private households",0,0.0307911891967054,-0.0307911891967054,0
+"172","3515030","Havelock-Belmont-Methuen (TP)","35","Ontario","v_CA16_4437","Total - Age at immigration for the immigrant population in private households",0,1.33844022637486e-05,-1.33844022637486e-05,0
+"173","3515030","Havelock-Belmont-Methuen (TP)","35","Ontario","v_CA16_6582","4 Occupations in education, law and social, community and government services",0,3.34610056593714e-06,-3.34610056593714e-06,0
+"174","3515030","Havelock-Belmont-Methuen (TP)","35","Ontario","v_CA16_5847","Bachelor's degree or higher",0.0121412803532009,0.024420213719161,-0.0122789333659602,0.497181576411609
+"175","3518001","Pickering (CY)","35","Ontario","v_CA16_1142","Gini index on adjusted household after-tax income",1210,231040,-229830,0.00523718836565097
+"176","3518001","Pickering (CY)","35","Ontario","v_CA16_4410","Immigrants",0,7.17552676917632e-05,-7.17552676917632e-05,0
+"177","3518001","Pickering (CY)","35","Ontario","v_CA16_4875","Total visible minority population",0.15675057208238,0.153155856159316,0.00359471592306382,1.0234709661988
+"178","3518001","Pickering (CY)","35","Ontario","v_CA16_4878","South Asian",0.0018524572300316,0.0101003904527572,-0.00824793322272555,0.183404516755679
+"179","3518001","Pickering (CY)","35","Ontario","v_CA16_4881","Chinese",0.0867385855944208,0.0828260273086421,0.00391255828577876,1.04723827054024
+"180","3518001","Pickering (CY)","35","Ontario","v_CA16_4884","Black",0.0238095238095238,0.0307997403425961,-0.00699021653307227,0.773043004411151
+"181","3518001","Pickering (CY)","35","Ontario","v_CA16_4887","Filipino",0.251225890813991,0.274706305317549,-0.0234804145035571,0.914525389301076
+"182","3518001","Pickering (CY)","35","Ontario","v_CA16_4890","Arab",0.294050343249428,0.264526723818064,0.0295236194313636,1.11160921288115
+"183","3518001","Pickering (CY)","35","Ontario","v_CA16_4893","Latin American",0.0182085648904871,9.65907696700522e-05,0.018111974120817,188.512473321068
+"184","3518001","Pickering (CY)","35","Ontario","v_CA16_4896","Southeast Asian",6.36421488503868,0.0376554542554592,6.32655943078322,169.011767640966
+"185","3518001","Pickering (CY)","35","Ontario","v_CA16_4899","West Asian",0.000497984090661436,3.39815101918505e-06,0.000494585939642251,146.54560313828
+"186","3518001","Pickering (CY)","35","Ontario","v_CA16_1189","Non-official languages",0,2.19355481544768e-05,-2.19355481544768e-05,0
+"187","3518001","Pickering (CY)","35","Ontario","v_CA16_1192","Indigenous languages",5.44840361774e-05,1.37561912155194e-05,4.07278449618807e-05,3.96069197671028
+"188","3518001","Pickering (CY)","35","Ontario","v_CA16_6087","28. Military science, leadership and operational art",0,0,0,NA
+"189","3518001","Pickering (CY)","35","Ontario","v_CA16_4272","Total - Occupied private dwellings by dwelling condition",0.0004358722894192,0.000171022917814565,0.000264849371604635,2.54861918501357
+"190","3518001","Pickering (CY)","35","Ontario","v_CA16_4288","Total - Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio",65,4425,-4360,0.0146892655367232
+"191","3518001","Pickering (CY)","35","Ontario","v_CA16_4311","Median value of dwellings ($)",0,1495,-1495,0
+"192","3518001","Pickering (CY)","35","Ontario","v_CA16_4305","Total - Owner households in non-farm, non-reserve private dwellings",0.0001089680723548,1.44997691190609e-05,9.44683032357391e-05,7.51515913529644
+"193","3518001","Pickering (CY)","35","Ontario","v_CA16_4313","Total - Tenant households in non-farm, non-reserve private dwellings",0,5.50247648620775e-05,-5.50247648620775e-05,0
+"194","3518001","Pickering (CY)","35","Ontario","v_CA16_4263","Total - Occupied private dwellings by period of construction",0.0017434891576768,0.00173179293734836,1.16962203284441e-05,1.0067538214738
+"195","3518001","Pickering (CY)","35","Ontario","v_CA16_560","Median total income in 2020 among recipients ($)",1110,490720,-489610,0.00226198239321813
+"196","3518001","Pickering (CY)","35","Ontario","v_CA16_566","Median after-tax income in 2020 among recipients ($)",0,22760,-22760,0
+"197","3518001","Pickering (CY)","35","Ontario","v_CA16_1040","Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%)",970,200640,-199670,0.00483452950558214
+"198","3518001","Pickering (CY)","35","Ontario","v_CA16_1010","LIM low-income status in 2020 for the population in private households",0.0005993243979514,0.00310332238043081,-0.00250399798247941,0.193123473645751
+"199","3518001","Pickering (CY)","35","Ontario","v_CA16_1100","Adjusted after-tax family income decile group for the population in private households",30,5490,-5460,0.00546448087431694
+"200","3518001","Pickering (CY)","35","Ontario","v_CA16_4404","Total - Immigrant status and period of immigration for the population in private households",0.0402637027350986,0.0307911891967054,0.00947251353839327,1.30763714508977
+"201","3518001","Pickering (CY)","35","Ontario","v_CA16_4437","Total - Age at immigration for the immigrant population in private households",0,1.33844022637486e-05,-1.33844022637486e-05,0
+"202","3518001","Pickering (CY)","35","Ontario","v_CA16_6582","4 Occupations in education, law and social, community and government services",0,3.34610056593714e-06,-3.34610056593714e-06,0
+"203","3518001","Pickering (CY)","35","Ontario","v_CA16_5847","Bachelor's degree or higher",0.0268606298354582,0.024420213719161,0.00244041611629717,1.09993426529197
+"204","3519046","Aurora (T)","35","Ontario","v_CA16_1142","Gini index on adjusted household after-tax income",1320,231040,-229720,0.00571329639889197
+"205","3519046","Aurora (T)","35","Ontario","v_CA16_4410","Immigrants",0,7.17552676917632e-05,-7.17552676917632e-05,0
+"206","3519046","Aurora (T)","35","Ontario","v_CA16_4875","Total visible minority population",0.161601587158445,0.153155856159316,0.00844573099912926,1.05514468209654
+"207","3519046","Aurora (T)","35","Ontario","v_CA16_4878","South Asian",0.00162323022815403,0.0101003904527572,-0.00847716022460312,0.160709651349263
+"208","3519046","Aurora (T)","35","Ontario","v_CA16_4881","Chinese",0.0976643520606006,0.0828260273086421,0.0148383247519585,1.17915050659939
+"209","3519046","Aurora (T)","35","Ontario","v_CA16_4884","Black",0.019839480566327,0.0307997403425961,-0.0109602597762691,0.644144409843903
+"210","3519046","Aurora (T)","35","Ontario","v_CA16_4887","Filipino",0.253764992334746,0.274706305317549,-0.0209413129828025,0.923768357051014
+"211","3519046","Aurora (T)","35","Ontario","v_CA16_4890","Arab",0.28523762286951,0.264526723818064,0.020710899051446,1.07829416533995
+"212","3519046","Aurora (T)","35","Ontario","v_CA16_4893","Latin American",0.0318874560375147,9.65907696700522e-05,0.0317908652678446,330.129433137764
+"213","3519046","Aurora (T)","35","Ontario","v_CA16_4896","Southeast Asian",15.1947335197042,0.0376554542554592,15.1570780654488,403.520122652652
+"214","3519046","Aurora (T)","35","Ontario","v_CA16_4899","West Asian",0.000822436648931373,3.39815101918505e-06,0.000819038497912188,242.024749426413
+"215","3519046","Aurora (T)","35","Ontario","v_CA16_1189","Non-official languages",0,2.19355481544768e-05,-2.19355481544768e-05,0
+"216","3519046","Aurora (T)","35","Ontario","v_CA16_1192","Indigenous languages",9.01794571196681e-05,1.37561912155194e-05,7.64232659041488e-05,6.55555420150965
+"217","3519046","Aurora (T)","35","Ontario","v_CA16_6087","28. Military science, leadership and operational art",0,0,0,NA
+"218","3519046","Aurora (T)","35","Ontario","v_CA16_4272","Total - Occupied private dwellings by dwelling condition",0.000360717828478673,0.000171022917814565,0.000189694910664108,2.1091783083118
+"219","3519046","Aurora (T)","35","Ontario","v_CA16_4288","Total - Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio",15,4425,-4410,0.00338983050847458
+"220","3519046","Aurora (T)","35","Ontario","v_CA16_4311","Median value of dwellings ($)",0,1495,-1495,0
+"221","3519046","Aurora (T)","35","Ontario","v_CA16_4305","Total - Owner households in non-farm, non-reserve private dwellings",0,1.44997691190609e-05,-1.44997691190609e-05,0
+"222","3519046","Aurora (T)","35","Ontario","v_CA16_4313","Total - Tenant households in non-farm, non-reserve private dwellings",0.000180358914239336,5.50247648620775e-05,0.000125334149377259,3.27777710075483
+"223","3519046","Aurora (T)","35","Ontario","v_CA16_4263","Total - Occupied private dwellings by period of construction",0.00180358914239336,0.00173179293734836,7.17962050450062e-05,1.04145773059621
+"224","3519046","Aurora (T)","35","Ontario","v_CA16_560","Median total income in 2020 among recipients ($)",675,490720,-490045,0.00137552983371373
+"225","3519046","Aurora (T)","35","Ontario","v_CA16_566","Median after-tax income in 2020 among recipients ($)",0,22760,-22760,0
+"226","3519046","Aurora (T)","35","Ontario","v_CA16_1040","Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%)",685,200640,-199955,0.00341407496012759
+"227","3519046","Aurora (T)","35","Ontario","v_CA16_1010","LIM low-income status in 2020 for the population in private households",0.00171340968527369,0.00310332238043081,-0.00138991269515712,0.552121073878194
+"228","3519046","Aurora (T)","35","Ontario","v_CA16_1100","Adjusted after-tax family income decile group for the population in private households",10,5490,-5480,0.00182149362477231
+"229","3519046","Aurora (T)","35","Ontario","v_CA16_4404","Total - Immigrant status and period of immigration for the population in private households",0.020651095680404,0.0307911891967054,-0.0101400935163013,0.670681978161911
+"230","3519046","Aurora (T)","35","Ontario","v_CA16_4437","Total - Age at immigration for the immigrant population in private households",0,1.33844022637486e-05,-1.33844022637486e-05,0
+"231","3519046","Aurora (T)","35","Ontario","v_CA16_6582","4 Occupations in education, law and social, community and government services",0,3.34610056593714e-06,-3.34610056593714e-06,0
+"232","3519046","Aurora (T)","35","Ontario","v_CA16_5847","Bachelor's degree or higher",0.0273243755072594,0.024420213719161,0.00290416178809841,1.11892450334371
+"233","3519054","East Gwillimbury (T)","35","Ontario","v_CA16_1142","Gini index on adjusted household after-tax income",330,231040,-230710,0.00142832409972299
+"234","3519054","East Gwillimbury (T)","35","Ontario","v_CA16_4410","Immigrants",0,7.17552676917632e-05,-7.17552676917632e-05,0
+"235","3519054","East Gwillimbury (T)","35","Ontario","v_CA16_4875","Total visible minority population",0.17465610671113,0.153155856159316,0.0215002505518136,1.14038151129819
+"236","3519054","East Gwillimbury (T)","35","Ontario","v_CA16_4878","South Asian",0.00125052105043768,0.0101003904527572,-0.00884986940231947,0.123809179089341
+"237","3519054","East Gwillimbury (T)","35","Ontario","v_CA16_4881","Chinese",0.0854522717799083,0.0828260273086421,0.00262624447126622,1.03170796133297
+"238","3519054","East Gwillimbury (T)","35","Ontario","v_CA16_4884","Black",0.0245935806586078,0.0307997403425961,-0.00620615968398833,0.798499610225441
+"239","3519054","East Gwillimbury (T)","35","Ontario","v_CA16_4887","Filipino",0.257815756565236,0.274706305317549,-0.0168905487523131,0.93851415702749
+"240","3519054","East Gwillimbury (T)","35","Ontario","v_CA16_4890","Arab",0.298249270529387,0.264526723818064,0.0337225467113229,1.12748257047374
+"241","3519054","East Gwillimbury (T)","35","Ontario","v_CA16_4893","Latin American",0.0684868695289704,9.65907696700522e-05,0.0683902787593003,709.041555035922
+"242","3519054","East Gwillimbury (T)","35","Ontario","v_CA16_4896","Southeast Asian",29.1416423509796,0.0376554542554592,29.1039868967241,773.902291903827
+"243","3519054","East Gwillimbury (T)","35","Ontario","v_CA16_4899","West Asian",0.00185077115464777,3.39815101918505e-06,0.00184737300362858,544.640642572625
+"244","3519054","East Gwillimbury (T)","35","Ontario","v_CA16_1189","Non-official languages",0,2.19355481544768e-05,-2.19355481544768e-05,0
+"245","3519054","East Gwillimbury (T)","35","Ontario","v_CA16_1192","Indigenous languages",0,1.37561912155194e-05,-1.37561912155194e-05,0
+"246","3519054","East Gwillimbury (T)","35","Ontario","v_CA16_6087","28. Military science, leadership and operational art",0,0,0,NA
+"247","3519054","East Gwillimbury (T)","35","Ontario","v_CA16_4272","Total - Occupied private dwellings by dwelling condition",0,0.000171022917814565,-0.000171022917814565,0
+"248","3519054","East Gwillimbury (T)","35","Ontario","v_CA16_4288","Total - Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio",0,4425,-4425,0
+"249","3519054","East Gwillimbury (T)","35","Ontario","v_CA16_4311","Median value of dwellings ($)",0,1495,-1495,0
+"250","3519054","East Gwillimbury (T)","35","Ontario","v_CA16_4305","Total - Owner households in non-farm, non-reserve private dwellings",0,1.44997691190609e-05,-1.44997691190609e-05,0
+"251","3519054","East Gwillimbury (T)","35","Ontario","v_CA16_4313","Total - Tenant households in non-farm, non-reserve private dwellings",0,5.50247648620775e-05,-5.50247648620775e-05,0
+"252","3519054","East Gwillimbury (T)","35","Ontario","v_CA16_4263","Total - Occupied private dwellings by period of construction",0.00187578157565652,0.00173179293734836,0.000143988638308167,1.08314425772439
+"253","3519054","East Gwillimbury (T)","35","Ontario","v_CA16_560","Median total income in 2020 among recipients ($)",265,490720,-490455,0.00054002282360613
+"254","3519054","East Gwillimbury (T)","35","Ontario","v_CA16_566","Median after-tax income in 2020 among recipients ($)",5,22760,-22755,0.000219683655536028
+"255","3519054","East Gwillimbury (T)","35","Ontario","v_CA16_1040","Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%)",400,200640,-200240,0.00199362041467305
+"256","3519054","East Gwillimbury (T)","35","Ontario","v_CA16_1010","LIM low-income status in 2020 for the population in private households",0.000625260525218841,0.00310332238043081,-0.00247806185521197,0.201481009244048
+"257","3519054","East Gwillimbury (T)","35","Ontario","v_CA16_1100","Adjusted after-tax family income decile group for the population in private households",0,5490,-5490,0
+"258","3519054","East Gwillimbury (T)","35","Ontario","v_CA16_4404","Total - Immigrant status and period of immigration for the population in private households",0.0104210087536474,0.0307911891967054,-0.020370180443058,0.338441256265685
+"259","3519054","East Gwillimbury (T)","35","Ontario","v_CA16_4437","Total - Age at immigration for the immigrant population in private households",0,1.33844022637486e-05,-1.33844022637486e-05,0
+"260","3519054","East Gwillimbury (T)","35","Ontario","v_CA16_6582","4 Occupations in education, law and social, community and government services",0,3.34610056593714e-06,-3.34610056593714e-06,0
+"261","3519054","East Gwillimbury (T)","35","Ontario","v_CA16_5847","Bachelor's degree or higher",0.0216756982075865,0.024420213719161,-0.00274451551157454,0.887612961002831
+"262","3524015","Halton Hills (T)","35","Ontario","v_CA16_1142","Gini index on adjusted household after-tax income",655,231040,-230385,0.00283500692520776
+"263","3524015","Halton Hills (T)","35","Ontario","v_CA16_4410","Immigrants",0,7.17552676917632e-05,-7.17552676917632e-05,0
+"264","3524015","Halton Hills (T)","35","Ontario","v_CA16_4875","Total visible minority population",0.173710455325758,0.153155856159316,0.0205545991664421,1.13420707299015
+"265","3524015","Halton Hills (T)","35","Ontario","v_CA16_4878","South Asian",0.00220714460884493,0.0101003904527572,-0.00789324584391222,0.218520721467994
+"266","3524015","Halton Hills (T)","35","Ontario","v_CA16_4881","Chinese",0.0963786479195618,0.0828260273086421,0.0135526206109198,1.16362755828452
+"267","3524015","Halton Hills (T)","35","Ontario","v_CA16_4884","Black",0.0247690672770375,0.0307997403425961,-0.00603067306555856,0.804197275740727
+"268","3524015","Halton Hills (T)","35","Ontario","v_CA16_4887","Filipino",0.278100220714461,0.274706305317549,0.00339391539691225,1.0123547051204
+"269","3524015","Halton Hills (T)","35","Ontario","v_CA16_4890","Arab",0.293958963459495,0.264526723818064,0.0294322396414304,1.11126376653602
+"270","3524015","Halton Hills (T)","35","Ontario","v_CA16_4893","Latin American",0.027303196272378,9.65907696700522e-05,0.0272066055027079,282.668792946199
+"271","3524015","Halton Hills (T)","35","Ontario","v_CA16_4896","Southeast Asian",9.97560696476743,0.0376554542554592,9.93795151051197,264.917982321809
+"272","3524015","Halton Hills (T)","35","Ontario","v_CA16_4899","West Asian",0.000676857680045778,3.39815101918505e-06,0.000673459529026593,199.184108129515
+"273","3524015","Halton Hills (T)","35","Ontario","v_CA16_1189","Non-official languages",0,2.19355481544768e-05,-2.19355481544768e-05,0
+"274","3524015","Halton Hills (T)","35","Ontario","v_CA16_1192","Indigenous languages",0,1.37561912155194e-05,-1.37561912155194e-05,0
+"275","3524015","Halton Hills (T)","35","Ontario","v_CA16_6087","28. Military science, leadership and operational art",0,0,0,NA
+"276","3524015","Halton Hills (T)","35","Ontario","v_CA16_4272","Total - Occupied private dwellings by dwelling condition",0.000735714869614976,0.000171022917814565,0.000564691951800411,4.30184959429057
+"277","3524015","Halton Hills (T)","35","Ontario","v_CA16_4288","Total - Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio",0,4425,-4425,0
+"278","3524015","Halton Hills (T)","35","Ontario","v_CA16_4311","Median value of dwellings ($)",0,1495,-1495,0
+"279","3524015","Halton Hills (T)","35","Ontario","v_CA16_4305","Total - Owner households in non-farm, non-reserve private dwellings",0,1.44997691190609e-05,-1.44997691190609e-05,0
+"280","3524015","Halton Hills (T)","35","Ontario","v_CA16_4313","Total - Tenant households in non-farm, non-reserve private dwellings",0,5.50247648620775e-05,-5.50247648620775e-05,0
+"281","3524015","Halton Hills (T)","35","Ontario","v_CA16_4263","Total - Occupied private dwellings by period of construction",0.000899207062862748,0.00173179293734836,-0.000832585874485608,0.519234744218078
+"282","3524015","Halton Hills (T)","35","Ontario","v_CA16_560","Median total income in 2020 among recipients ($)",1135,490720,-489585,0.00231292794261493
+"283","3524015","Halton Hills (T)","35","Ontario","v_CA16_566","Median after-tax income in 2020 among recipients ($)",5,22760,-22755,0.000219683655536028
+"284","3524015","Halton Hills (T)","35","Ontario","v_CA16_1040","Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%)",920,200640,-199720,0.00458532695374801
+"285","3524015","Halton Hills (T)","35","Ontario","v_CA16_1010","LIM low-income status in 2020 for the population in private households",0.000980953159486635,0.00310332238043081,-0.00212236922094418,0.316097729862811
+"286","3524015","Halton Hills (T)","35","Ontario","v_CA16_1100","Adjusted after-tax family income decile group for the population in private households",0,5490,-5490,0
+"287","3524015","Halton Hills (T)","35","Ontario","v_CA16_4404","Total - Immigrant status and period of immigration for the population in private households",0.00760238698602142,0.0307911891967054,-0.0231888022106839,0.246901376151944
+"288","3524015","Halton Hills (T)","35","Ontario","v_CA16_4437","Total - Age at immigration for the immigrant population in private households",0,1.33844022637486e-05,-1.33844022637486e-05,0
+"289","3524015","Halton Hills (T)","35","Ontario","v_CA16_6582","4 Occupations in education, law and social, community and government services",0,3.34610056593714e-06,-3.34610056593714e-06,0
+"290","3524015","Halton Hills (T)","35","Ontario","v_CA16_5847","Bachelor's degree or higher",0.017984141257255,0.024420213719161,-0.00643607246190607,0.736444875711465
+"291","3526037","Thorold (CY)","35","Ontario","v_CA16_1142","Gini index on adjusted household after-tax income",820,231040,-230220,0.00354916897506925
+"292","3526037","Thorold (CY)","35","Ontario","v_CA16_4410","Immigrants",0,7.17552676917632e-05,-7.17552676917632e-05,0
+"293","3526037","Thorold (CY)","35","Ontario","v_CA16_4875","Total visible minority population",0.156648936170213,0.153155856159316,0.00349308001089674,1.02280735519028
+"294","3526037","Thorold (CY)","35","Ontario","v_CA16_4878","South Asian",0.0212765957446809,0.0101003904527572,0.0111762052919237,2.10651220308744
+"295","3526037","Thorold (CY)","35","Ontario","v_CA16_4881","Chinese",0.0851063829787234,0.0828260273086421,0.00228035567008132,1.02753187306188
+"296","3526037","Thorold (CY)","35","Ontario","v_CA16_4884","Black",0.0324468085106383,0.0307997403425961,0.00164706816804221,1.05347669005392
+"297","3526037","Thorold (CY)","35","Ontario","v_CA16_4887","Filipino",0.292287234042553,0.274706305317549,0.0175809287250046,1.06399899960316
+"298","3526037","Thorold (CY)","35","Ontario","v_CA16_4890","Arab",0.285372340425532,0.264526723818064,0.0208456166074675,1.07880344301926
+"299","3526037","Thorold (CY)","35","Ontario","v_CA16_4893","Latin American",0.0579255319148936,9.65907696700522e-05,0.0578289411452236,599.700490147904
+"300","3526037","Thorold (CY)","35","Ontario","v_CA16_4896","Southeast Asian",15.4687234042553,0.0376554542554592,15.4310679499999,410.796356334294
+"301","3526037","Thorold (CY)","35","Ontario","v_CA16_4899","West Asian",0.00269148936170213,3.39815101918505e-06,0.00268809121068294,792.045246519857
+"302","3526037","Thorold (CY)","35","Ontario","v_CA16_1189","Non-official languages",0,2.19355481544768e-05,-2.19355481544768e-05,0
+"303","3526037","Thorold (CY)","35","Ontario","v_CA16_1192","Indigenous languages",0,1.37561912155194e-05,-1.37561912155194e-05,0
+"304","3526037","Thorold (CY)","35","Ontario","v_CA16_6087","28. Military science, leadership and operational art",0,0,0,NA
+"305","3526037","Thorold (CY)","35","Ontario","v_CA16_4272","Total - Occupied private dwellings by dwelling condition",0,0.000171022917814565,-0.000171022917814565,0
+"306","3526037","Thorold (CY)","35","Ontario","v_CA16_4288","Total - Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio",10,4425,-4415,0.00225988700564972
+"307","3526037","Thorold (CY)","35","Ontario","v_CA16_4311","Median value of dwellings ($)",0,1495,-1495,0
+"308","3526037","Thorold (CY)","35","Ontario","v_CA16_4305","Total - Owner households in non-farm, non-reserve private dwellings",0,1.44997691190609e-05,-1.44997691190609e-05,0
+"309","3526037","Thorold (CY)","35","Ontario","v_CA16_4313","Total - Tenant households in non-farm, non-reserve private dwellings",0,5.50247648620775e-05,-5.50247648620775e-05,0
+"310","3526037","Thorold (CY)","35","Ontario","v_CA16_4263","Total - Occupied private dwellings by period of construction",0.00319148936170213,0.00173179293734836,0.00145969642435377,1.84288161296511
+"311","3526037","Thorold (CY)","35","Ontario","v_CA16_560","Median total income in 2020 among recipients ($)",360,490720,-490360,0.000733615911313988
+"312","3526037","Thorold (CY)","35","Ontario","v_CA16_566","Median after-tax income in 2020 among recipients ($)",5,22760,-22755,0.000219683655536028
+"313","3526037","Thorold (CY)","35","Ontario","v_CA16_1040","Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%)",175,200640,-200465,0.000872208931419458
+"314","3526037","Thorold (CY)","35","Ontario","v_CA16_1010","LIM low-income status in 2020 for the population in private households",0.000531914893617021,0.00310332238043081,-0.00257140748681379,0.171401752190238
+"315","3526037","Thorold (CY)","35","Ontario","v_CA16_1100","Adjusted after-tax family income decile group for the population in private households",0,5490,-5490,0
+"316","3526037","Thorold (CY)","35","Ontario","v_CA16_4404","Total - Immigrant status and period of immigration for the population in private households",0.0180851063829787,0.0307911891967054,-0.0127060828137266,0.587346798054614
+"317","3526037","Thorold (CY)","35","Ontario","v_CA16_4437","Total - Age at immigration for the immigrant population in private households",0,1.33844022637486e-05,-1.33844022637486e-05,0
+"318","3526037","Thorold (CY)","35","Ontario","v_CA16_6582","4 Occupations in education, law and social, community and government services",0,3.34610056593714e-06,-3.34610056593714e-06,0
+"319","3526037","Thorold (CY)","35","Ontario","v_CA16_5847","Bachelor's degree or higher",0.023936170212766,0.024420213719161,-0.000484043506395079,0.98017857206486
+"320","3541032","Brockton (MU)","35","Ontario","v_CA16_1142","Gini index on adjusted household after-tax income",5,231040,-231035,2.16412742382271e-05
+"321","3541032","Brockton (MU)","35","Ontario","v_CA16_4410","Immigrants",0,7.17552676917632e-05,-7.17552676917632e-05,0
+"322","3541032","Brockton (MU)","35","Ontario","v_CA16_4875","Total visible minority population",0.159090909090909,0.153155856159316,0.00593505293159305,1.03875172050502
+"323","3541032","Brockton (MU)","35","Ontario","v_CA16_4878","South Asian",0.00845665961945032,0.0101003904527572,-0.00164373083330683,0.837260664229259
+"324","3541032","Brockton (MU)","35","Ontario","v_CA16_4881","Chinese",0.0782241014799154,0.0828260273086421,-0.00460192582872665,0.944438650768821
+"325","3541032","Brockton (MU)","35","Ontario","v_CA16_4884","Black",0.0412262156448203,0.0307997403425961,0.0104264753022242,1.3385247793081
+"326","3541032","Brockton (MU)","35","Ontario","v_CA16_4887","Filipino",0.309725158562368,0.274706305317549,0.0350188532448192,1.1274774279547
+"327","3541032","Brockton (MU)","35","Ontario","v_CA16_4890","Arab",0.295983086680761,0.264526723818064,0.0314563628626968,1.11891563320586
+"328","3541032","Brockton (MU)","35","Ontario","v_CA16_4893","Latin American",0.0915433403805497,9.65907696700522e-05,0.0914467496108796,947.744186046512
+"329","3541032","Brockton (MU)","35","Ontario","v_CA16_4896","Southeast Asian",32.2564482029598,0.0376554542554592,32.2187927487044,856.620875800042
+"330","3541032","Brockton (MU)","35","Ontario","v_CA16_4899","West Asian",0.00446088794926004,3.39815101918505e-06,0.00445748979824086,1312.7397587909
+"331","3541032","Brockton (MU)","35","Ontario","v_CA16_1189","Non-official languages",0,2.19355481544768e-05,-2.19355481544768e-05,0
+"332","3541032","Brockton (MU)","35","Ontario","v_CA16_1192","Indigenous languages",0,1.37561912155194e-05,-1.37561912155194e-05,0
+"333","3541032","Brockton (MU)","35","Ontario","v_CA16_6087","28. Military science, leadership and operational art",0,0,0,NA
+"334","3541032","Brockton (MU)","35","Ontario","v_CA16_4272","Total - Occupied private dwellings by dwelling condition",0,0.000171022917814565,-0.000171022917814565,0
+"335","3541032","Brockton (MU)","35","Ontario","v_CA16_4288","Total - Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio",0,4425,-4425,0
+"336","3541032","Brockton (MU)","35","Ontario","v_CA16_4311","Median value of dwellings ($)",0,1495,-1495,0
+"337","3541032","Brockton (MU)","35","Ontario","v_CA16_4305","Total - Owner households in non-farm, non-reserve private dwellings",0,1.44997691190609e-05,-1.44997691190609e-05,0
+"338","3541032","Brockton (MU)","35","Ontario","v_CA16_4313","Total - Tenant households in non-farm, non-reserve private dwellings",0,5.50247648620775e-05,-5.50247648620775e-05,0
+"339","3541032","Brockton (MU)","35","Ontario","v_CA16_4263","Total - Occupied private dwellings by period of construction",0.00105708245243129,0.00173179293734836,-0.000674710484917067,0.610397715358423
+"340","3541032","Brockton (MU)","35","Ontario","v_CA16_560","Median total income in 2020 among recipients ($)",40,490720,-490680,8.15128790348875e-05
+"341","3541032","Brockton (MU)","35","Ontario","v_CA16_566","Median after-tax income in 2020 among recipients ($)",5,22760,-22755,0.000219683655536028
+"342","3541032","Brockton (MU)","35","Ontario","v_CA16_1040","Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%)",225,200640,-200415,0.00112141148325359
+"343","3541032","Brockton (MU)","35","Ontario","v_CA16_1010","LIM low-income status in 2020 for the population in private households",0,0.00310332238043081,-0.00310332238043081,0
+"344","3541032","Brockton (MU)","35","Ontario","v_CA16_1100","Adjusted after-tax family income decile group for the population in private households",5,5490,-5485,0.000910746812386157
+"345","3541032","Brockton (MU)","35","Ontario","v_CA16_4404","Total - Immigrant status and period of immigration for the population in private households",0.00369978858350951,0.0307911891967054,-0.0270914006131958,0.120157378783714
+"346","3541032","Brockton (MU)","35","Ontario","v_CA16_4437","Total - Age at immigration for the immigrant population in private households",0,1.33844022637486e-05,-1.33844022637486e-05,0
+"347","3541032","Brockton (MU)","35","Ontario","v_CA16_6582","4 Occupations in education, law and social, community and government services",0,3.34610056593714e-06,-3.34610056593714e-06,0
+"348","3541032","Brockton (MU)","35","Ontario","v_CA16_5847","Bachelor's degree or higher",0.00845665961945032,0.024420213719161,-0.0159635540997107,0.346297526987444
+"349","3553005","Greater Sudbury (CV)","35","Ontario","v_CA16_1142","Gini index on adjusted household after-tax income",2390,231040,-228650,0.0103445290858726
+"350","3553005","Greater Sudbury (CV)","35","Ontario","v_CA16_4410","Immigrants",0,7.17552676917632e-05,-7.17552676917632e-05,0
+"351","3553005","Greater Sudbury (CV)","35","Ontario","v_CA16_4875","Total visible minority population",0.160898904228317,0.153155856159316,0.00774304806900067,1.05055665687994
+"352","3553005","Greater Sudbury (CV)","35","Ontario","v_CA16_4878","South Asian",0.0157865411997771,0.0101003904527572,0.00568615074701998,1.56296345904804
+"353","3553005","Greater Sudbury (CV)","35","Ontario","v_CA16_4881","Chinese",0.0859902185352566,0.0828260273086421,0.00316419122661453,1.03820286121926
+"354","3553005","Greater Sudbury (CV)","35","Ontario","v_CA16_4884","Black",0.0378567448771126,0.0307997403425961,0.00705700453451653,1.22912545547524
+"355","3553005","Greater Sudbury (CV)","35","Ontario","v_CA16_4887","Filipino",0.335077075465858,0.274706305317549,0.0603707701483091,1.21976477779978
+"356","3553005","Greater Sudbury (CV)","35","Ontario","v_CA16_4890","Arab",0.280876617346623,0.264526723818064,0.0163498935285585,1.0618080974677
+"357","3553005","Greater Sudbury (CV)","35","Ontario","v_CA16_4893","Latin American",0.00704513093542995,9.65907696700522e-05,0.0069485401657599,72.9379314348117
+"358","3553005","Greater Sudbury (CV)","35","Ontario","v_CA16_4896","Southeast Asian",1.85007119420541,0.0376554542554592,1.81241573994995,49.1315595784426
+"359","3553005","Greater Sudbury (CV)","35","Ontario","v_CA16_4899","West Asian",0.000253203739243484,3.39815101918505e-06,0.000249805588224299,74.512209084871
+"360","3553005","Greater Sudbury (CV)","35","Ontario","v_CA16_1189","Non-official languages",0,2.19355481544768e-05,-2.19355481544768e-05,0
+"361","3553005","Greater Sudbury (CV)","35","Ontario","v_CA16_1192","Indigenous languages",3.09540023525042e-05,1.37561912155194e-05,1.71978111369848e-05,2.2501869789061
+"362","3553005","Greater Sudbury (CV)","35","Ontario","v_CA16_6087","28. Military science, leadership and operational art",0,0,0,NA
+"363","3553005","Greater Sudbury (CV)","35","Ontario","v_CA16_4272","Total - Occupied private dwellings by dwelling condition",0,0.000171022917814565,-0.000171022917814565,0
+"364","3553005","Greater Sudbury (CV)","35","Ontario","v_CA16_4288","Total - Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio",10,4425,-4415,0.00225988700564972
+"365","3553005","Greater Sudbury (CV)","35","Ontario","v_CA16_4311","Median value of dwellings ($)",25,1495,-1470,0.0167224080267559
+"366","3553005","Greater Sudbury (CV)","35","Ontario","v_CA16_4305","Total - Owner households in non-farm, non-reserve private dwellings",0,1.44997691190609e-05,-1.44997691190609e-05,0
+"367","3553005","Greater Sudbury (CV)","35","Ontario","v_CA16_4313","Total - Tenant households in non-farm, non-reserve private dwellings",0.000123816009410017,5.50247648620775e-05,6.87912445479393e-05,2.2501869789061
+"368","3553005","Greater Sudbury (CV)","35","Ontario","v_CA16_4263","Total - Occupied private dwellings by period of construction",0.00123816009410017,0.00173179293734836,-0.000493632843248189,0.71495850768163
+"369","3553005","Greater Sudbury (CV)","35","Ontario","v_CA16_560","Median total income in 2020 among recipients ($)",40955,490720,-449765,0.0834589990218454
+"370","3553005","Greater Sudbury (CV)","35","Ontario","v_CA16_566","Median after-tax income in 2020 among recipients ($)",225,22760,-22535,0.00988576449912127
+"371","3553005","Greater Sudbury (CV)","35","Ontario","v_CA16_1040","Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%)",865,200640,-199775,0.00431120414673046
+"372","3553005","Greater Sudbury (CV)","35","Ontario","v_CA16_1010","LIM low-income status in 2020 for the population in private households",0.000526218039992571,0.00310332238043081,-0.00257710434043824,0.169566024887018
+"373","3553005","Greater Sudbury (CV)","35","Ontario","v_CA16_1100","Adjusted after-tax family income decile group for the population in private households",5,5490,-5485,0.000910746812386157
+"374","3553005","Greater Sudbury (CV)","35","Ontario","v_CA16_4404","Total - Immigrant status and period of immigration for the population in private households",0.0088528446728162,0.0307911891967054,-0.0219383445238892,0.287512269054014
+"375","3553005","Greater Sudbury (CV)","35","Ontario","v_CA16_4437","Total - Age at immigration for the immigrant population in private households",0,1.33844022637486e-05,-1.33844022637486e-05,0
+"376","3553005","Greater Sudbury (CV)","35","Ontario","v_CA16_6582","4 Occupations in education, law and social, community and government services",0,3.34610056593714e-06,-3.34610056593714e-06,0
+"377","3553005","Greater Sudbury (CV)","35","Ontario","v_CA16_5847","Bachelor's degree or higher",0.0144555190986195,0.024420213719161,-0.00996469462054158,0.591948918419051
+"378","4607062","Brandon (CY)","46","Manitoba","v_CA16_1142","Gini index on adjusted household after-tax income",40,3840,-3800,0.0104166666666667
+"379","4607062","Brandon (CY)","46","Manitoba","v_CA16_4410","Immigrants",0,2.73787220394801e-05,-2.73787220394801e-05,0
+"380","4607062","Brandon (CY)","46","Manitoba","v_CA16_4875","Total visible minority population",0.151555464592714,0.146886843741811,0.00466862085090305,1.03178379174046
+"381","4607062","Brandon (CY)","46","Manitoba","v_CA16_4878","South Asian",0.028960294719607,0.0134820649814411,0.0154782297381659,2.14806075771572
+"382","4607062","Brandon (CY)","46","Manitoba","v_CA16_4881","Chinese",0.0670282439623414,0.0744192777493126,-0.00739103378697122,0.900683881777669
+"383","4607062","Brandon (CY)","46","Manitoba","v_CA16_4884","Black",0.031723291035612,0.0295377298345934,0.00218556120101854,1.07399218603655
+"384","4607062","Brandon (CY)","46","Manitoba","v_CA16_4887","Filipino",0.332071223905035,0.292451686333715,0.0396195375713195,1.13547378737324
+"385","4607062","Brandon (CY)","46","Manitoba","v_CA16_4890","Arab",0.25665165779779,0.253542611069608,0.00310904672818113,1.01226242293185
+"386","4607062","Brandon (CY)","46","Manitoba","v_CA16_4893","Latin American",0.0215718379042161,0.000761128472697547,0.0208107094315186,28.3419142470948
+"387","4607062","Brandon (CY)","46","Manitoba","v_CA16_4896","Southeast Asian",5.75466639377814,0.232675331380318,5.52199106239782,24.7326021183221
+"388","4607062","Brandon (CY)","46","Manitoba","v_CA16_4899","West Asian",0.000730659025787966,2.88649955216233e-05,0.000701794030266342,25.3129790108789
+"389","4607062","Brandon (CY)","46","Manitoba","v_CA16_1189","Non-official languages",0,7.82249201128003e-06,-7.82249201128003e-06,0
+"390","4607062","Brandon (CY)","46","Manitoba","v_CA16_1192","Indigenous languages",0,2.34674760338401e-05,-2.34674760338401e-05,0
+"391","4607062","Brandon (CY)","46","Manitoba","v_CA16_6087","28. Military science, leadership and operational art",0,0,0,NA
+"392","4607062","Brandon (CY)","46","Manitoba","v_CA16_4272","Total - Occupied private dwellings by dwelling condition",0,4.69349520676802e-05,-4.69349520676802e-05,0
+"393","4607062","Brandon (CY)","46","Manitoba","v_CA16_4288","Total - Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio",0,145,-145,0
+"394","4607062","Brandon (CY)","46","Manitoba","v_CA16_4311","Median value of dwellings ($)",0,70,-70,0
+"395","4607062","Brandon (CY)","46","Manitoba","v_CA16_4305","Total - Owner households in non-farm, non-reserve private dwellings",0,0,0,NA
+"396","4607062","Brandon (CY)","46","Manitoba","v_CA16_4313","Total - Tenant households in non-farm, non-reserve private dwellings",0,3.52012140507602e-05,-3.52012140507602e-05,0
+"397","4607062","Brandon (CY)","46","Manitoba","v_CA16_4263","Total - Occupied private dwellings by period of construction",0.0024559967253377,0.00166227955239701,0.000793717172940692,1.47748717825239
+"398","4607062","Brandon (CY)","46","Manitoba","v_CA16_560","Median total income in 2020 among recipients ($)",620,40525,-39905,0.0152991980259099
+"399","4607062","Brandon (CY)","46","Manitoba","v_CA16_566","Median after-tax income in 2020 among recipients ($)",235,29705,-29470,0.00791112607305168
+"400","4607062","Brandon (CY)","46","Manitoba","v_CA16_1040","Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%)",770,68670,-67900,0.0112130479102956
+"401","4607062","Brandon (CY)","46","Manitoba","v_CA16_1010","LIM low-income status in 2020 for the population in private households",0,0.000508461980733202,-0.000508461980733202,0
+"402","4607062","Brandon (CY)","46","Manitoba","v_CA16_1100","Adjusted after-tax family income decile group for the population in private households",0,135,-135,0
+"403","4607062","Brandon (CY)","46","Manitoba","v_CA16_4404","Total - Immigrant status and period of immigration for the population in private households",0.0248669668440442,0.0225796231905598,0.00228734365348439,1.10130123227392
+"404","4607062","Brandon (CY)","46","Manitoba","v_CA16_4437","Total - Age at immigration for the immigrant population in private households",0,1.17337380169201e-05,-1.17337380169201e-05,0
+"405","4607062","Brandon (CY)","46","Manitoba","v_CA16_6582","4 Occupations in education, law and social, community and government services",0,7.82249201128003e-06,-7.82249201128003e-06,0
+"406","4607062","Brandon (CY)","46","Manitoba","v_CA16_5847","Bachelor's degree or higher",0.0185223086369218,0.0174480684311601,0.0010742402057617,1.06156785835636
+"407","4611040","Winnipeg (CY)","46","Manitoba","v_CA16_1142","Gini index on adjusted household after-tax income",3365,3840,-475,0.876302083333333
+"408","4611040","Winnipeg (CY)","46","Manitoba","v_CA16_4410","Immigrants",4.25387102263059e-05,2.73787220394801e-05,1.51599881868258e-05,1.55371423709862
+"409","4611040","Winnipeg (CY)","46","Manitoba","v_CA16_4875","Total visible minority population",0.154543134252169,0.146886843741811,0.00765629051035865,1.05212373222354
+"410","4611040","Winnipeg (CY)","46","Manitoba","v_CA16_4878","South Asian",0.0136052974873802,0.0134820649814411,0.000123232505939045,1.0091404770789
+"411","4611040","Winnipeg (CY)","46","Manitoba","v_CA16_4881","Chinese",0.078420112302195,0.0744192777493126,0.00400083455288239,1.05376072805167
+"412","4611040","Winnipeg (CY)","46","Manitoba","v_CA16_4884","Black",0.0296140321025467,0.0295377298345934,7.63022679532432e-05,1.0025832136857
+"413","4611040","Winnipeg (CY)","46","Manitoba","v_CA16_4887","Filipino",0.310546764222109,0.292451686333715,0.0180950778883935,1.0618737341379
+"414","4611040","Winnipeg (CY)","46","Manitoba","v_CA16_4890","Arab",0.258599909250751,0.253542611069608,0.00505729818114303,1.01994654137152
+"415","4611040","Winnipeg (CY)","46","Manitoba","v_CA16_4893","Latin American",0.00152713969712438,0.000761128472697547,0.000766011224426836,2.00641514790793
+"416","4611040","Winnipeg (CY)","46","Manitoba","v_CA16_4896","Southeast Asian",0.450208439680109,0.232675331380318,0.217533108299791,1.9349212355659
+"417","4611040","Winnipeg (CY)","46","Manitoba","v_CA16_4899","West Asian",5.61510974987238e-05,2.88649955216233e-05,2.72861019771005e-05,1.94530075213973
+"418","4611040","Winnipeg (CY)","46","Manitoba","v_CA16_1189","Non-official languages",1.41795700754353e-05,7.82249201128003e-06,6.35707806415528e-06,1.81266660994839
+"419","4611040","Winnipeg (CY)","46","Manitoba","v_CA16_1192","Indigenous languages",4.25387102263059e-05,2.34674760338401e-05,1.90712341924658e-05,1.81266660994839
+"420","4611040","Winnipeg (CY)","46","Manitoba","v_CA16_6087","28. Military science, leadership and operational art",0,0,0,NA
+"421","4611040","Winnipeg (CY)","46","Manitoba","v_CA16_4272","Total - Occupied private dwellings by dwelling condition",7.79876354148942e-05,4.69349520676802e-05,3.1052683347214e-05,1.66161105911935
+"422","4611040","Winnipeg (CY)","46","Manitoba","v_CA16_4288","Total - Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio",130,145,-15,0.896551724137931
+"423","4611040","Winnipeg (CY)","46","Manitoba","v_CA16_4311","Median value of dwellings ($)",60,70,-10,0.857142857142857
+"424","4611040","Winnipeg (CY)","46","Manitoba","v_CA16_4305","Total - Owner households in non-farm, non-reserve private dwellings",0,0,0,NA
+"425","4611040","Winnipeg (CY)","46","Manitoba","v_CA16_4313","Total - Tenant households in non-farm, non-reserve private dwellings",5.67182803017413e-05,3.52012140507602e-05,2.15170662509811e-05,1.61125920884301
+"426","4611040","Winnipeg (CY)","46","Manitoba","v_CA16_4263","Total - Occupied private dwellings by period of construction",0.00177244625942941,0.00166227955239701,0.000110166707032407,1.06627447644023
+"427","4611040","Winnipeg (CY)","46","Manitoba","v_CA16_560","Median total income in 2020 among recipients ($)",22390,40525,-18135,0.552498457742134
+"428","4611040","Winnipeg (CY)","46","Manitoba","v_CA16_566","Median after-tax income in 2020 among recipients ($)",3585,29705,-26120,0.120686753071873
+"429","4611040","Winnipeg (CY)","46","Manitoba","v_CA16_1040","Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%)",15880,68670,-52790,0.231250910149993
+"430","4611040","Winnipeg (CY)","46","Manitoba","v_CA16_1010","LIM low-income status in 2020 for the population in private households",0.000864953774601554,0.000508461980733202,0.000356491793868352,1.70111789549002
+"431","4611040","Winnipeg (CY)","46","Manitoba","v_CA16_1100","Adjusted after-tax family income decile group for the population in private households",100,135,-35,0.740740740740741
+"432","4611040","Winnipeg (CY)","46","Manitoba","v_CA16_4404","Total - Immigrant status and period of immigration for the population in private households",0.0359664794963417,0.0225796231905598,0.0133868563057819,1.59287332622002
+"433","4611040","Winnipeg (CY)","46","Manitoba","v_CA16_4437","Total - Age at immigration for the immigrant population in private households",2.1269355113153e-05,1.17337380169201e-05,9.53561709623292e-06,1.81266660994839
+"434","4611040","Winnipeg (CY)","46","Manitoba","v_CA16_6582","4 Occupations in education, law and social, community and government services",0,7.82249201128003e-06,-7.82249201128003e-06,0
+"435","4611040","Winnipeg (CY)","46","Manitoba","v_CA16_5847","Bachelor's degree or higher",0.0216663830752652,0.0174480684311601,0.00421831464410504,1.24176399013725
+"436","4801006","Medicine Hat (CY)","48","Alberta","v_CA16_1142","Gini index on adjusted household after-tax income",65,11375,-11310,0.00571428571428571
+"437","4801006","Medicine Hat (CY)","48","Alberta","v_CA16_4410","Immigrants",0,3.196321771254e-05,-3.196321771254e-05,0
+"438","4801006","Medicine Hat (CY)","48","Alberta","v_CA16_4875","Total visible minority population",0.154204868795447,0.148954741313074,0.0052501274823738,1.03524646101287
+"439","4801006","Medicine Hat (CY)","48","Alberta","v_CA16_4878","South Asian",0.0173095162820107,0.0132659647052315,0.00404355157677923,1.30480644767467
+"440","4801006","Medicine Hat (CY)","48","Alberta","v_CA16_4881","Chinese",0.0759563705343029,0.0763281638975456,-0.000371793363242723,0.995129014714126
+"441","4801006","Medicine Hat (CY)","48","Alberta","v_CA16_4884","Black",0.0351723047739488,0.0213833926496893,0.0137889121242595,1.64484211416563
+"442","4801006","Medicine Hat (CY)","48","Alberta","v_CA16_4887","Filipino",0.336468542522921,0.287860738719136,0.0486078038037858,1.16885874753213
+"443","4801006","Medicine Hat (CY)","48","Alberta","v_CA16_4890","Arab",0.300742965539045,0.264426782717734,0.0363161828213112,1.13733927572714
+"444","4801006","Medicine Hat (CY)","48","Alberta","v_CA16_4893","Latin American",0.015460006323111,0.000364134811017475,0.0150958715120935,42.4568205382842
+"445","4801006","Medicine Hat (CY)","48","Alberta","v_CA16_4896","Southeast Asian",4.8610970597534,0.110590274576334,4.75050678517707,43.9559181707075
+"446","4801006","Medicine Hat (CY)","48","Alberta","v_CA16_4899","West Asian",0.00061650331963326,8.85135259731878e-06,0.000607651967035941,69.6507469174834
+"447","4801006","Medicine Hat (CY)","48","Alberta","v_CA16_1189","Non-official languages",0,2.45870905481077e-05,-2.45870905481077e-05,0
+"448","4801006","Medicine Hat (CY)","48","Alberta","v_CA16_1192","Indigenous languages",0,2.58164450755131e-05,-2.58164450755131e-05,0
+"449","4801006","Medicine Hat (CY)","48","Alberta","v_CA16_6087","28. Military science, leadership and operational art",0,0,0,NA
+"450","4801006","Medicine Hat (CY)","48","Alberta","v_CA16_4272","Total - Occupied private dwellings by dwelling condition",0.000237116661397408,7.62199806991339e-05,0.000160896680698274,3.11095147522258
+"451","4801006","Medicine Hat (CY)","48","Alberta","v_CA16_4288","Total - Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio",0,530,-530,0
+"452","4801006","Medicine Hat (CY)","48","Alberta","v_CA16_4311","Median value of dwellings ($)",10,465,-455,0.021505376344086
+"453","4801006","Medicine Hat (CY)","48","Alberta","v_CA16_4305","Total - Owner households in non-farm, non-reserve private dwellings",0,0,0,NA
+"454","4801006","Medicine Hat (CY)","48","Alberta","v_CA16_4313","Total - Tenant households in non-farm, non-reserve private dwellings",0.000158077774264938,5.90090173154585e-05,9.90687569494798e-05,2.67887488144167
+"455","4801006","Medicine Hat (CY)","48","Alberta","v_CA16_4263","Total - Occupied private dwellings by period of construction",0.00173885551691432,0.00276727704118952,-0.0010284215242752,0.628363366237762
+"456","4801006","Medicine Hat (CY)","48","Alberta","v_CA16_560","Median total income in 2020 among recipients ($)",700,72150,-71450,0.0097020097020097
+"457","4801006","Medicine Hat (CY)","48","Alberta","v_CA16_566","Median after-tax income in 2020 among recipients ($)",35,23840,-23805,0.00146812080536913
+"458","4801006","Medicine Hat (CY)","48","Alberta","v_CA16_1040","Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%)",1605,104260,-102655,0.0153942067907155
+"459","4801006","Medicine Hat (CY)","48","Alberta","v_CA16_1010","LIM low-income status in 2020 for the population in private households",0.000316155548529877,0.00098840104003393,-0.000672245491504054,0.319865657485572
+"460","4801006","Medicine Hat (CY)","48","Alberta","v_CA16_1100","Adjusted after-tax family income decile group for the population in private households",10,1505,-1495,0.00664451827242525
+"461","4801006","Medicine Hat (CY)","48","Alberta","v_CA16_4404","Total - Immigrant status and period of immigration for the population in private households",0.0131994941511224,0.0335626079526944,-0.0203631138015721,0.393279752566507
+"462","4801006","Medicine Hat (CY)","48","Alberta","v_CA16_4437","Total - Age at immigration for the immigrant population in private households",0,3.07338631851346e-05,-3.07338631851346e-05,0
+"463","4801006","Medicine Hat (CY)","48","Alberta","v_CA16_6582","4 Occupations in education, law and social, community and government services",0,6.14677263702693e-06,-6.14677263702693e-06,0
+"464","4801006","Medicine Hat (CY)","48","Alberta","v_CA16_5847","Bachelor's degree or higher",0.0162820107492887,0.0189750871305021,-0.00269307638121348,0.8580730426853
+"465","4802012","Lethbridge (CY)","48","Alberta","v_CA16_1142","Gini index on adjusted household after-tax income",260,11375,-11115,0.0228571428571429
+"466","4802012","Lethbridge (CY)","48","Alberta","v_CA16_4410","Immigrants",0,3.196321771254e-05,-3.196321771254e-05,0
+"467","4802012","Lethbridge (CY)","48","Alberta","v_CA16_4875","Total visible minority population",0.161005068478378,0.148954741313074,0.0120503271653045,1.08089925207535
+"468","4802012","Lethbridge (CY)","48","Alberta","v_CA16_4878","South Asian",0.0264207915453467,0.0132659647052315,0.0131548268401152,1.99162233070977
+"469","4802012","Lethbridge (CY)","48","Alberta","v_CA16_4881","Chinese",0.068747978000647,0.0763281638975456,-0.00758018589689856,0.900689529135361
+"470","4802012","Lethbridge (CY)","48","Alberta","v_CA16_4884","Black",0.03116575002696,0.0213833926496893,0.00978235737727071,1.45747452415662
+"471","4802012","Lethbridge (CY)","48","Alberta","v_CA16_4887","Filipino",0.31656421869945,0.287860738719136,0.0287034799803145,1.09971307691363
+"472","4802012","Lethbridge (CY)","48","Alberta","v_CA16_4890","Arab",0.278119271001833,0.264426782717734,0.0136924882840992,1.05178177544411
+"473","4802012","Lethbridge (CY)","48","Alberta","v_CA16_4893","Latin American",0.0125741399762752,0.000364134811017475,0.0122100051652577,34.5315514908893
+"474","4802012","Lethbridge (CY)","48","Alberta","v_CA16_4896","Southeast Asian",3.47320176857543,0.110590274576334,3.3626114939991,31.4060325998928
+"475","4802012","Lethbridge (CY)","48","Alberta","v_CA16_4899","West Asian",0.000437830259894317,8.85135259731878e-06,0.000428978907296998,49.4647857579352
+"476","4802012","Lethbridge (CY)","48","Alberta","v_CA16_1189","Non-official languages",0.000107839965491211,2.45870905481077e-05,8.32528749431033e-05,4.38604011646716
+"477","4802012","Lethbridge (CY)","48","Alberta","v_CA16_1192","Indigenous languages",0,2.58164450755131e-05,-2.58164450755131e-05,0
+"478","4802012","Lethbridge (CY)","48","Alberta","v_CA16_6087","28. Military science, leadership and operational art",0,0,0,NA
+"479","4802012","Lethbridge (CY)","48","Alberta","v_CA16_4272","Total - Occupied private dwellings by dwelling condition",0.000107839965491211,7.62199806991339e-05,3.16199847920771e-05,1.41485165047328
+"480","4802012","Lethbridge (CY)","48","Alberta","v_CA16_4288","Total - Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio",15,530,-515,0.0283018867924528
+"481","4802012","Lethbridge (CY)","48","Alberta","v_CA16_4311","Median value of dwellings ($)",10,465,-455,0.021505376344086
+"482","4802012","Lethbridge (CY)","48","Alberta","v_CA16_4305","Total - Owner households in non-farm, non-reserve private dwellings",0,0,0,NA
+"483","4802012","Lethbridge (CY)","48","Alberta","v_CA16_4313","Total - Tenant households in non-farm, non-reserve private dwellings",0.000161759948236817,5.90090173154585e-05,0.000102750930921358,2.74127507279198
+"484","4802012","Lethbridge (CY)","48","Alberta","v_CA16_4263","Total - Occupied private dwellings by period of construction",0.00404399870592041,0.00276727704118952,0.00127672166473089,1.46136387709923
+"485","4802012","Lethbridge (CY)","48","Alberta","v_CA16_560","Median total income in 2020 among recipients ($)",905,72150,-71245,0.0125433125433125
+"486","4802012","Lethbridge (CY)","48","Alberta","v_CA16_566","Median after-tax income in 2020 among recipients ($)",265,23840,-23575,0.0111157718120805
+"487","4802012","Lethbridge (CY)","48","Alberta","v_CA16_1040","Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%)",2365,104260,-101895,0.0226836754268176
+"488","4802012","Lethbridge (CY)","48","Alberta","v_CA16_1010","LIM low-income status in 2020 for the population in private households",0.000431359861964844,0.00098840104003393,-0.000557041178069086,0.436421902136036
+"489","4802012","Lethbridge (CY)","48","Alberta","v_CA16_1100","Adjusted after-tax family income decile group for the population in private households",5,1505,-1500,0.00332225913621262
+"490","4802012","Lethbridge (CY)","48","Alberta","v_CA16_4404","Total - Immigrant status and period of immigration for the population in private households",0.0223228728566807,0.0335626079526944,-0.0112397350960138,0.665111390871179
+"491","4802012","Lethbridge (CY)","48","Alberta","v_CA16_4437","Total - Age at immigration for the immigrant population in private households",0,3.07338631851346e-05,-3.07338631851346e-05,0
+"492","4802012","Lethbridge (CY)","48","Alberta","v_CA16_6582","4 Occupations in education, law and social, community and government services",0,6.14677263702693e-06,-6.14677263702693e-06,0
+"493","4802012","Lethbridge (CY)","48","Alberta","v_CA16_5847","Bachelor's degree or higher",0.0200582335813653,0.0189750871305021,0.00108314645086312,1.05708255479481
+"494","4806016","Calgary (CY)","48","Alberta","v_CA16_1142","Gini index on adjusted household after-tax income",5000,11375,-6375,0.43956043956044
+"495","4806016","Calgary (CY)","48","Alberta","v_CA16_4410","Immigrants",7.66611255467149e-05,3.196321771254e-05,4.46979078341748e-05,2.39841702534969
+"496","4806016","Calgary (CY)","48","Alberta","v_CA16_4875","Total visible minority population",0.151603427962751,0.148954741313074,0.00264868664967718,1.01778182168844
+"497","4806016","Calgary (CY)","48","Alberta","v_CA16_4878","South Asian",0.0107648359451913,0.0132659647052315,-0.00250112876004019,0.811462730708619
+"498","4806016","Calgary (CY)","48","Alberta","v_CA16_4881","Chinese",0.0801592937492939,0.0763281638975456,0.00383112985174831,1.05019287319541
+"499","4806016","Calgary (CY)","48","Alberta","v_CA16_4884","Black",0.0185277836058166,0.0213833926496893,-0.00285560904387272,0.866456689513476
+"500","4806016","Calgary (CY)","48","Alberta","v_CA16_4887","Filipino",0.291372799018738,0.287860738719136,0.00351206029960205,1.01220055334822
+"501","4806016","Calgary (CY)","48","Alberta","v_CA16_4890","Arab",0.269072481076806,0.264426782717734,0.0046456983590723,1.01756894029918
+"502","4806016","Calgary (CY)","48","Alberta","v_CA16_4893","Latin American",0.00128145123545456,0.000364134811017475,0.000917316424437085,3.51916706857522
+"503","4806016","Calgary (CY)","48","Alberta","v_CA16_4896","Southeast Asian",0.418120269201595,0.110590274576334,0.307529994625261,3.78080505544809
+"504","4806016","Calgary (CY)","48","Alberta","v_CA16_4899","West Asian",2.96154032375204e-05,8.85135259731878e-06,2.07640506402016e-05,3.34586187951561
+"505","4806016","Calgary (CY)","48","Alberta","v_CA16_1189","Non-official languages",2.01739804070302e-05,2.45870905481077e-05,-4.41311014107749e-06,0.820511087619632
+"506","4806016","Calgary (CY)","48","Alberta","v_CA16_1192","Indigenous languages",3.22783686512484e-05,2.58164450755131e-05,6.46192357573527e-06,1.25030260970611
+"507","4806016","Calgary (CY)","48","Alberta","v_CA16_6087","28. Military science, leadership and operational art",0,0,0,NA
+"508","4806016","Calgary (CY)","48","Alberta","v_CA16_4272","Total - Occupied private dwellings by dwelling condition",9.68351059537451e-05,7.62199806991339e-05,2.06151252546112e-05,1.2704687808304
+"509","4806016","Calgary (CY)","48","Alberta","v_CA16_4288","Total - Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio",185,530,-345,0.349056603773585
+"510","4806016","Calgary (CY)","48","Alberta","v_CA16_4311","Median value of dwellings ($)",220,465,-245,0.473118279569892
+"511","4806016","Calgary (CY)","48","Alberta","v_CA16_4305","Total - Owner households in non-farm, non-reserve private dwellings",0,0,0,NA
+"512","4806016","Calgary (CY)","48","Alberta","v_CA16_4313","Total - Tenant households in non-farm, non-reserve private dwellings",8.06959216281209e-05,5.90090173154585e-05,2.16869043126624e-05,1.36751847936605
+"513","4806016","Calgary (CY)","48","Alberta","v_CA16_4263","Total - Occupied private dwellings by period of construction",0.00294136634334501,0.00276727704118952,0.000174089302155484,1.0629099651261
+"514","4806016","Calgary (CY)","48","Alberta","v_CA16_560","Median total income in 2020 among recipients ($)",18150,72150,-54000,0.251559251559252
+"515","4806016","Calgary (CY)","48","Alberta","v_CA16_566","Median after-tax income in 2020 among recipients ($)",695,23840,-23145,0.0291526845637584
+"516","4806016","Calgary (CY)","48","Alberta","v_CA16_1040","Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%)",15660,104260,-88600,0.150201419528103
+"517","4806016","Calgary (CY)","48","Alberta","v_CA16_1010","LIM low-income status in 2020 for the population in private households",0.00146463097755039,0.00098840104003393,0.000476229937516464,1.48181853137277
+"518","4806016","Calgary (CY)","48","Alberta","v_CA16_1100","Adjusted after-tax family income decile group for the population in private households",845,1505,-660,0.561461794019934
+"519","4806016","Calgary (CY)","48","Alberta","v_CA16_4404","Total - Immigrant status and period of immigration for the population in private households",0.0449678023272704,0.0335626079526944,0.0114051943745759,1.33981847866683
+"520","4806016","Calgary (CY)","48","Alberta","v_CA16_4437","Total - Age at immigration for the immigrant population in private households",5.64871451396846e-05,3.07338631851346e-05,2.575328195455e-05,1.83794483626798
+"521","4806016","Calgary (CY)","48","Alberta","v_CA16_6582","4 Occupations in education, law and social, community and government services",1.61391843256242e-05,6.14677263702693e-06,9.99241168859726e-06,2.62563548038282
+"522","4806016","Calgary (CY)","48","Alberta","v_CA16_5847","Bachelor's degree or higher",0.0236882877939349,0.0189750871305021,0.00471320066343276,1.24838888122186
+"523","4806034","Olds (T)","48","Alberta","v_CA16_1142","Gini index on adjusted household after-tax income",5,11375,-11370,0.00043956043956044
+"524","4806034","Olds (T)","48","Alberta","v_CA16_4410","Immigrants",0,3.196321771254e-05,-3.196321771254e-05,0
+"525","4806034","Olds (T)","48","Alberta","v_CA16_4875","Total visible minority population",0.158496732026144,0.148954741313074,0.00954199071307021,1.06405966422388
+"526","4806034","Olds (T)","48","Alberta","v_CA16_4878","South Asian",0.0174291938997821,0.0132659647052315,0.00416322919455062,1.31382785097482
+"527","4806034","Olds (T)","48","Alberta","v_CA16_4881","Chinese",0.0631808278867102,0.0763281638975456,-0.0131473360108354,0.827752492140609
+"528","4806034","Olds (T)","48","Alberta","v_CA16_4884","Black",0.042483660130719,0.0213833926496893,0.0211002674810297,1.9867595767754
+"529","4806034","Olds (T)","48","Alberta","v_CA16_4887","Filipino",0.315359477124183,0.287860738719136,0.0274987384050475,1.09552792272891
+"530","4806034","Olds (T)","48","Alberta","v_CA16_4890","Arab",0.295751633986928,0.264426782717734,0.031324851269194,1.11846323185285
+"531","4806034","Olds (T)","48","Alberta","v_CA16_4893","Latin American",0.125490196078431,0.000364134811017475,0.125126061267414,344.625650395202
+"532","4806034","Olds (T)","48","Alberta","v_CA16_4896","Southeast Asian",37.6157952069717,0.110590274576334,37.5052049323953,340.136556772972
+"533","4806034","Olds (T)","48","Alberta","v_CA16_4899","West Asian",0.00471677559912854,8.85135259731878e-06,0.00470792424653122,532.887549927378
+"534","4806034","Olds (T)","48","Alberta","v_CA16_1189","Non-official languages",0,2.45870905481077e-05,-2.45870905481077e-05,0
+"535","4806034","Olds (T)","48","Alberta","v_CA16_1192","Indigenous languages",0,2.58164450755131e-05,-2.58164450755131e-05,0
+"536","4806034","Olds (T)","48","Alberta","v_CA16_6087","28. Military science, leadership and operational art",0,0,0,NA
+"537","4806034","Olds (T)","48","Alberta","v_CA16_4272","Total - Occupied private dwellings by dwelling condition",0,7.62199806991339e-05,-7.62199806991339e-05,0
+"538","4806034","Olds (T)","48","Alberta","v_CA16_4288","Total - Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio",0,530,-530,0
+"539","4806034","Olds (T)","48","Alberta","v_CA16_4311","Median value of dwellings ($)",0,465,-465,0
+"540","4806034","Olds (T)","48","Alberta","v_CA16_4305","Total - Owner households in non-farm, non-reserve private dwellings",0,0,0,NA
+"541","4806034","Olds (T)","48","Alberta","v_CA16_4313","Total - Tenant households in non-farm, non-reserve private dwellings",0,5.90090173154585e-05,-5.90090173154585e-05,0
+"542","4806034","Olds (T)","48","Alberta","v_CA16_4263","Total - Occupied private dwellings by period of construction",0,0.00276727704118952,-0.00276727704118952,0
+"543","4806034","Olds (T)","48","Alberta","v_CA16_560","Median total income in 2020 among recipients ($)",95,72150,-72055,0.00131670131670132
+"544","4806034","Olds (T)","48","Alberta","v_CA16_566","Median after-tax income in 2020 among recipients ($)",5,23840,-23835,0.000209731543624161
+"545","4806034","Olds (T)","48","Alberta","v_CA16_1040","Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%)",205,104260,-104055,0.00196623825052753
+"546","4806034","Olds (T)","48","Alberta","v_CA16_1010","LIM low-income status in 2020 for the population in private households",0,0.00098840104003393,-0.00098840104003393,0
+"547","4806034","Olds (T)","48","Alberta","v_CA16_1100","Adjusted after-tax family income decile group for the population in private households",0,1505,-1505,0
+"548","4806034","Olds (T)","48","Alberta","v_CA16_4404","Total - Immigrant status and period of immigration for the population in private households",0.00381263616557734,0.0335626079526944,-0.0297499717871171,0.113597732659844
+"549","4806034","Olds (T)","48","Alberta","v_CA16_4437","Total - Age at immigration for the immigrant population in private households",0,3.07338631851346e-05,-3.07338631851346e-05,0
+"550","4806034","Olds (T)","48","Alberta","v_CA16_6582","4 Occupations in education, law and social, community and government services",0,6.14677263702693e-06,-6.14677263702693e-06,0
+"551","4806034","Olds (T)","48","Alberta","v_CA16_5847","Bachelor's degree or higher",0.0168845315904139,0.0189750871305021,-0.00209055554008819,0.889826300890727
+"552","4809002","Clearwater County (MD)","48","Alberta","v_CA16_1142","Gini index on adjusted household after-tax income",5,11375,-11370,0.00043956043956044
+"553","4809002","Clearwater County (MD)","48","Alberta","v_CA16_4410","Immigrants",0,3.196321771254e-05,-3.196321771254e-05,0
+"554","4809002","Clearwater County (MD)","48","Alberta","v_CA16_4875","Total visible minority population",0.154876517371285,0.148954741313074,0.00592177605821148,1.03975553920613
+"555","4809002","Clearwater County (MD)","48","Alberta","v_CA16_4878","South Asian",0.00795311845960653,0.0132659647052315,-0.00531284624562499,0.599513012157357
+"556","4809002","Clearwater County (MD)","48","Alberta","v_CA16_4881","Chinese",0.0795311845960653,0.0763281638975456,0.0032030206985197,1.04196381171725
+"557","4809002","Clearwater County (MD)","48","Alberta","v_CA16_4884","Black",0.0359983256592717,0.0213833926496893,0.0146149330095824,1.68347119884153
+"558","4809002","Clearwater County (MD)","48","Alberta","v_CA16_4887","Filipino",0.275429049811637,0.287860738719136,-0.0124316889074989,0.956813530866297
+"559","4809002","Clearwater County (MD)","48","Alberta","v_CA16_4890","Arab",0.289242360820427,0.264426782717734,0.0248155781026929,1.09384668923338
+"560","4809002","Clearwater County (MD)","48","Alberta","v_CA16_4893","Latin American",0.0710757639179573,0.000364134811017475,0.0707116291069398,195.190796835259
+"561","4809002","Clearwater County (MD)","48","Alberta","v_CA16_4896","Southeast Asian",34.4847216408539,0.110590274576334,34.3741313662776,311.824179594122
+"562","4809002","Clearwater County (MD)","48","Alberta","v_CA16_4899","West Asian",0.00167434072833822,8.85135259731878e-06,0.0016654893757409,189.162131993861
+"563","4809002","Clearwater County (MD)","48","Alberta","v_CA16_1189","Non-official languages",0,2.45870905481077e-05,-2.45870905481077e-05,0
+"564","4809002","Clearwater County (MD)","48","Alberta","v_CA16_1192","Indigenous languages",0,2.58164450755131e-05,-2.58164450755131e-05,0
+"565","4809002","Clearwater County (MD)","48","Alberta","v_CA16_6087","28. Military science, leadership and operational art",0,0,0,NA
+"566","4809002","Clearwater County (MD)","48","Alberta","v_CA16_4272","Total - Occupied private dwellings by dwelling condition",0,7.62199806991339e-05,-7.62199806991339e-05,0
+"567","4809002","Clearwater County (MD)","48","Alberta","v_CA16_4288","Total - Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio",0,530,-530,0
+"568","4809002","Clearwater County (MD)","48","Alberta","v_CA16_4311","Median value of dwellings ($)",10,465,-455,0.021505376344086
+"569","4809002","Clearwater County (MD)","48","Alberta","v_CA16_4305","Total - Owner households in non-farm, non-reserve private dwellings",0,0,0,NA
+"570","4809002","Clearwater County (MD)","48","Alberta","v_CA16_4313","Total - Tenant households in non-farm, non-reserve private dwellings",0.000837170364169108,5.90090173154585e-05,0.00077816134685365,14.1871598995396
+"571","4809002","Clearwater County (MD)","48","Alberta","v_CA16_4263","Total - Occupied private dwellings by period of construction",0,0.00276727704118952,-0.00276727704118952,0
+"572","4809002","Clearwater County (MD)","48","Alberta","v_CA16_560","Median total income in 2020 among recipients ($)",110,72150,-72040,0.00152460152460152
+"573","4809002","Clearwater County (MD)","48","Alberta","v_CA16_566","Median after-tax income in 2020 among recipients ($)",10,23840,-23830,0.000419463087248322
+"574","4809002","Clearwater County (MD)","48","Alberta","v_CA16_1040","Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%)",310,104260,-103950,0.00297333589104163
+"575","4809002","Clearwater County (MD)","48","Alberta","v_CA16_1010","LIM low-income status in 2020 for the population in private households",0,0.00098840104003393,-0.00098840104003393,0
+"576","4809002","Clearwater County (MD)","48","Alberta","v_CA16_1100","Adjusted after-tax family income decile group for the population in private households",0,1505,-1505,0
+"577","4809002","Clearwater County (MD)","48","Alberta","v_CA16_4404","Total - Immigrant status and period of immigration for the population in private households",0.00502302218501465,0.0335626079526944,-0.0285395857676798,0.149661259699915
+"578","4809002","Clearwater County (MD)","48","Alberta","v_CA16_4437","Total - Age at immigration for the immigrant population in private households",0,3.07338631851346e-05,-3.07338631851346e-05,0
+"579","4809002","Clearwater County (MD)","48","Alberta","v_CA16_6582","4 Occupations in education, law and social, community and government services",0,6.14677263702693e-06,-6.14677263702693e-06,0
+"580","4809002","Clearwater County (MD)","48","Alberta","v_CA16_5847","Bachelor's degree or higher",0.0100460443700293,0.0189750871305021,-0.00892904276047283,0.529433372344333
+"581","4811061","Edmonton (CY)","48","Alberta","v_CA16_1142","Gini index on adjusted household after-tax income",4240,11375,-7135,0.372747252747253
+"582","4811061","Edmonton (CY)","48","Alberta","v_CA16_4410","Immigrants",2.68083577736195e-05,3.196321771254e-05,-5.15485993892053e-06,0.838725250214776
+"583","4811061","Edmonton (CY)","48","Alberta","v_CA16_4875","Total visible minority population",0.1477783913913,0.148954741313074,-0.00117634992177343,0.992102635260861
+"584","4811061","Edmonton (CY)","48","Alberta","v_CA16_4878","South Asian",0.017420070881298,0.0132659647052315,0.00415410617606644,1.31314014987755
+"585","4811061","Edmonton (CY)","48","Alberta","v_CA16_4881","Chinese",0.0741090242293937,0.0763281638975456,-0.00221913966815185,0.970926332367557
+"586","4811061","Edmonton (CY)","48","Alberta","v_CA16_4884","Black",0.0213555378024653,0.0213833926496893,-2.78548472239827e-05,0.998697360719119
+"587","4811061","Edmonton (CY)","48","Alberta","v_CA16_4887","Filipino",0.292034164571147,0.287860738719136,0.00417342585201119,1.01449807247276
+"588","4811061","Edmonton (CY)","48","Alberta","v_CA16_4890","Arab",0.248722581752087,0.264426782717734,-0.015704200965647,0.940610399581155
+"589","4811061","Edmonton (CY)","48","Alberta","v_CA16_4893","Latin American",0.00162458648108134,0.000364134811017475,0.00126045167006387,4.46149731343147
+"590","4811061","Edmonton (CY)","48","Alberta","v_CA16_4896","Southeast Asian",0.455436466872912,0.110590274576334,0.344846192296579,4.11823253552511
+"591","4811061","Edmonton (CY)","48","Alberta","v_CA16_4899","West Asian",4.08559372469961e-05,8.85135259731878e-06,3.20045846496773e-05,4.61578462701532
+"592","4811061","Edmonton (CY)","48","Alberta","v_CA16_1189","Non-official languages",5.3616715547239e-05,2.45870905481077e-05,2.90296249991313e-05,2.18068565055842
+"593","4811061","Edmonton (CY)","48","Alberta","v_CA16_1192","Indigenous languages",6.43400586566868e-05,2.58164450755131e-05,3.85236135811737e-05,2.49221217206676
+"594","4811061","Edmonton (CY)","48","Alberta","v_CA16_6087","28. Military science, leadership and operational art",0,0,0,NA
+"595","4811061","Edmonton (CY)","48","Alberta","v_CA16_4272","Total - Occupied private dwellings by dwelling condition",0.000107233431094478,7.62199806991339e-05,3.10134503953441e-05,1.40689396810221
+"596","4811061","Edmonton (CY)","48","Alberta","v_CA16_4288","Total - Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio",165,530,-365,0.311320754716981
+"597","4811061","Edmonton (CY)","48","Alberta","v_CA16_4311","Median value of dwellings ($)",50,465,-415,0.10752688172043
+"598","4811061","Edmonton (CY)","48","Alberta","v_CA16_4305","Total - Owner households in non-farm, non-reserve private dwellings",0,0,0,NA
+"599","4811061","Edmonton (CY)","48","Alberta","v_CA16_4313","Total - Tenant households in non-farm, non-reserve private dwellings",3.21700293283434e-05,5.90090173154585e-05,-2.68389879871151e-05,0.545171412639604
+"600","4811061","Edmonton (CY)","48","Alberta","v_CA16_4263","Total - Occupied private dwellings by period of construction",0.00249317727294661,0.00276727704118952,-0.00027409976824291,0.900949646832221
+"601","4811061","Edmonton (CY)","48","Alberta","v_CA16_560","Median total income in 2020 among recipients ($)",17705,72150,-54445,0.245391545391545
+"602","4811061","Edmonton (CY)","48","Alberta","v_CA16_566","Median after-tax income in 2020 among recipients ($)",2010,23840,-21830,0.0843120805369127
+"603","4811061","Edmonton (CY)","48","Alberta","v_CA16_1040","Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%)",13135,104260,-91125,0.125983119125264
+"604","4811061","Edmonton (CY)","48","Alberta","v_CA16_1010","LIM low-income status in 2020 for the population in private households",0.00180688331394195,0.00098840104003393,0.000818482273908024,1.8280872244731
+"605","4811061","Edmonton (CY)","48","Alberta","v_CA16_1100","Adjusted after-tax family income decile group for the population in private households",505,1505,-1000,0.335548172757475
+"606","4811061","Edmonton (CY)","48","Alberta","v_CA16_4404","Total - Immigrant status and period of immigration for the population in private households",0.059423405841005,0.0335626079526944,0.0258607978883106,1.77052408813882
+"607","4811061","Edmonton (CY)","48","Alberta","v_CA16_4437","Total - Age at immigration for the immigrant population in private households",5.89783871019629e-05,3.07338631851346e-05,2.82445239168283e-05,1.91900337249141
+"608","4811061","Edmonton (CY)","48","Alberta","v_CA16_6582","4 Occupations in education, law and social, community and government services",0,6.14677263702693e-06,-6.14677263702693e-06,0
+"609","4811061","Edmonton (CY)","48","Alberta","v_CA16_5847","Bachelor's degree or higher",0.0234144196794793,0.0189750871305021,0.00443933254897714,1.23395584528521
+"610","4819012","Grande Prairie (CY)","48","Alberta","v_CA16_1142","Gini index on adjusted household after-tax income",45,11375,-11330,0.00395604395604396
+"611","4819012","Grande Prairie (CY)","48","Alberta","v_CA16_4410","Immigrants",0,3.196321771254e-05,-3.196321771254e-05,0
+"612","4819012","Grande Prairie (CY)","48","Alberta","v_CA16_4875","Total visible minority population",0.144462914588775,0.148954741313074,-0.00449182672429813,0.969844352152194
+"613","4819012","Grande Prairie (CY)","48","Alberta","v_CA16_4878","South Asian",0.0269136388822924,0.0132659647052315,0.0136476741770609,2.02877359319966
+"614","4819012","Grande Prairie (CY)","48","Alberta","v_CA16_4881","Chinese",0.0682339903427531,0.0763281638975456,-0.00809417355479249,0.893955610334644
+"615","4819012","Grande Prairie (CY)","48","Alberta","v_CA16_4884","Black",0.0103696667458244,0.0213833926496893,-0.0110137259038649,0.484940201758635
+"616","4819012","Grande Prairie (CY)","48","Alberta","v_CA16_4887","Filipino",0.299770442491886,0.287860738719136,0.0119097037727508,1.0413731439228
+"617","4819012","Grande Prairie (CY)","48","Alberta","v_CA16_4890","Arab",0.244518325021768,0.264426782717734,-0.0199084576959657,0.924710887863363
+"618","4819012","Grande Prairie (CY)","48","Alberta","v_CA16_4893","Latin American",0.0284967941106626,0.000364134811017475,0.0281326592996451,78.2589119426293
+"619","4819012","Grande Prairie (CY)","48","Alberta","v_CA16_4896","Southeast Asian",5.17859574131244,0.110590274576334,5.0680054667361,46.82686394578
+"620","4819012","Grande Prairie (CY)","48","Alberta","v_CA16_4899","West Asian",0.000479696034196153,8.85135259731878e-06,0.000470844681598834,54.1946588300483
+"621","4819012","Grande Prairie (CY)","48","Alberta","v_CA16_1189","Non-official languages",0,2.45870905481077e-05,-2.45870905481077e-05,0
+"622","4819012","Grande Prairie (CY)","48","Alberta","v_CA16_1192","Indigenous languages",7.91577614185071e-05,2.58164450755131e-05,5.3341316342994e-05,3.06617588854587
+"623","4819012","Grande Prairie (CY)","48","Alberta","v_CA16_6087","28. Military science, leadership and operational art",0,0,0,NA
+"624","4819012","Grande Prairie (CY)","48","Alberta","v_CA16_4272","Total - Occupied private dwellings by dwelling condition",0.000158315522837014,7.62199806991339e-05,8.20955421378803e-05,2.07708689224075
+"625","4819012","Grande Prairie (CY)","48","Alberta","v_CA16_4288","Total - Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio",0,530,-530,0
+"626","4819012","Grande Prairie (CY)","48","Alberta","v_CA16_4311","Median value of dwellings ($)",15,465,-450,0.032258064516129
+"627","4819012","Grande Prairie (CY)","48","Alberta","v_CA16_4305","Total - Owner households in non-farm, non-reserve private dwellings",0,0,0,NA
+"628","4819012","Grande Prairie (CY)","48","Alberta","v_CA16_4313","Total - Tenant households in non-farm, non-reserve private dwellings",0,5.90090173154585e-05,-5.90090173154585e-05,0
+"629","4819012","Grande Prairie (CY)","48","Alberta","v_CA16_4263","Total - Occupied private dwellings by period of construction",0.00403704583234386,0.00276727704118952,0.00126976879115434,1.45885134457247
+"630","4819012","Grande Prairie (CY)","48","Alberta","v_CA16_560","Median total income in 2020 among recipients ($)",1605,72150,-70545,0.0222453222453222
+"631","4819012","Grande Prairie (CY)","48","Alberta","v_CA16_566","Median after-tax income in 2020 among recipients ($)",160,23840,-23680,0.00671140939597315
+"632","4819012","Grande Prairie (CY)","48","Alberta","v_CA16_1040","Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%)",855,104260,-103405,0.00820065221561481
+"633","4819012","Grande Prairie (CY)","48","Alberta","v_CA16_1010","LIM low-income status in 2020 for the population in private households",0.000158315522837014,0.00098840104003393,-0.000830085517196916,0.160173367312098
+"634","4819012","Grande Prairie (CY)","48","Alberta","v_CA16_1100","Adjusted after-tax family income decile group for the population in private households",0,1505,-1505,0
+"635","4819012","Grande Prairie (CY)","48","Alberta","v_CA16_4404","Total - Immigrant status and period of immigration for the population in private households",0.0231932240956226,0.0335626079526944,-0.0103693838570719,0.691043560390563
+"636","4819012","Grande Prairie (CY)","48","Alberta","v_CA16_4437","Total - Age at immigration for the immigrant population in private households",0,3.07338631851346e-05,-3.07338631851346e-05,0
+"637","4819012","Grande Prairie (CY)","48","Alberta","v_CA16_6582","4 Occupations in education, law and social, community and government services",0,6.14677263702693e-06,-6.14677263702693e-06,0
+"638","4819012","Grande Prairie (CY)","48","Alberta","v_CA16_5847","Bachelor's degree or higher",0.016702287659305,0.0189750871305021,-0.00227279947119714,0.880221921745822
+"639","5905014","Trail (CY)","59","British Columbia","v_CA16_1142","Gini index on adjusted household after-tax income",240,22675,-22435,0.0105843439911797
+"640","5905014","Trail (CY)","59","British Columbia","v_CA16_4410","Immigrants",0,7.53003137871647e-06,-7.53003137871647e-06,0
+"641","5905014","Trail (CY)","59","British Columbia","v_CA16_4875","Total visible minority population",0.14591439688716,0.156124443450002,-0.0102100465628427,0.93460315158073
+"642","5905014","Trail (CY)","59","British Columbia","v_CA16_4878","South Asian",0.0194552529182879,0.0126117268405817,0.00684352607770623,1.54263196184089
+"643","5905014","Trail (CY)","59","British Columbia","v_CA16_4881","Chinese",0.0784695201037613,0.0814415922358922,-0.00297207213213087,0.963506704000551
+"644","5905014","Trail (CY)","59","British Columbia","v_CA16_4884","Black",0.0551232166018158,0.0327502579035747,0.0223729586982411,1.68313839738645
+"645","5905014","Trail (CY)","59","British Columbia","v_CA16_4887","Filipino",0.382619974059663,0.284034935042722,0.0985850390169406,1.3470877235651
+"646","5905014","Trail (CY)","59","British Columbia","v_CA16_4890","Arab",0.323605706874189,0.267337628319803,0.0562680785543868,1.21047571532682
+"647","5905014","Trail (CY)","59","British Columbia","v_CA16_4893","Latin American",0.0835278858625162,0.000247200172975578,0.0832806856895406,337.895741969276
+"648","5905014","Trail (CY)","59","British Columbia","v_CA16_4896","Southeast Asian",29.1260700389105,0.155051736694166,28.9710183022163,187.847428606109
+"649","5905014","Trail (CY)","59","British Columbia","v_CA16_4899","West Asian",0.00542153047989624,9.31572453424067e-06,0.005412214755362,581.976255305638
+"650","5905014","Trail (CY)","59","British Columbia","v_CA16_1189","Non-official languages",0,7.53003137871647e-06,-7.53003137871647e-06,0
+"651","5905014","Trail (CY)","59","British Columbia","v_CA16_1192","Indigenous languages",0,3.2271563051642e-06,-3.2271563051642e-06,0
+"652","5905014","Trail (CY)","59","British Columbia","v_CA16_6087","28. Military science, leadership and operational art",0,2.15143753677614e-06,-2.15143753677614e-06,0
+"653","5905014","Trail (CY)","59","British Columbia","v_CA16_4272","Total - Occupied private dwellings by dwelling condition",0,5.48616571877915e-05,-5.48616571877915e-05,0
+"654","5905014","Trail (CY)","59","British Columbia","v_CA16_4288","Total - Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio",0,335,-335,0
+"655","5905014","Trail (CY)","59","British Columbia","v_CA16_4311","Median value of dwellings ($)",15,570,-555,0.0263157894736842
+"656","5905014","Trail (CY)","59","British Columbia","v_CA16_4305","Total - Owner households in non-farm, non-reserve private dwellings",0,6.45431261032841e-06,-6.45431261032841e-06,0
+"657","5905014","Trail (CY)","59","British Columbia","v_CA16_4313","Total - Tenant households in non-farm, non-reserve private dwellings",0.0012970168612192,6.66945636400602e-05,0.00123032229757914,19.4471151834651
+"658","5905014","Trail (CY)","59","British Columbia","v_CA16_4263","Total - Occupied private dwellings by period of construction",0.00194552529182879,0.00316691605413447,-0.00122139076230568,0.61432802719506
+"659","5905014","Trail (CY)","59","British Columbia","v_CA16_560","Median total income in 2020 among recipients ($)",60,57425,-57365,0.00104484109708315
+"660","5905014","Trail (CY)","59","British Columbia","v_CA16_566","Median after-tax income in 2020 among recipients ($)",10,8435,-8425,0.001185536455246
+"661","5905014","Trail (CY)","59","British Columbia","v_CA16_1040","Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%)",95,101730,-101635,0.000933844490317507
+"662","5905014","Trail (CY)","59","British Columbia","v_CA16_1010","LIM low-income status in 2020 for the population in private households",0,0.00151568774465879,-0.00151568774465879,0
+"663","5905014","Trail (CY)","59","British Columbia","v_CA16_1100","Adjusted after-tax family income decile group for the population in private households",0,620,-620,0
+"664","5905014","Trail (CY)","59","British Columbia","v_CA16_4404","Total - Immigrant status and period of immigration for the population in private households",0.00259403372243839,0.0129053980643516,-0.0103113643419133,0.2010037745061
+"665","5905014","Trail (CY)","59","British Columbia","v_CA16_4437","Total - Age at immigration for the immigrant population in private households",0,1.18329064522687e-05,-1.18329064522687e-05,0
+"666","5905014","Trail (CY)","59","British Columbia","v_CA16_6582","4 Occupations in education, law and social, community and government services",0,1.07571876838807e-05,-1.07571876838807e-05,0
+"667","5905014","Trail (CY)","59","British Columbia","v_CA16_5847","Bachelor's degree or higher",0.0123216601815824,0.0269951624926986,-0.0146735023111162,0.456439563381588
+"668","5909020","Chilliwack (CY)","59","British Columbia","v_CA16_1142","Gini index on adjusted household after-tax income",95,22675,-22580,0.0041896361631753
+"669","5909020","Chilliwack (CY)","59","British Columbia","v_CA16_4410","Immigrants",0,7.53003137871647e-06,-7.53003137871647e-06,0
+"670","5909020","Chilliwack (CY)","59","British Columbia","v_CA16_4875","Total visible minority population",0.15031626685762,0.156124443450002,-0.00580817659238198,0.962797775517823
+"671","5909020","Chilliwack (CY)","59","British Columbia","v_CA16_4878","South Asian",0.0105024465926722,0.0126117268405817,-0.00210928024790955,0.832752463277086
+"672","5909020","Chilliwack (CY)","59","British Columbia","v_CA16_4881","Chinese",0.0792457333810717,0.0814415922358922,-0.00219585885482049,0.9730376237186
+"673","5909020","Chilliwack (CY)","59","British Columbia","v_CA16_4884","Black",0.0359231411862991,0.0327502579035747,0.00317288328272436,1.09688116936563
+"674","5909020","Chilliwack (CY)","59","British Columbia","v_CA16_4887","Filipino",0.283924095954171,0.284034935042722,-0.000110839088551029,0.999609769521716
+"675","5909020","Chilliwack (CY)","59","British Columbia","v_CA16_4890","Arab",0.274973147153598,0.267337628319803,0.00763551883379571,1.02856133228152
+"676","5909020","Chilliwack (CY)","59","British Columbia","v_CA16_4893","Latin American",0.0139038071368898,0.000247200172975578,0.0136566069639143,56.2451351450448
+"677","5909020","Chilliwack (CY)","59","British Columbia","v_CA16_4896","Southeast Asian",5.06839718343478,0.155051736694166,4.91334544674061,32.6884257570879
+"678","5909020","Chilliwack (CY)","59","British Columbia","v_CA16_4899","West Asian",0.000550184986275212,9.31572453424067e-06,0.000540869261740971,59.0598170064995
+"679","5909020","Chilliwack (CY)","59","British Columbia","v_CA16_1189","Non-official languages",0,7.53003137871647e-06,-7.53003137871647e-06,0
+"680","5909020","Chilliwack (CY)","59","British Columbia","v_CA16_1192","Indigenous languages",0,3.2271563051642e-06,-3.2271563051642e-06,0
+"681","5909020","Chilliwack (CY)","59","British Columbia","v_CA16_6087","28. Military science, leadership and operational art",0,2.15143753677614e-06,-2.15143753677614e-06,0
+"682","5909020","Chilliwack (CY)","59","British Columbia","v_CA16_4272","Total - Occupied private dwellings by dwelling condition",0.000119345984007638,5.48616571877915e-05,6.44843268198467e-05,2.17539881449656
+"683","5909020","Chilliwack (CY)","59","British Columbia","v_CA16_4288","Total - Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio",0,335,-335,0
+"684","5909020","Chilliwack (CY)","59","British Columbia","v_CA16_4311","Median value of dwellings ($)",10,570,-560,0.0175438596491228
+"685","5909020","Chilliwack (CY)","59","British Columbia","v_CA16_4305","Total - Owner households in non-farm, non-reserve private dwellings",0,6.45431261032841e-06,-6.45431261032841e-06,0
+"686","5909020","Chilliwack (CY)","59","British Columbia","v_CA16_4313","Total - Tenant households in non-farm, non-reserve private dwellings",0,6.66945636400602e-05,-6.66945636400602e-05,0
+"687","5909020","Chilliwack (CY)","59","British Columbia","v_CA16_4263","Total - Occupied private dwellings by period of construction",0.00364005251223296,0.00316691605413447,0.000473136458098492,1.14939974726542
+"688","5909020","Chilliwack (CY)","59","British Columbia","v_CA16_560","Median total income in 2020 among recipients ($)",995,57425,-56430,0.0173269481932956
+"689","5909020","Chilliwack (CY)","59","British Columbia","v_CA16_566","Median after-tax income in 2020 among recipients ($)",45,8435,-8390,0.00533491404860699
+"690","5909020","Chilliwack (CY)","59","British Columbia","v_CA16_1040","Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%)",4105,101730,-97625,0.0403519119237196
+"691","5909020","Chilliwack (CY)","59","British Columbia","v_CA16_1010","LIM low-income status in 2020 for the population in private households",0.000298364960019095,0.00151568774465879,-0.00121732278463969,0.196851205712073
+"692","5909020","Chilliwack (CY)","59","British Columbia","v_CA16_1100","Adjusted after-tax family income decile group for the population in private households",5,620,-615,0.00806451612903226
+"693","5909020","Chilliwack (CY)","59","British Columbia","v_CA16_4404","Total - Immigrant status and period of immigration for the population in private households",0.0103234276166607,0.0129053980643516,-0.00258197044769095,0.799930971922278
+"694","5909020","Chilliwack (CY)","59","British Columbia","v_CA16_4437","Total - Age at immigration for the immigrant population in private households",0,1.18329064522687e-05,-1.18329064522687e-05,0
+"695","5909020","Chilliwack (CY)","59","British Columbia","v_CA16_6582","4 Occupations in education, law and social, community and government services",0.000179018976011457,1.07571876838807e-05,0.000168261788327577,16.6418009308987
+"696","5909020","Chilliwack (CY)","59","British Columbia","v_CA16_5847","Bachelor's degree or higher",0.0150972669769662,0.0269951624926986,-0.0118978955157323,0.559258236769259
+"697","5909056","Mission (DM)","59","British Columbia","v_CA16_1142","Gini index on adjusted household after-tax income",85,22675,-22590,0.00374862183020948
+"698","5909056","Mission (DM)","59","British Columbia","v_CA16_4410","Immigrants",0,7.53003137871647e-06,-7.53003137871647e-06,0
+"699","5909056","Mission (DM)","59","British Columbia","v_CA16_4875","Total visible minority population",0.14252607184241,0.156124443450002,-0.013598371607592,0.912900431815171
+"700","5909056","Mission (DM)","59","British Columbia","v_CA16_4878","South Asian",0.00566499291875885,0.0126117268405817,-0.00694673392182285,0.449184555800097
+"701","5909056","Mission (DM)","59","British Columbia","v_CA16_4881","Chinese",0.0802111497360628,0.0814415922358922,-0.00123044249982938,0.984891718518156
+"702","5909056","Mission (DM)","59","British Columbia","v_CA16_4884","Black",0.021114973606283,0.0327502579035747,-0.0116352842972917,0.644726941340461
+"703","5909056","Mission (DM)","59","British Columbia","v_CA16_4887","Filipino",0.248358439551951,0.284034935042722,-0.0356764954907716,0.874393987889534
+"704","5909056","Mission (DM)","59","British Columbia","v_CA16_4890","Arab",0.266640916698854,0.267337628319803,-0.00069671162094842,0.997393888674306
+"705","5909056","Mission (DM)","59","British Columbia","v_CA16_4893","Latin American",0.040659199176001,0.000247200172975578,0.0404119990030255,164.478845975637
+"706","5909056","Mission (DM)","59","British Columbia","v_CA16_4896","Southeast Asian",13.4809321488348,0.155051736694166,13.3258804121406,86.9447349398317
+"707","5909056","Mission (DM)","59","British Columbia","v_CA16_4899","West Asian",0.0010866486416892,9.31572453424067e-06,0.00107733291715496,116.646712523018
+"708","5909056","Mission (DM)","59","British Columbia","v_CA16_1189","Non-official languages",0,7.53003137871647e-06,-7.53003137871647e-06,0
+"709","5909056","Mission (DM)","59","British Columbia","v_CA16_1192","Indigenous languages",0,3.2271563051642e-06,-3.2271563051642e-06,0
+"710","5909056","Mission (DM)","59","British Columbia","v_CA16_6087","28. Military science, leadership and operational art",0,2.15143753677614e-06,-2.15143753677614e-06,0
+"711","5909056","Mission (DM)","59","British Columbia","v_CA16_4272","Total - Occupied private dwellings by dwelling condition",0,5.48616571877915e-05,-5.48616571877915e-05,0
+"712","5909056","Mission (DM)","59","British Columbia","v_CA16_4288","Total - Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio",0,335,-335,0
+"713","5909056","Mission (DM)","59","British Columbia","v_CA16_4311","Median value of dwellings ($)",10,570,-560,0.0175438596491228
+"714","5909056","Mission (DM)","59","British Columbia","v_CA16_4305","Total - Owner households in non-farm, non-reserve private dwellings",0,6.45431261032841e-06,-6.45431261032841e-06,0
+"715","5909056","Mission (DM)","59","British Columbia","v_CA16_4313","Total - Tenant households in non-farm, non-reserve private dwellings",0,6.66945636400602e-05,-6.66945636400602e-05,0
+"716","5909056","Mission (DM)","59","British Columbia","v_CA16_4263","Total - Occupied private dwellings by period of construction",0.00373374533281833,0.00316691605413447,0.000566829278683862,1.17898462384055
+"717","5909056","Mission (DM)","59","British Columbia","v_CA16_560","Median total income in 2020 among recipients ($)",385,57425,-57040,0.00670439703961689
+"718","5909056","Mission (DM)","59","British Columbia","v_CA16_566","Median after-tax income in 2020 among recipients ($)",20,8435,-8415,0.002371072910492
+"719","5909056","Mission (DM)","59","British Columbia","v_CA16_1040","Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%)",725,101730,-101005,0.00712670795242308
+"720","5909056","Mission (DM)","59","British Columbia","v_CA16_1010","LIM low-income status in 2020 for the population in private households",0.000257499678125402,0.00151568774465879,-0.00125818806653339,0.169889661662054
+"721","5909056","Mission (DM)","59","British Columbia","v_CA16_1100","Adjusted after-tax family income decile group for the population in private households",0,620,-620,0
+"722","5909056","Mission (DM)","59","British Columbia","v_CA16_4404","Total - Immigrant status and period of immigration for the population in private households",0.0100424874468907,0.0129053980643516,-0.00286291061746096,0.778161773609361
+"723","5909056","Mission (DM)","59","British Columbia","v_CA16_4437","Total - Age at immigration for the immigrant population in private households",0,1.18329064522687e-05,-1.18329064522687e-05,0
+"724","5909056","Mission (DM)","59","British Columbia","v_CA16_6582","4 Occupations in education, law and social, community and government services",0,1.07571876838807e-05,-1.07571876838807e-05,0
+"725","5909056","Mission (DM)","59","British Columbia","v_CA16_5847","Bachelor's degree or higher",0.0157074803656495,0.0269951624926986,-0.011287682127049,0.581862782633666
+"726","5917034","Victoria (CY)","59","British Columbia","v_CA16_1142","Gini index on adjusted household after-tax income",210,22675,-22465,0.00926130099228225
+"727","5917034","Victoria (CY)","59","British Columbia","v_CA16_4410","Immigrants",0,7.53003137871647e-06,-7.53003137871647e-06,0
+"728","5917034","Victoria (CY)","59","British Columbia","v_CA16_4875","Total visible minority population",0.168191619558249,0.156124443450002,0.0120671761082471,1.07729203602965
+"729","5917034","Victoria (CY)","59","British Columbia","v_CA16_4878","South Asian",0.0361909202167959,0.0126117268405817,0.0235791933762141,2.86962449109995
+"730","5917034","Victoria (CY)","59","British Columbia","v_CA16_4881","Chinese",0.0802494317850691,0.0814415922358922,-0.00119216045082315,0.985361773780526
+"731","5917034","Victoria (CY)","59","British Columbia","v_CA16_4884","Black",0.0377644384870913,0.0327502579035747,0.0050141805835166,1.15310354496382
+"732","5917034","Victoria (CY)","59","British Columbia","v_CA16_4887","Filipino",0.33737397284224,0.284034935042722,0.0533390377995181,1.18779041314582
+"733","5917034","Victoria (CY)","59","British Columbia","v_CA16_4890","Arab",0.210326942129495,0.267337628319803,-0.0570106861903078,0.786746495251657
+"734","5917034","Victoria (CY)","59","British Columbia","v_CA16_4893","Latin American",0.0135322571245411,0.000247200172975578,0.0132850569515655,54.7421021662391
+"735","5917034","Victoria (CY)","59","British Columbia","v_CA16_4896","Southeast Asian",6.59893933212891,0.155051736694166,6.44388759543475,42.5595963826261
+"736","5917034","Victoria (CY)","59","British Columbia","v_CA16_4899","West Asian",0.00053499621190046,9.31572453424067e-06,0.00052568048736622,57.4293722333717
+"737","5917034","Victoria (CY)","59","British Columbia","v_CA16_1189","Non-official languages",5.82784544553878e-05,7.53003137871647e-06,5.07484230766714e-05,7.73947033210394
+"738","5917034","Victoria (CY)","59","British Columbia","v_CA16_1192","Indigenous languages",0,3.2271563051642e-06,-3.2271563051642e-06,0
+"739","5917034","Victoria (CY)","59","British Columbia","v_CA16_6087","28. Military science, leadership and operational art",0,2.15143753677614e-06,-2.15143753677614e-06,0
+"740","5917034","Victoria (CY)","59","British Columbia","v_CA16_4272","Total - Occupied private dwellings by dwelling condition",0,5.48616571877915e-05,-5.48616571877915e-05,0
+"741","5917034","Victoria (CY)","59","British Columbia","v_CA16_4288","Total - Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio",0,335,-335,0
+"742","5917034","Victoria (CY)","59","British Columbia","v_CA16_4311","Median value of dwellings ($)",15,570,-555,0.0263157894736842
+"743","5917034","Victoria (CY)","59","British Columbia","v_CA16_4305","Total - Owner households in non-farm, non-reserve private dwellings",0,6.45431261032841e-06,-6.45431261032841e-06,0
+"744","5917034","Victoria (CY)","59","British Columbia","v_CA16_4313","Total - Tenant households in non-farm, non-reserve private dwellings",0.000174835363366164,6.66945636400602e-05,0.000108140799726103,2.62143349958359
+"745","5917034","Victoria (CY)","59","British Columbia","v_CA16_4263","Total - Occupied private dwellings by period of construction",0.00495366862870797,0.00316691605413447,0.0017867525745735,1.56419322269084
+"746","5917034","Victoria (CY)","59","British Columbia","v_CA16_560","Median total income in 2020 among recipients ($)",1595,57425,-55830,0.0277753591641271
+"747","5917034","Victoria (CY)","59","British Columbia","v_CA16_566","Median after-tax income in 2020 among recipients ($)",40,8435,-8395,0.00474214582098399
+"748","5917034","Victoria (CY)","59","British Columbia","v_CA16_1040","Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%)",1635,101730,-100095,0.0160719551754645
+"749","5917034","Victoria (CY)","59","British Columbia","v_CA16_1010","LIM low-income status in 2020 for the population in private households",0.000641062999009266,0.00151568774465879,-0.000874624745649521,0.422951891818313
+"750","5917034","Victoria (CY)","59","British Columbia","v_CA16_1100","Adjusted after-tax family income decile group for the population in private households",5,620,-615,0.00806451612903226
+"751","5917034","Victoria (CY)","59","British Columbia","v_CA16_4404","Total - Immigrant status and period of immigration for the population in private households",0.0188239407890903,0.0129053980643516,0.00591854272473863,1.45860985420413
+"752","5917034","Victoria (CY)","59","British Columbia","v_CA16_4437","Total - Age at immigration for the immigrant population in private households",0,1.18329064522687e-05,-1.18329064522687e-05,0
+"753","5917034","Victoria (CY)","59","British Columbia","v_CA16_6582","4 Occupations in education, law and social, community and government services",0,1.07571876838807e-05,-1.07571876838807e-05,0
+"754","5917034","Victoria (CY)","59","British Columbia","v_CA16_5847","Bachelor's degree or higher",0.0357246925811527,0.0269951624926986,0.00872953008845419,1.32337386710731
+"755","5921008","Lantzville (DM)","59","British Columbia","v_CA16_1142","Gini index on adjusted household after-tax income",10,22675,-22665,0.000441014332965821
+"756","5921008","Lantzville (DM)","59","British Columbia","v_CA16_4410","Immigrants",0,7.53003137871647e-06,-7.53003137871647e-06,0
+"757","5921008","Lantzville (DM)","59","British Columbia","v_CA16_4875","Total visible minority population",0.178918169209431,0.156124443450002,0.0227937257594291,1.14599716262065
+"758","5921008","Lantzville (DM)","59","British Columbia","v_CA16_4878","South Asian",0.00277392510402219,0.0126117268405817,-0.00983780173655951,0.219948079996177
+"759","5921008","Lantzville (DM)","59","British Columbia","v_CA16_4881","Chinese",0.0790568654646325,0.0814415922358922,-0.00238472677125975,0.970718563994273
+"760","5921008","Lantzville (DM)","59","British Columbia","v_CA16_4884","Black",0.0402219140083218,0.0327502579035747,0.00747165610474706,1.2281403745505
+"761","5921008","Lantzville (DM)","59","British Columbia","v_CA16_4887","Filipino",0.334257975034674,0.284034935042722,0.0502230399919519,1.17681993936555
+"762","5921008","Lantzville (DM)","59","British Columbia","v_CA16_4890","Arab",0.353675450762829,0.267337628319803,0.0863378224430268,1.32295424697845
+"763","5921008","Lantzville (DM)","59","British Columbia","v_CA16_4893","Latin American",0.230513176144244,0.000247200172975578,0.230265975971269,932.496014745983
+"764","5921008","Lantzville (DM)","59","British Columbia","v_CA16_4896","Southeast Asian",160.346185852982,0.155051736694166,160.191134116288,1034.14633896852
+"765","5921008","Lantzville (DM)","59","British Columbia","v_CA16_4899","West Asian",0.0102912621359223,9.31572453424067e-06,0.0102819464113881,1104.71945559317
+"766","5921008","Lantzville (DM)","59","British Columbia","v_CA16_1189","Non-official languages",0,7.53003137871647e-06,-7.53003137871647e-06,0
+"767","5921008","Lantzville (DM)","59","British Columbia","v_CA16_1192","Indigenous languages",0,3.2271563051642e-06,-3.2271563051642e-06,0
+"768","5921008","Lantzville (DM)","59","British Columbia","v_CA16_6087","28. Military science, leadership and operational art",0,2.15143753677614e-06,-2.15143753677614e-06,0
+"769","5921008","Lantzville (DM)","59","British Columbia","v_CA16_4272","Total - Occupied private dwellings by dwelling condition",0,5.48616571877915e-05,-5.48616571877915e-05,0
+"770","5921008","Lantzville (DM)","59","British Columbia","v_CA16_4288","Total - Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio",0,335,-335,0
+"771","5921008","Lantzville (DM)","59","British Columbia","v_CA16_4311","Median value of dwellings ($)",15,570,-555,0.0263157894736842
+"772","5921008","Lantzville (DM)","59","British Columbia","v_CA16_4305","Total - Owner households in non-farm, non-reserve private dwellings",0,6.45431261032841e-06,-6.45431261032841e-06,0
+"773","5921008","Lantzville (DM)","59","British Columbia","v_CA16_4313","Total - Tenant households in non-farm, non-reserve private dwellings",0.00277392510402219,6.66945636400602e-05,0.00270723054038213,41.5914724173415
+"774","5921008","Lantzville (DM)","59","British Columbia","v_CA16_4263","Total - Occupied private dwellings by period of construction",0,0.00316691605413447,-0.00316691605413447,0
+"775","5921008","Lantzville (DM)","59","British Columbia","v_CA16_560","Median total income in 2020 among recipients ($)",30,57425,-57395,0.000522420548541576
+"776","5921008","Lantzville (DM)","59","British Columbia","v_CA16_566","Median after-tax income in 2020 among recipients ($)",0,8435,-8435,0
+"777","5921008","Lantzville (DM)","59","British Columbia","v_CA16_1040","Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%)",105,101730,-101625,0.00103214391035093
+"778","5921008","Lantzville (DM)","59","British Columbia","v_CA16_1010","LIM low-income status in 2020 for the population in private households",0,0.00151568774465879,-0.00151568774465879,0
+"779","5921008","Lantzville (DM)","59","British Columbia","v_CA16_1100","Adjusted after-tax family income decile group for the population in private households",0,620,-620,0
+"780","5921008","Lantzville (DM)","59","British Columbia","v_CA16_4404","Total - Immigrant status and period of immigration for the population in private households",0.0110957004160888,0.0129053980643516,-0.00180969764826288,0.859772039634967
+"781","5921008","Lantzville (DM)","59","British Columbia","v_CA16_4437","Total - Age at immigration for the immigrant population in private households",0,1.18329064522687e-05,-1.18329064522687e-05,0
+"782","5921008","Lantzville (DM)","59","British Columbia","v_CA16_6582","4 Occupations in education, law and social, community and government services",0,1.07571876838807e-05,-1.07571876838807e-05,0
+"783","5921008","Lantzville (DM)","59","British Columbia","v_CA16_5847","Bachelor's degree or higher",0.0124826629680999,0.0269951624926986,-0.0145124995245987,0.462403698124657
+"784","5923008","Port Alberni (CY)","59","British Columbia","v_CA16_1142","Gini index on adjusted household after-tax income",125,22675,-22550,0.00551267916207277
+"785","5923008","Port Alberni (CY)","59","British Columbia","v_CA16_4410","Immigrants",0,7.53003137871647e-06,-7.53003137871647e-06,0
+"786","5923008","Port Alberni (CY)","59","British Columbia","v_CA16_4875","Total visible minority population",0.14762443438914,0.156124443450002,-0.00850000906086193,0.945556193040432
+"787","5923008","Port Alberni (CY)","59","British Columbia","v_CA16_4878","South Asian",0.0144230769230769,0.0126117268405817,0.00181135008249522,1.14362427171089
+"788","5923008","Port Alberni (CY)","59","British Columbia","v_CA16_4881","Chinese",0.0783371040723982,0.0814415922358922,-0.00310448816349403,0.961880802201141
+"789","5923008","Port Alberni (CY)","59","British Columbia","v_CA16_4884","Black",0.0506221719457014,0.0327502579035747,0.0178719140421266,1.54570300162967
+"790","5923008","Port Alberni (CY)","59","British Columbia","v_CA16_4887","Filipino",0.339649321266968,0.284034935042722,0.0556143862242462,1.19580121795891
+"791","5923008","Port Alberni (CY)","59","British Columbia","v_CA16_4890","Arab",0.3125,0.267337628319803,0.0451623716801974,1.16893383832287
+"792","5923008","Port Alberni (CY)","59","British Columbia","v_CA16_4893","Latin American",0.0415158371040724,0.000247200172975578,0.0412686369310968,167.944207337484
+"793","5923008","Port Alberni (CY)","59","British Columbia","v_CA16_4896","Southeast Asian",13.2205316742081,0.155051736694166,13.065479937514,85.2652924506431
+"794","5923008","Port Alberni (CY)","59","British Columbia","v_CA16_4899","West Asian",0.00296945701357466,9.31572453424067e-06,0.00296014128904042,318.757494670457
+"795","5923008","Port Alberni (CY)","59","British Columbia","v_CA16_1189","Non-official languages",0.000282805429864253,7.53003137871647e-06,0.000275275398485537,37.5570054945055
+"796","5923008","Port Alberni (CY)","59","British Columbia","v_CA16_1192","Indigenous languages",0,3.2271563051642e-06,-3.2271563051642e-06,0
+"797","5923008","Port Alberni (CY)","59","British Columbia","v_CA16_6087","28. Military science, leadership and operational art",0,2.15143753677614e-06,-2.15143753677614e-06,0
+"798","5923008","Port Alberni (CY)","59","British Columbia","v_CA16_4272","Total - Occupied private dwellings by dwelling condition",0,5.48616571877915e-05,-5.48616571877915e-05,0
+"799","5923008","Port Alberni (CY)","59","British Columbia","v_CA16_4288","Total - Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio",0,335,-335,0
+"800","5923008","Port Alberni (CY)","59","British Columbia","v_CA16_4311","Median value of dwellings ($)",0,570,-570,0
+"801","5923008","Port Alberni (CY)","59","British Columbia","v_CA16_4305","Total - Owner households in non-farm, non-reserve private dwellings",0,6.45431261032841e-06,-6.45431261032841e-06,0
+"802","5923008","Port Alberni (CY)","59","British Columbia","v_CA16_4313","Total - Tenant households in non-farm, non-reserve private dwellings",0,6.66945636400602e-05,-6.66945636400602e-05,0
+"803","5923008","Port Alberni (CY)","59","British Columbia","v_CA16_4263","Total - Occupied private dwellings by period of construction",0.00226244343891403,0.00316691605413447,-0.000904472615220444,0.714399561036789
+"804","5923008","Port Alberni (CY)","59","British Columbia","v_CA16_560","Median total income in 2020 among recipients ($)",290,57425,-57135,0.00505006530256857
+"805","5923008","Port Alberni (CY)","59","British Columbia","v_CA16_566","Median after-tax income in 2020 among recipients ($)",85,8435,-8350,0.010077059869591
+"806","5923008","Port Alberni (CY)","59","British Columbia","v_CA16_1040","Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%)",430,101730,-101300,0.00422687506143714
+"807","5923008","Port Alberni (CY)","59","British Columbia","v_CA16_1010","LIM low-income status in 2020 for the population in private households",0.000565610859728507,0.00151568774465879,-0.000950076884930281,0.373171097887209
+"808","5923008","Port Alberni (CY)","59","British Columbia","v_CA16_1100","Adjusted after-tax family income decile group for the population in private households",0,620,-620,0
+"809","5923008","Port Alberni (CY)","59","British Columbia","v_CA16_4404","Total - Immigrant status and period of immigration for the population in private households",0.00763574660633484,0.0129053980643516,-0.00526965145801681,0.591670754227018
+"810","5923008","Port Alberni (CY)","59","British Columbia","v_CA16_4437","Total - Age at immigration for the immigrant population in private households",0,1.18329064522687e-05,-1.18329064522687e-05,0
+"811","5923008","Port Alberni (CY)","59","British Columbia","v_CA16_6582","4 Occupations in education, law and social, community and government services",0,1.07571876838807e-05,-1.07571876838807e-05,0
+"812","5923008","Port Alberni (CY)","59","British Columbia","v_CA16_5847","Bachelor's degree or higher",0.0158371040723982,0.0269951624926986,-0.0111580584203004,0.586664520974144
+"813","5933042","Kamloops (CY)","59","British Columbia","v_CA16_1142","Gini index on adjusted household after-tax income",915,22675,-21760,0.0403528114663727
+"814","5933042","Kamloops (CY)","59","British Columbia","v_CA16_4410","Immigrants",0.000110766504209127,7.53003137871647e-06,0.000103236472830411,14.7099658206216
+"815","5933042","Kamloops (CY)","59","British Columbia","v_CA16_4875","Total visible minority population",0.162439078422685,0.156124443450002,0.00631463497268278,1.04044616482303
+"816","5933042","Kamloops (CY)","59","British Columbia","v_CA16_4878","South Asian",0.017390341160833,0.0126117268405817,0.00477861432025126,1.37890245964373
+"817","5933042","Kamloops (CY)","59","British Columbia","v_CA16_4881","Chinese",0.0784780682321666,0.0814415922358922,-0.00296352400372563,0.963611664232424
+"818","5933042","Kamloops (CY)","59","British Columbia","v_CA16_4884","Black",0.0346699158174568,0.0327502579035747,0.00191965791388208,1.05861504723212
+"819","5933042","Kamloops (CY)","59","British Columbia","v_CA16_4887","Filipino",0.312915374390784,0.284034935042722,0.0288804393480621,1.10167918021675
+"820","5933042","Kamloops (CY)","59","British Columbia","v_CA16_4890","Arab",0.292645104120514,0.267337628319803,0.0253074758007114,1.09466484744316
+"821","5933042","Kamloops (CY)","59","British Columbia","v_CA16_4893","Latin American",0.0130482941958352,0.000247200172975578,0.0128010940228596,52.7843246983661
+"822","5933042","Kamloops (CY)","59","British Columbia","v_CA16_4896","Southeast Asian",4.32428001772264,0.155051736694166,4.16922828102848,27.8892717354862
+"823","5933042","Kamloops (CY)","59","British Columbia","v_CA16_4899","West Asian",0.000518387239698715,9.31572453424067e-06,0.000509071515164474,55.6464757833213
+"824","5933042","Kamloops (CY)","59","British Columbia","v_CA16_1189","Non-official languages",0,7.53003137871647e-06,-7.53003137871647e-06,0
+"825","5933042","Kamloops (CY)","59","British Columbia","v_CA16_1192","Indigenous languages",0,3.2271563051642e-06,-3.2271563051642e-06,0
+"826","5933042","Kamloops (CY)","59","British Columbia","v_CA16_6087","28. Military science, leadership and operational art",0,2.15143753677614e-06,-2.15143753677614e-06,0
+"827","5933042","Kamloops (CY)","59","British Columbia","v_CA16_4272","Total - Occupied private dwellings by dwelling condition",0,5.48616571877915e-05,-5.48616571877915e-05,0
+"828","5933042","Kamloops (CY)","59","British Columbia","v_CA16_4288","Total - Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio",0,335,-335,0
+"829","5933042","Kamloops (CY)","59","British Columbia","v_CA16_4311","Median value of dwellings ($)",20,570,-550,0.0350877192982456
+"830","5933042","Kamloops (CY)","59","British Columbia","v_CA16_4305","Total - Owner households in non-farm, non-reserve private dwellings",0,6.45431261032841e-06,-6.45431261032841e-06,0
+"831","5933042","Kamloops (CY)","59","British Columbia","v_CA16_4313","Total - Tenant households in non-farm, non-reserve private dwellings",0.000166149756313691,6.66945636400602e-05,9.94551926736306e-05,2.49120388897623
+"832","5933042","Kamloops (CY)","59","British Columbia","v_CA16_4263","Total - Occupied private dwellings by period of construction",0.0059260079751883,0.00316691605413447,0.00275909192105383,1.87122357330937
+"833","5933042","Kamloops (CY)","59","British Columbia","v_CA16_560","Median total income in 2020 among recipients ($)",990,57425,-56435,0.017239878101872
+"834","5933042","Kamloops (CY)","59","British Columbia","v_CA16_566","Median after-tax income in 2020 among recipients ($)",95,8435,-8340,0.011262596324837
+"835","5933042","Kamloops (CY)","59","British Columbia","v_CA16_1040","Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%)",1455,101730,-100275,0.0143025656148629
+"836","5933042","Kamloops (CY)","59","British Columbia","v_CA16_1010","LIM low-income status in 2020 for the population in private households",0.000221533008418254,0.00151568774465879,-0.00129415473624053,0.146160057834423
+"837","5933042","Kamloops (CY)","59","British Columbia","v_CA16_1100","Adjusted after-tax family income decile group for the population in private households",10,620,-610,0.0161290322580645
+"838","5933042","Kamloops (CY)","59","British Columbia","v_CA16_4404","Total - Immigrant status and period of immigration for the population in private households",0.00791980505095259,0.0129053980643516,-0.00498559301339906,0.613681578162965
+"839","5933042","Kamloops (CY)","59","British Columbia","v_CA16_4437","Total - Age at immigration for the immigrant population in private households",0,1.18329064522687e-05,-1.18329064522687e-05,0
+"840","5933042","Kamloops (CY)","59","British Columbia","v_CA16_6582","4 Occupations in education, law and social, community and government services",0,1.07571876838807e-05,-1.07571876838807e-05,0
+"841","5933042","Kamloops (CY)","59","British Columbia","v_CA16_5847","Bachelor's degree or higher",0.017002658396101,0.0269951624926986,-0.00999250409659754,0.629840935415735
+"842","5933067","Clearwater (DM)","59","British Columbia","v_CA16_1142","Gini index on adjusted household after-tax income",5,22675,-22670,0.000220507166482911
+"843","5933067","Clearwater (DM)","59","British Columbia","v_CA16_4410","Immigrants",0,7.53003137871647e-06,-7.53003137871647e-06,0
+"844","5933067","Clearwater (DM)","59","British Columbia","v_CA16_4875","Total visible minority population",0.146236559139785,0.156124443450002,-0.00988788431021725,0.936666648144794
+"845","5933067","Clearwater (DM)","59","British Columbia","v_CA16_4878","South Asian",0.0150537634408602,0.0126117268405817,0.00244203660027851,1.19363221477495
+"846","5933067","Clearwater (DM)","59","British Columbia","v_CA16_4881","Chinese",0.0537634408602151,0.0814415922358922,-0.0276781513756772,0.660147221882542
+"847","5933067","Clearwater (DM)","59","British Columbia","v_CA16_4884","Black",0.043010752688172,0.0327502579035747,0.0102604947845973,1.31329508350154
+"848","5933067","Clearwater (DM)","59","British Columbia","v_CA16_4887","Filipino",0.354838709677419,0.284034935042722,0.0708037746346972,1.249278401701
+"849","5933067","Clearwater (DM)","59","British Columbia","v_CA16_4890","Arab",0.333333333333333,0.267337628319803,0.0659957050135307,1.24686276087773
+"850","5933067","Clearwater (DM)","59","British Columbia","v_CA16_4893","Latin American",0.301505376344086,0.000247200172975578,0.30125817617111,1219.6810896806
+"851","5933067","Clearwater (DM)","59","British Columbia","v_CA16_4896","Southeast Asian",138.467096774194,0.155051736694166,138.312045037499,893.038025412868
+"852","5933067","Clearwater (DM)","59","British Columbia","v_CA16_4899","West Asian",0.0130752688172043,9.31572453424067e-06,0.0130659530926701,1403.56971367553
+"853","5933067","Clearwater (DM)","59","British Columbia","v_CA16_1189","Non-official languages",0,7.53003137871647e-06,-7.53003137871647e-06,0
+"854","5933067","Clearwater (DM)","59","British Columbia","v_CA16_1192","Indigenous languages",0,3.2271563051642e-06,-3.2271563051642e-06,0
+"855","5933067","Clearwater (DM)","59","British Columbia","v_CA16_6087","28. Military science, leadership and operational art",0,2.15143753677614e-06,-2.15143753677614e-06,0
+"856","5933067","Clearwater (DM)","59","British Columbia","v_CA16_4272","Total - Occupied private dwellings by dwelling condition",0,5.48616571877915e-05,-5.48616571877915e-05,0
+"857","5933067","Clearwater (DM)","59","British Columbia","v_CA16_4288","Total - Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio",0,335,-335,0
+"858","5933067","Clearwater (DM)","59","British Columbia","v_CA16_4311","Median value of dwellings ($)",0,570,-570,0
+"859","5933067","Clearwater (DM)","59","British Columbia","v_CA16_4305","Total - Owner households in non-farm, non-reserve private dwellings",0,6.45431261032841e-06,-6.45431261032841e-06,0
+"860","5933067","Clearwater (DM)","59","British Columbia","v_CA16_4313","Total - Tenant households in non-farm, non-reserve private dwellings",0,6.66945636400602e-05,-6.66945636400602e-05,0
+"861","5933067","Clearwater (DM)","59","British Columbia","v_CA16_4263","Total - Occupied private dwellings by period of construction",0,0.00316691605413447,-0.00316691605413447,0
+"862","5933067","Clearwater (DM)","59","British Columbia","v_CA16_560","Median total income in 2020 among recipients ($)",20,57425,-57405,0.000348280365694384
+"863","5933067","Clearwater (DM)","59","British Columbia","v_CA16_566","Median after-tax income in 2020 among recipients ($)",0,8435,-8435,0
+"864","5933067","Clearwater (DM)","59","British Columbia","v_CA16_1040","Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%)",45,101730,-101685,0.000442347390150398
+"865","5933067","Clearwater (DM)","59","British Columbia","v_CA16_1010","LIM low-income status in 2020 for the population in private households",0.0021505376344086,0.00151568774465879,0.000634849889749815,1.41885269046147
+"866","5933067","Clearwater (DM)","59","British Columbia","v_CA16_1100","Adjusted after-tax family income decile group for the population in private households",0,620,-620,0
+"867","5933067","Clearwater (DM)","59","British Columbia","v_CA16_4404","Total - Immigrant status and period of immigration for the population in private households",0.00645161290322581,0.0129053980643516,-0.00645378516112584,0.499915839174847
+"868","5933067","Clearwater (DM)","59","British Columbia","v_CA16_4437","Total - Age at immigration for the immigrant population in private households",0,1.18329064522687e-05,-1.18329064522687e-05,0
+"869","5933067","Clearwater (DM)","59","British Columbia","v_CA16_6582","4 Occupations in education, law and social, community and government services",0,1.07571876838807e-05,-1.07571876838807e-05,0
+"870","5933067","Clearwater (DM)","59","British Columbia","v_CA16_5847","Bachelor's degree or higher",0.00860215053763441,0.0269951624926986,-0.0183930119550642,0.318655260547554
+"871","5935010","Kelowna (CY)","59","British Columbia","v_CA16_1142","Gini index on adjusted household after-tax income",650,22675,-22025,0.0286659316427784
+"872","5935010","Kelowna (CY)","59","British Columbia","v_CA16_4410","Immigrants",0,7.53003137871647e-06,-7.53003137871647e-06,0
+"873","5935010","Kelowna (CY)","59","British Columbia","v_CA16_4875","Total visible minority population",0.168629298162977,0.156124443450002,0.0125048547129747,1.080095431802
+"874","5935010","Kelowna (CY)","59","British Columbia","v_CA16_4878","South Asian",0.0195085570733239,0.0126117268405817,0.00689683023274221,1.54685851667432
+"875","5935010","Kelowna (CY)","59","British Columbia","v_CA16_4881","Chinese",0.0767388915057309,0.0814415922358922,-0.00470270073016134,0.942256768304085
+"876","5935010","Kelowna (CY)","59","British Columbia","v_CA16_4884","Black",0.0412545140524415,0.0327502579035747,0.0085042561488668,1.25966989859761
+"877","5935010","Kelowna (CY)","59","British Columbia","v_CA16_4887","Filipino",0.302284503061705,0.284034935042722,0.018249568018983,1.06425113874192
+"878","5935010","Kelowna (CY)","59","British Columbia","v_CA16_4890","Arab",0.285288114303658,0.267337628319803,0.0179504859838558,1.06714537753878
+"879","5935010","Kelowna (CY)","59","British Columbia","v_CA16_4893","Latin American",0.00902025435704192,0.000247200172975578,0.00877305418406634,36.4896765583294
+"880","5935010","Kelowna (CY)","59","British Columbia","v_CA16_4896","Southeast Asian",4.16335374470089,0.155051736694166,4.00830200800673,26.851384147428
+"881","5935010","Kelowna (CY)","59","British Columbia","v_CA16_4899","West Asian",0.000368189668707803,9.31572453424067e-06,0.000358873944173563,39.5234602906616
+"882","5935010","Kelowna (CY)","59","British Columbia","v_CA16_1189","Non-official languages",0,7.53003137871647e-06,-7.53003137871647e-06,0
+"883","5935010","Kelowna (CY)","59","British Columbia","v_CA16_1192","Indigenous languages",0,3.2271563051642e-06,-3.2271563051642e-06,0
+"884","5935010","Kelowna (CY)","59","British Columbia","v_CA16_6087","28. Military science, leadership and operational art",0,2.15143753677614e-06,-2.15143753677614e-06,0
+"885","5935010","Kelowna (CY)","59","British Columbia","v_CA16_4272","Total - Occupied private dwellings by dwelling condition",0,5.48616571877915e-05,-5.48616571877915e-05,0
+"886","5935010","Kelowna (CY)","59","British Columbia","v_CA16_4288","Total - Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio",10,335,-325,0.0298507462686567
+"887","5935010","Kelowna (CY)","59","British Columbia","v_CA16_4311","Median value of dwellings ($)",10,570,-560,0.0175438596491228
+"888","5935010","Kelowna (CY)","59","British Columbia","v_CA16_4305","Total - Owner households in non-farm, non-reserve private dwellings",0,6.45431261032841e-06,-6.45431261032841e-06,0
+"889","5935010","Kelowna (CY)","59","British Columbia","v_CA16_4313","Total - Tenant households in non-farm, non-reserve private dwellings",0,6.66945636400602e-05,-6.66945636400602e-05,0
+"890","5935010","Kelowna (CY)","59","British Columbia","v_CA16_4263","Total - Occupied private dwellings by period of construction",0.00321871565394881,0.00316691605413447,5.17995998143431e-05,1.01635648022521
+"891","5935010","Kelowna (CY)","59","British Columbia","v_CA16_560","Median total income in 2020 among recipients ($)",2035,57425,-55390,0.0354375272094036
+"892","5935010","Kelowna (CY)","59","British Columbia","v_CA16_566","Median after-tax income in 2020 among recipients ($)",30,8435,-8405,0.003556609365738
+"893","5935010","Kelowna (CY)","59","British Columbia","v_CA16_1040","Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%)",4475,101730,-97255,0.0439889904649563
+"894","5935010","Kelowna (CY)","59","British Columbia","v_CA16_1010","LIM low-income status in 2020 for the population in private households",0.00105982100800754,0.00151568774465879,-0.000455866736651251,0.699234398207874
+"895","5935010","Kelowna (CY)","59","British Columbia","v_CA16_1100","Adjusted after-tax family income decile group for the population in private households",10,620,-610,0.0161290322580645
+"896","5935010","Kelowna (CY)","59","British Columbia","v_CA16_4404","Total - Immigrant status and period of immigration for the population in private households",0.00871408384361752,0.0129053980643516,-0.00419131422073413,0.675227823284915
+"897","5935010","Kelowna (CY)","59","British Columbia","v_CA16_4437","Total - Age at immigration for the immigrant population in private households",0,1.18329064522687e-05,-1.18329064522687e-05,0
+"898","5935010","Kelowna (CY)","59","British Columbia","v_CA16_6582","4 Occupations in education, law and social, community and government services",0,1.07571876838807e-05,-1.07571876838807e-05,0
+"899","5935010","Kelowna (CY)","59","British Columbia","v_CA16_5847","Bachelor's degree or higher",0.0228842832469775,0.0269951624926986,-0.00411087924572101,0.847717929209247

@@ -1,0 +1,151 @@
+"","GeoUID","Region Name","PR_UID","province_name","vector","label","cd_value","province_value","diff_from_province","ratio_to_province"
+"1","3518","Durham (RM)","35","Ontario","v_CA21_1142","Gini index on adjusted household after-tax income",0.266,0.308,-0.042,0.863636363636364
+"2","3518","Durham (RM)","35","Ontario","v_CA21_4410","Immigrants",0.267521004545246,0.295739746407852,-0.0282187418626065,0.904582518226379
+"3","3518","Durham (RM)","35","Ontario","v_CA21_4875","Total visible minority population",0.360556505670079,0.338679671219132,0.0218768344509476,1.06459447173844
+"4","3518","Durham (RM)","35","Ontario","v_CA21_4878","South Asian",0.132447718194757,0.106531297723233,0.0259164204715238,1.24327517851941
+"5","3518","Durham (RM)","35","Ontario","v_CA21_4881","Chinese",0.0233431660621643,0.0576665034207817,-0.0343233373586174,0.404795933123144
+"6","3518","Durham (RM)","35","Ontario","v_CA21_4884","Black",0.094742837794408,0.0540454959672923,0.0406973418271156,1.75302004540295
+"7","3518","Durham (RM)","35","Ontario","v_CA21_4887","Filipino",0.0287951655112254,0.0255660491304028,0.00322911638082257,1.12630486487576
+"8","3518","Durham (RM)","35","Ontario","v_CA21_4890","Arab",0.0106242252421836,0.0199814509929807,-0.00935722575079716,0.531704391533715
+"9","3518","Durham (RM)","35","Ontario","v_CA21_4893","Latin American",0.0116285409301685,0.01751905343821,-0.00589051250804153,0.663765366729575
+"10","3518","Durham (RM)","35","Ontario","v_CA21_4896","Southeast Asian",0.00472745741701483,0.0118001746632544,-0.00707271724623956,0.400626054437658
+"11","3518","Durham (RM)","35","Ontario","v_CA21_4899","West Asian",0.0157247142004499,0.0149174539659962,0.000807260234453726,1.05411514835533
+"12","3518","Durham (RM)","35","Ontario","v_CA21_1189","Non-official languages",0.179851418667646,0.266299946948603,-0.0864485282809565,0.675371590300611
+"13","3518","Durham (RM)","35","Ontario","v_CA21_1192","Indigenous languages (33)",3.58684174280336e-05,0.0010176503813078,-0.000981781963879764,0.0352463066755191
+"14","3518","Durham (RM)","35","Ontario","v_CA21_6087","28. Military science, leadership and operational art",3.58684174280336e-05,0.000150099037242981,-0.000114230619814947,0.238965006617395
+"15","3518","Durham (RM)","35","Ontario","v_CA21_4272","Total - Occupied private dwellings by dwelling condition",0.348712754235343,0.386053317708973,-0.03734056347363,0.90327614927589
+"16","3518","Durham (RM)","35","Ontario","v_CA21_4288","Total - Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio",241425,5415420,-5173995,0.0445810297262262
+"17","3518","Durham (RM)","35","Ontario","v_CA21_4311","Median value of dwellings ($) (60)",8e+05,7e+05,1e+05,1.14285714285714
+"18","3518","Durham (RM)","35","Ontario","v_CA21_4305","Total - Owner households in non-farm, non-reserve private dwellings",0.272764967173224,0.261408194718454,0.0113567724547701,1.04344459234341
+"19","3518","Durham (RM)","35","Ontario","v_CA21_4313","Total - Tenant households in non-farm, non-reserve private dwellings",0.0745991345668243,0.121063485776306,-0.0464643512094816,0.616198468832
+"20","3518","Durham (RM)","35","Ontario","v_CA21_4263","Total - Occupied private dwellings by period of construction",0.348712754235343,0.386053317708973,-0.03734056347363,0.90327614927589
+"21","3518","Durham (RM)","35","Ontario","v_CA21_560","Median total income in 2020 among recipients ($)",44000,41200,2800,1.06796116504854
+"22","3518","Durham (RM)","35","Ontario","v_CA21_566","Median after-tax income in 2020 among recipients ($)",39600,37200,2400,1.06451612903226
+"23","3518","Durham (RM)","35","Ontario","v_CA21_1040","Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%)",6.6,10.1,-3.5,0.653465346534653
+"24","3518","Durham (RM)","35","Ontario","v_CA21_1010","LIM low-income status in 2020 for the population in private households",0.991912389238327,0.98648848540018,0.0054239038381475,1.00549819274976
+"25","3518","Durham (RM)","35","Ontario","v_CA21_1100","Adjusted after-tax family income decile group for the population in private households",691355,14031755,-13340400,0.0492707433959615
+"26","3518","Durham (RM)","35","Ontario","v_CA21_4404","Total - Immigrant status and period of immigration for the population in private households",0.991912389238327,0.98648848540018,0.0054239038381475,1.00549819274976
+"27","3518","Durham (RM)","35","Ontario","v_CA21_4437","Total - Age at immigration for the immigrant population in private households",0.267521004545246,0.295739746407852,-0.0282187418626065,0.904582518226379
+"28","3518","Durham (RM)","35","Ontario","v_CA21_6582","4 Occupations in education, law and social, community and government services",0.0631284146733391,0.0612530619149038,0.00187535275843538,1.03061647368814
+"29","3518","Durham (RM)","35","Ontario","v_CA21_5847","Bachelor's degree or higher",0.2038976057114,0.248074689843364,-0.0441770841319643,0.821920228299558
+"30","3518","Durham (RM)","35","Ontario","v_CA21_4917","Total - Ethnic or cultural origin for the population in private households",0.991912389238327,0.98648848540018,0.0054239038381475,1.00549819274976
+"31","3526","Niagara (RM)","35","Ontario","v_CA21_1142","Gini index on adjusted household after-tax income",0.28,0.308,-0.028,0.909090909090909
+"32","3526","Niagara (RM)","35","Ontario","v_CA21_4410","Immigrants",0.17367206412507,0.295739746407852,-0.122067682282783,0.587246273909899
+"33","3526","Niagara (RM)","35","Ontario","v_CA21_4875","Total visible minority population",0.130549586664463,0.338679671219132,-0.208130084554669,0.385466261362923
+"34","3526","Niagara (RM)","35","Ontario","v_CA21_4878","South Asian",0.0289680106958809,0.106531297723233,-0.0775632870273523,0.271920189793795
+"35","3526","Niagara (RM)","35","Ontario","v_CA21_4881","Chinese",0.0139661590028895,0.0576665034207817,-0.0437003444178922,0.242188413973725
+"36","3526","Niagara (RM)","35","Ontario","v_CA21_4884","Black",0.0278381641248606,0.0540454959672923,-0.0262073318424317,0.515087587348776
+"37","3526","Niagara (RM)","35","Ontario","v_CA21_4887","Filipino",0.0136104665638646,0.0255660491304028,-0.0119555825665382,0.532364875559876
+"38","3526","Niagara (RM)","35","Ontario","v_CA21_4890","Arab",0.00749046430417144,0.0199814509929807,-0.0124909866888093,0.374870889346463
+"39","3526","Niagara (RM)","35","Ontario","v_CA21_4893","Latin American",0.0145938515423452,0.01751905343821,-0.00292520189586484,0.83302740035687
+"40","3526","Niagara (RM)","35","Ontario","v_CA21_4896","Southeast Asian",0.00671631017217606,0.0118001746632544,-0.00508386449107833,0.569170403306874
+"41","3526","Niagara (RM)","35","Ontario","v_CA21_4899","West Asian",0.00215507771879793,0.0149174539659962,-0.0127623762471983,0.144466859003577
+"42","3526","Niagara (RM)","35","Ontario","v_CA21_1189","Non-official languages",0.14114712903894,0.266299946948603,-0.125152817909663,0.530030631460029
+"43","3526","Niagara (RM)","35","Ontario","v_CA21_1192","Indigenous languages (33)",9.4153880918356e-05,0.0010176503813078,-0.000923496500389442,0.0925208525911988
+"44","3526","Niagara (RM)","35","Ontario","v_CA21_6087","28. Military science, leadership and operational art",3.13846269727853e-05,0.000150099037242981,-0.000118714410270196,0.209092793326714
+"45","3526","Niagara (RM)","35","Ontario","v_CA21_4272","Total - Occupied private dwellings by dwelling condition",0.409914612891549,0.386053317708973,0.0238612951825767,1.06180828939428
+"46","3526","Niagara (RM)","35","Ontario","v_CA21_4288","Total - Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio",194175,5415420,-5221245,0.0358559446912705
+"47","3526","Niagara (RM)","35","Ontario","v_CA21_4311","Median value of dwellings ($) (60)",6e+05,7e+05,-1e+05,0.857142857142857
+"48","3526","Niagara (RM)","35","Ontario","v_CA21_4305","Total - Owner households in non-farm, non-reserve private dwellings",0.295360724440883,0.261408194718454,0.0339525297224286,1.12988318808826
+"49","3526","Niagara (RM)","35","Ontario","v_CA21_4313","Total - Tenant households in non-farm, non-reserve private dwellings",0.112294195308626,0.121063485776306,-0.00876929046767994,0.927564530201259
+"50","3526","Niagara (RM)","35","Ontario","v_CA21_4263","Total - Occupied private dwellings by period of construction",0.409914612891549,0.386053317708973,0.0238612951825767,1.06180828939428
+"51","3526","Niagara (RM)","35","Ontario","v_CA21_560","Median total income in 2020 among recipients ($)",38400,41200,-2800,0.932038834951456
+"52","3526","Niagara (RM)","35","Ontario","v_CA21_566","Median after-tax income in 2020 among recipients ($)",35200,37200,-2000,0.946236559139785
+"53","3526","Niagara (RM)","35","Ontario","v_CA21_1040","Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%)",10.4,10.1,0.300000000000001,1.02970297029703
+"54","3526","Niagara (RM)","35","Ontario","v_CA21_1010","LIM low-income status in 2020 for the population in private households",0.982244670367263,0.98648848540018,-0.0042438150329166,0.995698059231583
+"55","3526","Niagara (RM)","35","Ontario","v_CA21_1100","Adjusted after-tax family income decile group for the population in private households",469455,14031755,-13562300,0.0334566132319158
+"56","3526","Niagara (RM)","35","Ontario","v_CA21_4404","Total - Immigrant status and period of immigration for the population in private households",0.982234208824939,0.98648848540018,-0.00425427657524091,0.995687454401949
+"57","3526","Niagara (RM)","35","Ontario","v_CA21_4437","Total - Age at immigration for the immigrant population in private households",0.17367206412507,0.295739746407852,-0.122067682282783,0.587246273909899
+"58","3526","Niagara (RM)","35","Ontario","v_CA21_6582","4 Occupations in education, law and social, community and government services",0.0539292506815695,0.0612530619149038,-0.00732381123333428,0.880433548881051
+"59","3526","Niagara (RM)","35","Ontario","v_CA21_5847","Bachelor's degree or higher",0.168650523809424,0.248074689843364,-0.0794241660339399,0.679837688866652
+"60","3526","Niagara (RM)","35","Ontario","v_CA21_4917","Total - Ethnic or cultural origin for the population in private households",0.982244670367263,0.98648848540018,-0.0042438150329166,0.995698059231583
+"61","3537","Essex (CTY)","35","Ontario","v_CA21_1142","Gini index on adjusted household after-tax income",0.298,0.308,-0.01,0.967532467532467
+"62","3537","Essex (CTY)","35","Ontario","v_CA21_4410","Immigrants",0.22924845102398,0.295739746407852,-0.0664912953838728,0.77516956651415
+"63","3537","Essex (CTY)","35","Ontario","v_CA21_4875","Total visible minority population",0.232275457598259,0.338679671219132,-0.106404213620872,0.685826393896471
+"64","3537","Essex (CTY)","35","Ontario","v_CA21_4878","South Asian",0.0486804143215249,0.106531297723233,-0.0578508834017083,0.456958803299251
+"65","3537","Essex (CTY)","35","Ontario","v_CA21_4881","Chinese",0.0207870217093128,0.0576665034207817,-0.0368794817114689,0.360469604991199
+"66","3537","Essex (CTY)","35","Ontario","v_CA21_4884","Black",0.0386061580664996,0.0540454959672923,-0.0154393379007928,0.714327019773554
+"67","3537","Essex (CTY)","35","Ontario","v_CA21_4887","Filipino",0.01090195336518,0.0255660491304028,-0.0146640957652228,0.426423078105389
+"68","3537","Essex (CTY)","35","Ontario","v_CA21_4890","Arab",0.0612141134181526,0.0199814509929807,0.0412326624251719,3.06354695860959
+"69","3537","Essex (CTY)","35","Ontario","v_CA21_4893","Latin American",0.0155252329376153,0.01751905343821,-0.00199382050059474,0.886191311212847
+"70","3537","Essex (CTY)","35","Ontario","v_CA21_4896","Southeast Asian",0.0125573475854893,0.0118001746632544,0.000757172922234895,1.06416624701266
+"71","3537","Essex (CTY)","35","Ontario","v_CA21_4899","West Asian",0.0108191836541645,0.0149174539659962,-0.00409827031183171,0.725270121753111
+"72","3537","Essex (CTY)","35","Ontario","v_CA21_1189","Non-official languages",0.224826183606868,0.266299946948603,-0.0414737633417351,0.844259212902736
+"73","3537","Essex (CTY)","35","Ontario","v_CA21_1192","Indigenous languages (33)",0.000106418199877028,0.0010176503813078,-0.00091123218143077,0.104572456151658
+"74","3537","Essex (CTY)","35","Ontario","v_CA21_6087","28. Military science, leadership and operational art",4.72969777231235e-05,0.000150099037242981,-0.000102802059519857,0.315105137193911
+"75","3537","Essex (CTY)","35","Ontario","v_CA21_4272","Total - Occupied private dwellings by dwelling condition",0.392056472591401,0.386053317708973,0.00600315488242875,1.01555006680956
+"76","3537","Essex (CTY)","35","Ontario","v_CA21_4288","Total - Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio",164320,5415420,-5251100,0.0303429835543688
+"77","3537","Essex (CTY)","35","Ontario","v_CA21_4311","Median value of dwellings ($) (60)",420000,7e+05,-280000,0.6
+"78","3537","Essex (CTY)","35","Ontario","v_CA21_4305","Total - Owner households in non-farm, non-reserve private dwellings",0.28194910845197,0.261408194718454,0.0205409137335156,1.07857792582072
+"79","3537","Essex (CTY)","35","Ontario","v_CA21_4313","Total - Tenant households in non-farm, non-reserve private dwellings",0.107848933453152,0.121063485776306,-0.0132145523231535,0.890846094192508
+"80","3537","Essex (CTY)","35","Ontario","v_CA21_4263","Total - Occupied private dwellings by period of construction",0.392056472591401,0.386053317708973,0.00600315488242875,1.01555006680956
+"81","3537","Essex (CTY)","35","Ontario","v_CA21_560","Median total income in 2020 among recipients ($)",40000,41200,-1200,0.970873786407767
+"82","3537","Essex (CTY)","35","Ontario","v_CA21_566","Median after-tax income in 2020 among recipients ($)",36400,37200,-800,0.978494623655914
+"83","3537","Essex (CTY)","35","Ontario","v_CA21_1040","Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%)",11.3,10.1,1.2,1.11881188118812
+"84","3537","Essex (CTY)","35","Ontario","v_CA21_1010","LIM low-income status in 2020 for the population in private households",0.983126803197276,0.98648848540018,-0.00336168220290378,0.996592274261022
+"85","3537","Essex (CTY)","35","Ontario","v_CA21_1100","Adjusted after-tax family income decile group for the population in private households",415725,14031755,-13616030,0.0296274414711488
+"86","3537","Essex (CTY)","35","Ontario","v_CA21_4404","Total - Immigrant status and period of immigration for the population in private households",0.983126803197276,0.98648848540018,-0.00336168220290378,0.996592274261022
+"87","3537","Essex (CTY)","35","Ontario","v_CA21_4437","Total - Age at immigration for the immigrant population in private households",0.22926027526841,0.295739746407852,-0.066479471139442,0.775209548439388
+"88","3537","Essex (CTY)","35","Ontario","v_CA21_6582","4 Occupations in education, law and social, community and government services",0.0484912264106324,0.0612530619149038,-0.0127618355042714,0.79165391728497
+"89","3537","Essex (CTY)","35","Ontario","v_CA21_5847","Bachelor's degree or higher",0.183193018966088,0.248074689843364,-0.064881670877276,0.73845912729653
+"90","3537","Essex (CTY)","35","Ontario","v_CA21_4917","Total - Ethnic or cultural origin for the population in private households",0.983126803197276,0.98648848540018,-0.00336168220290378,0.996592274261022
+"91","3538","Lambton (CTY)","35","Ontario","v_CA21_1142","Gini index on adjusted household after-tax income",0.283,0.308,-0.025,0.918831168831169
+"92","3538","Lambton (CTY)","35","Ontario","v_CA21_4410","Immigrants",0.0951589493890163,0.295739746407852,-0.200580797018836,0.321765844952688
+"93","3538","Lambton (CTY)","35","Ontario","v_CA21_4875","Total visible minority population",0.0555971721522543,0.338679671219132,-0.283082499066877,0.164158574833037
+"94","3538","Lambton (CTY)","35","Ontario","v_CA21_4878","South Asian",0.0168547216629992,0.106531297723233,-0.0896765760602339,0.15821380217096
+"95","3538","Lambton (CTY)","35","Ontario","v_CA21_4881","Chinese",0.0046428515692058,0.0576665034207817,-0.0530236518515759,0.0805121048406175
+"96","3538","Lambton (CTY)","35","Ontario","v_CA21_4884","Black",0.0110023877522356,0.0540454959672923,-0.0430431082150567,0.203576404570218
+"97","3538","Lambton (CTY)","35","Ontario","v_CA21_4887","Filipino",0.00530611607909234,0.0255660491304028,-0.0202599330513105,0.207545407271489
+"98","3538","Lambton (CTY)","35","Ontario","v_CA21_4890","Arab",0.00319927587121744,0.0199814509929807,-0.0167821751217633,0.160112289760204
+"99","3538","Lambton (CTY)","35","Ontario","v_CA21_4893","Latin American",0.00647658286124506,0.01751905343821,-0.011042470576965,0.369687944847481
+"100","3538","Lambton (CTY)","35","Ontario","v_CA21_4896","Southeast Asian",0.0016776690544189,0.0118001746632544,-0.0101225056088355,0.1421732391507
+"101","3538","Lambton (CTY)","35","Ontario","v_CA21_4899","West Asian",0.00140456013858327,0.0149174539659962,-0.0135128938274129,0.0941554867060365
+"102","3538","Lambton (CTY)","35","Ontario","v_CA21_1189","Non-official languages",0.0641415796619692,0.266299946948603,-0.202158367286633,0.240862157116197
+"103","3538","Lambton (CTY)","35","Ontario","v_CA21_1192","Indigenous languages (33)",0.000429171153455998,0.0010176503813078,-0.0005884792278518,0.42172750223359
+"104","3538","Lambton (CTY)","35","Ontario","v_CA21_6087","28. Military science, leadership and operational art",0.000117046678215272,0.000150099037242981,-3.30523590277086e-05,0.779796328911801
+"105","3538","Lambton (CTY)","35","Ontario","v_CA21_4272","Total - Occupied private dwellings by dwelling condition",0.430770791391607,0.386053317708973,0.0447174736826343,1.11583237763118
+"106","3538","Lambton (CTY)","35","Ontario","v_CA21_4288","Total - Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio",52825,5415420,-5362595,0.00975455274013835
+"107","3538","Lambton (CTY)","35","Ontario","v_CA21_4311","Median value of dwellings ($) (60)",4e+05,7e+05,-3e+05,0.571428571428571
+"108","3538","Lambton (CTY)","35","Ontario","v_CA21_4305","Total - Owner households in non-farm, non-reserve private dwellings",0.305764939057696,0.261408194718454,0.0443567443392419,1.16968383254785
+"109","3538","Lambton (CTY)","35","Ontario","v_CA21_4313","Total - Tenant households in non-farm, non-reserve private dwellings",0.10744885060162,0.121063485776306,-0.013614635174686,0.887541358260225
+"110","3538","Lambton (CTY)","35","Ontario","v_CA21_4263","Total - Occupied private dwellings by period of construction",0.430770791391607,0.386053317708973,0.0447174736826343,1.11583237763118
+"111","3538","Lambton (CTY)","35","Ontario","v_CA21_560","Median total income in 2020 among recipients ($)",42400,41200,1200,1.02912621359223
+"112","3538","Lambton (CTY)","35","Ontario","v_CA21_566","Median after-tax income in 2020 among recipients ($)",38000,37200,800,1.02150537634409
+"113","3538","Lambton (CTY)","35","Ontario","v_CA21_1040","Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%)",9.9,10.1,-0.199999999999999,0.98019801980198
+"114","3538","Lambton (CTY)","35","Ontario","v_CA21_1010","LIM low-income status in 2020 for the population in private households",0.983582252602338,0.98648848540018,-0.00290623279784175,0.997053961763514
+"115","3538","Lambton (CTY)","35","Ontario","v_CA21_1100","Adjusted after-tax family income decile group for the population in private households",126045,14031755,-13905710,0.0089828392813301
+"116","3538","Lambton (CTY)","35","Ontario","v_CA21_4404","Total - Immigrant status and period of immigration for the population in private households",0.983543237042933,0.98648848540018,-0.00294524835724685,0.997014411824531
+"117","3538","Lambton (CTY)","35","Ontario","v_CA21_4437","Total - Age at immigration for the immigrant population in private households",0.0951589493890163,0.295739746407852,-0.200580797018836,0.321765844952688
+"118","3538","Lambton (CTY)","35","Ontario","v_CA21_6582","4 Occupations in education, law and social, community and government services",0.0476379980336158,0.0612530619149038,-0.013615063881288,0.777724354413453
+"119","3538","Lambton (CTY)","35","Ontario","v_CA21_5847","Bachelor's degree or higher",0.130389999531813,0.248074689843364,-0.117684690311551,0.525607830505169
+"120","3538","Lambton (CTY)","35","Ontario","v_CA21_4917","Total - Ethnic or cultural origin for the population in private households",0.983543237042933,0.98648848540018,-0.00294524835724685,0.997014411824531
+"121","3547","Renfrew (CTY)","35","Ontario","v_CA21_1142","Gini index on adjusted household after-tax income",0.262,0.308,-0.046,0.850649350649351
+"122","3547","Renfrew (CTY)","35","Ontario","v_CA21_4410","Immigrants",0.0534950406618719,0.295739746407852,-0.24224470574598,0.18088552963083
+"123","3547","Renfrew (CTY)","35","Ontario","v_CA21_4875","Total visible minority population",0.0322474498190194,0.338679671219132,-0.306432221400112,0.0952151916970379
+"124","3547","Renfrew (CTY)","35","Ontario","v_CA21_4878","South Asian",0.00803835848258356,0.106531297723233,-0.0984929392406496,0.0754553699652388
+"125","3547","Renfrew (CTY)","35","Ontario","v_CA21_4881","Chinese",0.0038546514360927,0.0576665034207817,-0.053811851984689,0.0668438557470015
+"126","3547","Renfrew (CTY)","35","Ontario","v_CA21_4884","Black",0.00667512809664833,0.0540454959672923,-0.047370367870644,0.123509424368832
+"127","3547","Renfrew (CTY)","35","Ontario","v_CA21_4887","Filipino",0.00277346871621304,0.0255660491304028,-0.0227925804141898,0.108482491841685
+"128","3547","Renfrew (CTY)","35","Ontario","v_CA21_4890","Arab",0.00145724627462041,0.0199814509929807,-0.0185242047183603,0.0729299526411934
+"129","3547","Renfrew (CTY)","35","Ontario","v_CA21_4893","Latin American",0.00253842899450007,0.01751905343821,-0.01498062444371,0.144895328018329
+"130","3547","Renfrew (CTY)","35","Ontario","v_CA21_4896","Southeast Asian",0.00216236543975932,0.0118001746632544,-0.00963780922349507,0.183248596013829
+"131","3547","Renfrew (CTY)","35","Ontario","v_CA21_4899","West Asian",0.000799135053824096,0.0149174539659962,-0.0141183189121721,0.0535704722565724
+"132","3547","Renfrew (CTY)","35","Ontario","v_CA21_1189","Non-official languages",0.0409909274667419,0.266299946948603,-0.225309019481861,0.15392765915441
+"133","3547","Renfrew (CTY)","35","Ontario","v_CA21_1192","Indigenous languages (33)",0.000235039721712969,0.0010176503813078,-0.000782610659594828,0.230963134324105
+"134","3547","Renfrew (CTY)","35","Ontario","v_CA21_6087","28. Military science, leadership and operational art",0.000564095332111127,0.000150099037242981,0.000413996294868146,3.75815423251494
+"135","3547","Renfrew (CTY)","35","Ontario","v_CA21_4272","Total - Occupied private dwellings by dwelling condition",0.422601419639919,0.386053317708973,0.0365481019309465,1.09467112508666
+"136","3547","Renfrew (CTY)","35","Ontario","v_CA21_4288","Total - Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio",43990,5415420,-5371430,0.00812310033201488
+"137","3547","Renfrew (CTY)","35","Ontario","v_CA21_4311","Median value of dwellings ($) (60)",324000,7e+05,-376000,0.462857142857143
+"138","3547","Renfrew (CTY)","35","Ontario","v_CA21_4305","Total - Owner households in non-farm, non-reserve private dwellings",0.309030226108212,0.261408194718454,0.047622031389758,1.18217497519941
+"139","3547","Renfrew (CTY)","35","Ontario","v_CA21_4313","Total - Tenant households in non-farm, non-reserve private dwellings",0.105579842993466,0.121063485776306,-0.01548364278284,0.872103114464672
+"140","3547","Renfrew (CTY)","35","Ontario","v_CA21_4263","Total - Occupied private dwellings by period of construction",0.422601419639919,0.386053317708973,0.0365481019309465,1.09467112508666
+"141","3547","Renfrew (CTY)","35","Ontario","v_CA21_560","Median total income in 2020 among recipients ($)",42000,41200,800,1.01941747572816
+"142","3547","Renfrew (CTY)","35","Ontario","v_CA21_566","Median after-tax income in 2020 among recipients ($)",38000,37200,800,1.02150537634409
+"143","3547","Renfrew (CTY)","35","Ontario","v_CA21_1040","Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%)",10.6,10.1,0.5,1.04950495049505
+"144","3547","Renfrew (CTY)","35","Ontario","v_CA21_1010","LIM low-income status in 2020 for the population in private households",0.973816575001175,0.98648848540018,-0.0126719103990043,0.987154527816041
+"145","3547","Renfrew (CTY)","35","Ontario","v_CA21_1100","Adjusted after-tax family income decile group for the population in private households",103580,14031755,-13928175,0.00738182786116206
+"146","3547","Renfrew (CTY)","35","Ontario","v_CA21_4404","Total - Immigrant status and period of immigration for the population in private households",0.973816575001175,0.98648848540018,-0.0126719103990043,0.987154527816041
+"147","3547","Renfrew (CTY)","35","Ontario","v_CA21_4437","Total - Age at immigration for the immigrant population in private households",0.0534950406618719,0.295739746407852,-0.24224470574598,0.18088552963083
+"148","3547","Renfrew (CTY)","35","Ontario","v_CA21_6582","4 Occupations in education, law and social, community and government services",0.0857424904808913,0.0612530619149038,0.0244894285659875,1.39980741860725
+"149","3547","Renfrew (CTY)","35","Ontario","v_CA21_5847","Bachelor's degree or higher",0.120058289850985,0.248074689843364,-0.128016399992379,0.48396025377192
+"150","3547","Renfrew (CTY)","35","Ontario","v_CA21_4917","Total - Ethnic or cultural origin for the population in private households",0.973816575001175,0.98648848540018,-0.0126719103990043,0.987154527816041
