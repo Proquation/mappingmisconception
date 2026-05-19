@@ -10,8 +10,7 @@ const config = {
 			assets: "docs"
 		}),
 		paths: {
-			base: dev ? "" : ""
-			// base: dev ? "" : "/tariffs",
+			base: dev ? "" : "/mappingmisconception"
 		}
 	}
 };
